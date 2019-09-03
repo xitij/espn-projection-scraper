@@ -1,0 +1,5928 @@
+{
+  "players": [
+    {
+      "draftAuctionValue": 0,
+      "id": 14993,
+      "keeperValue": 4,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 5,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 1,
+            "rank": 193,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 194,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          17,
+          20,
+          21
+        ],
+        "firstName": "Greg",
+        "fullName": "Greg Zuerlein",
+        "id": 14993,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "4",
+        "lastName": "Zuerlein",
+        "lastNewsDate": 1560951748000,
+        "lastVideoDate": 1510602978000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 3.1532192339038305,
+          "auctionValueAverageChange": -0.043631159796956975,
+          "averageDraftPosition": 86.8263815690408,
+          "averageDraftPositionPercentChange": 0.6163820829278706,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 0.19846355474535926,
+          "percentOwned": 98.33686905858995,
+          "percentStarted": 95.76145915154964
+        },
+        "proTeamId": 14,
+        "seasonOutlook": "After pacing all kickers in fantasy points in 2017, Zuerlein missed five games in 2018, but still managed an 11th-place finish. Zuerlein was the top-scoring kicker when active and his nine top-10 weeks were two more than the next-closest kicker during those weeks. Incredibly, Zuerlein has produced 10-plus fantasy points in 18 of 27 games during Sean McVay's two seasons as head coach. The primary reason for the success has been volume. The Rams attempted 2.65 field goals per game (second most) in 2017 and 2.68 per game (most) in 2018, which are two of the five highest totals the NFL has seen during the past decade. Zuerlein has made 91.5 percent of his field goals over the past two seasons (fourth best). He is the clear No. 1 fantasy kicker option in 2019.",
+        "stats": [
+          {
+            "appliedAverage": 99.98701478375,
+            "appliedTotal": 1599.79223654,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "74": 3.965066045,
+              "75": 5.887562365,
+              "76": 1.922496321,
+              "77": 9.670680531,
+              "78": 11.74817055,
+              "79": 2.077490022,
+              "80": 20.3936583,
+              "81": 20.87023415,
+              "82": 0.476575852,
+              "83": 34.02940488,
+              "84": 38.50596707,
+              "85": 4.476562195,
+              "86": 45.73516628,
+              "87": 46.70357396,
+              "88": 0.96840768,
+              "198": 3.965066045,
+              "199": 5.887562365,
+              "200": 1.922496321,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 12,
+          "totalRanking": 130,
+          "totalRating": 1230.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 15683,
+      "keeperValue": 4,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 5,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 1,
+            "rank": 194,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 195,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          17,
+          20,
+          21
+        ],
+        "firstName": "Justin",
+        "fullName": "Justin Tucker",
+        "id": 15683,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "9",
+        "lastName": "Tucker",
+        "lastNewsDate": 1556117454000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 2.5085644371941274,
+          "auctionValueAverageChange": -0.006478542748566074,
+          "averageDraftPosition": 96.48655522647792,
+          "averageDraftPositionPercentChange": 1.193546339933647,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 0.14515548733014327,
+          "percentOwned": 98.31392790972914,
+          "percentStarted": 93.12310618970015
+        },
+        "proTeamId": 33,
+        "seasonOutlook": "Tucker was fantasy's No. 2 scoring kicker last season and has now finished no lower than 11th during any of his seven NFL seasons. His 10 top-10 fantasy weeks last season led the NFL. Baltimore's kicker remains one of the best in the business. He connected on 35 of 39 field goal attempts last season (89.7 percent) and has made 38 of 54 attempts (70.4 percent) from 50-plus yards during his career. The 29-year-old is an elite fantasy option.",
+        "stats": [
+          {
+            "appliedAverage": 93.096265268125,
+            "appliedTotal": 1489.54024429,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "74": 4.112083333,
+              "75": 5.79931016,
+              "76": 1.687226827,
+              "77": 9.937679814,
+              "78": 11.57207018,
+              "79": 1.634390362,
+              "80": 20.35182371,
+              "81": 20.55739769,
+              "82": 0.205573977,
+              "83": 34.40158686,
+              "84": 37.92877802,
+              "85": 3.527191166,
+              "86": 31.43210455,
+              "87": 31.74960056,
+              "88": 0.317496006,
+              "198": 4.112083333,
+              "199": 5.79931016,
+              "200": 1.687226827,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 2,
+          "totalRanking": 86,
+          "totalRating": 1550.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 2985659,
+      "keeperValue": 1,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 5,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 1,
+            "rank": 195,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 196,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          17,
+          20,
+          21
+        ],
+        "firstName": "Wil",
+        "fullName": "Wil Lutz",
+        "id": 2985659,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "3",
+        "lastName": "Lutz",
+        "lastNewsDate": 1552464089000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 1.6385493072534638,
+          "auctionValueAverageChange": 0.1281699228583313,
+          "averageDraftPosition": 114.03120555509078,
+          "averageDraftPositionPercentChange": 4.178163298833766,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 0.7009376826813281,
+          "percentOwned": 95.93235860088976,
+          "percentStarted": 88.13058032261458
+        },
+        "proTeamId": 18,
+        "seasonOutlook": "Lutz finished third in fantasy points last season after posting finishes of seventh and six during his first two NFL seasons. He attempted 53 extra points last season (second most) and has never ranked lower than second in the category in his career. Lutz has steadily improved his efficiency, improving from an 82.4 field goal conversion rate in 2016 to 86.1 percent in 2017 and 93.3 percent last season. The latter was fifth best in the league. The 24-year-old is one of the game's top kickers and works in the Saints' high-scoring offense. He's a solid starter in fantasy.",
+        "stats": [
+          {
+            "appliedAverage": 84.408178714375,
+            "appliedTotal": 1350.53085943,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "74": 3.100058495,
+              "75": 4.700222037,
+              "76": 1.600163542,
+              "77": 7.58994962,
+              "78": 9.378925726,
+              "79": 1.788976105,
+              "80": 16.04914083,
+              "81": 16.66134954,
+              "82": 0.612208707,
+              "83": 26.73914894,
+              "84": 30.7404973,
+              "85": 4.001348354,
+              "86": 46.72372031,
+              "87": 48.40051977,
+              "88": 1.676799458,
+              "198": 3.100058495,
+              "199": 4.700222037,
+              "200": 1.600163542,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 3,
+          "totalRanking": 95,
+          "totalRating": 1480.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3055899,
+      "keeperValue": 1,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 5,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 1,
+            "rank": 196,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 197,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          17,
+          20,
+          21
+        ],
+        "firstName": "Harrison",
+        "fullName": "Harrison Butker",
+        "id": 3055899,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "7",
+        "lastName": "Butker",
+        "lastNewsDate": 1560454895000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 1.8030179445350734,
+          "auctionValueAverageChange": 0.0234903854799553,
+          "averageDraftPosition": 115.4893748745064,
+          "averageDraftPositionPercentChange": 0.22969249782946122,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 0.11445587812633562,
+          "percentOwned": 96.1396603792267,
+          "percentStarted": 88.02725382444676
+        },
+        "proTeamId": 12,
+        "seasonOutlook": "After finishing seventh at the position in fantasy points in 2017, Butker improved to fifth in his second season. Butker attempted 15 fewer field goals last season, but his 69 extra-point attempts were 16 more than the next-closest kicker. His 89.9 percent field goal conversion rate is seventh best in the league during his two seasons in the league. He's missed only one of 41 attempts under 40 yards. The 24-year-old is one of the league's best young kickers and a strong fantasy option.",
+        "stats": [
+          {
+            "appliedAverage": 84.518989155625,
+            "appliedTotal": 1352.30382649,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "74": 3.015062111,
+              "75": 4.656588311,
+              "76": 1.641526199,
+              "77": 7.407311947,
+              "78": 9.291858035,
+              "79": 1.884546088,
+              "80": 15.70087146,
+              "81": 16.50667668,
+              "82": 0.805805222,
+              "83": 26.12324552,
+              "84": 30.45512303,
+              "85": 4.33187751,
+              "86": 50.21598995,
+              "87": 52.67689247,
+              "88": 2.460902514,
+              "198": 3.015062111,
+              "199": 4.656588311,
+              "200": 1.641526199,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 5,
+          "totalRanking": 103,
+          "totalRating": 1400.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 9704,
+      "keeperValue": 2,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 5,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 1,
+            "rank": 199,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 200,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          17,
+          20,
+          21
+        ],
+        "firstName": "Stephen",
+        "fullName": "Stephen Gostkowski",
+        "id": 9704,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "3",
+        "lastName": "Gostkowski",
+        "lastNewsDate": 1554819005000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 1.4594043247654018,
+          "auctionValueAverageChange": 0.016311984035265903,
+          "averageDraftPosition": 118.81671240211499,
+          "averageDraftPositionPercentChange": -0.054276325871384756,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -0.5626011366418027,
+          "percentOwned": 95.12362850115544,
+          "percentStarted": 85.10138714214025
+        },
+        "proTeamId": 17,
+        "seasonOutlook": "Gostkowski has finished as a top-three kicker six of the past eight seasons, but his two worst finishes in that span (eighth in 2016 and ninth in 2018) have come in the past three seasons. His 50 extra-point attempts last season were fourth most in the league. His efficiency was lacking last season, as he missed five of 32 field goal attempts, despite an average distance of 36.2 yards (second lowest). Gostkowski is now 35 years old, but just signed a contract extension to remain the kicker for one of the league's top offenses. He's a solid starting option.",
+        "stats": [
+          {
+            "appliedAverage": 81.9798774425,
+            "appliedTotal": 1311.67803908,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "74": 3.00262156,
+              "75": 4.693037575,
+              "76": 1.690416015,
+              "77": 7.393375728,
+              "78": 9.364589693,
+              "79": 1.971213965,
+              "80": 15.69601186,
+              "81": 16.63588205,
+              "82": 0.939870195,
+              "83": 26.09200914,
+              "84": 30.69350932,
+              "85": 4.601500175,
+              "86": 46.78606201,
+              "87": 49.47746623,
+              "88": 2.691404219,
+              "198": 3.00262156,
+              "199": 4.693037575,
+              "200": 1.690416015,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 9,
+          "totalRanking": 111,
+          "totalRating": 1320.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 2971573,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 5,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 1,
+            "rank": 200,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 201,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          17,
+          20,
+          21
+        ],
+        "firstName": "Ka'imi",
+        "fullName": "Ka'imi Fairbairn",
+        "id": 2971573,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "7",
+        "lastName": "Fairbairn",
+        "lastNewsDate": 1555365779000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 1.185894822666123,
+          "auctionValueAverageChange": -0.14266637991082765,
+          "averageDraftPosition": 133.11114457831326,
+          "averageDraftPositionPercentChange": -2.2155645468442344,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -0.8327448509399176,
+          "percentOwned": 91.26046160883163,
+          "percentStarted": 82.33734284407413
+        },
+        "proTeamId": 34,
+        "seasonOutlook": "John Christian Ka'iminoeauloameka'ikeokekumupa'a Fairbairn paced all kickers in fantasy points last season thanks to a league-high 42 field goal attempts. He converted on 37 (or 88.1 percent), which was a step forward after he hit 20 of 25 attempts in 2017. Fairbairn also ranked eighth in extra-point attempts (he made 39 of 41). Houston's kicker benefited greatly from a strong offense that struggled to convert drives into touchdowns. It's possible that dynamic changes in 2019, but an offensive line still full of holes makes a big leap unlikely. That should make the 25-year-old a viable weekly fantasy starter.",
+        "stats": [
+          {
+            "appliedAverage": 84.281096684375,
+            "appliedTotal": 1348.49754695,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "74": 3.419796919,
+              "75": 5.200266859,
+              "76": 1.78046994,
+              "77": 8.37733337,
+              "78": 10.37672609,
+              "79": 1.999392717,
+              "80": 17.72087597,
+              "81": 18.43390868,
+              "82": 0.713032709,
+              "83": 29.51800626,
+              "84": 34.01090163,
+              "85": 4.492895365,
+              "86": 36.97564858,
+              "87": 38.37959309,
+              "88": 1.403944505,
+              "198": 3.419796919,
+              "199": 5.200266859,
+              "200": 1.78046994,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 1,
+          "totalRanking": 78,
+          "totalRating": 1630.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 9354,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 5,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 1,
+            "rank": 201,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 202,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          17,
+          20,
+          21
+        ],
+        "firstName": "Robbie",
+        "fullName": "Robbie Gould",
+        "id": 9354,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "9",
+        "lastName": "Gould",
+        "lastNewsDate": 1563198281000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 1.0089722675367048,
+          "auctionValueAverageChange": -0.0046283051189859314,
+          "averageDraftPosition": 140.48085904152927,
+          "averageDraftPositionPercentChange": 0.6131167758850609,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 0.8060711487179191,
+          "percentOwned": 84.16190084601104,
+          "percentStarted": 75.01090220411417
+        },
+        "proTeamId": 25,
+        "seasonOutlook": "Gould has quietly been one of the most-reliable kickers in fantasy in recent seasons. The veteran has finished as a top-eight fantasy kicker three of the past four seasons, with the only exception a 2016 campaign in which he sat out the first half. Gould converted a league-best 33 of his 34 field goal attempts last season after missing only two kicks in 2017 and hitting 10 of 10 tries in 2016. All told, he has made 89 of his past 92 field goal attempts tracing back to late in the 2015 season. The red-hot Gould is now 36 years old and positioned for another run at a top-10 fantasy campaign.",
+        "stats": [
+          {
+            "appliedAverage": 83.48315371125,
+            "appliedTotal": 1335.73045938,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "74": 3.362393948,
+              "75": 4.818906183,
+              "76": 1.456512235,
+              "77": 8.148872208,
+              "78": 9.615750664,
+              "79": 1.466878455,
+              "80": 16.91124055,
+              "81": 17.08206116,
+              "82": 0.170820612,
+              "83": 28.4225067,
+              "84": 31.51671801,
+              "85": 3.094211302,
+              "86": 36.89879209,
+              "87": 37.27150716,
+              "88": 0.372715072,
+              "198": 3.362393948,
+              "199": 4.818906183,
+              "200": 1.456512235,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 7,
+          "totalRanking": 106,
+          "totalRating": 1360.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3123052,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 5,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 1,
+            "rank": 202,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 203,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          17,
+          20,
+          21
+        ],
+        "firstName": "Mike",
+        "fullName": "Mike Badgley",
+        "id": 3123052,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "4",
+        "lastName": "Badgley",
+        "lastNewsDate": 1560951297000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.8955102040816326,
+          "auctionValueAverageChange": -0.027070441079657726,
+          "averageDraftPosition": 152.43425281199785,
+          "averageDraftPositionPercentChange": -0.19781371080992471,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 0.9659879049206239,
+          "percentOwned": 72.58203314999813,
+          "percentStarted": 65.8323044112695
+        },
+        "proTeamId": 24,
+        "seasonOutlook": "Badgley went undrafted last offseason, but signed on with the Chargers to replace Caleb Sturgis during the 2018 regular season. The Miami product proved to be a big upgrade. Badgley was the Chargers' kicker for 10 games and ranked 10th in fantasy points during those weeks. He attempted only 16 field goals, but converted 15 (a single-season franchise-record 93.8 percent) and made 27 of 28 extra points. Badgley also connected on five of six attempts in the playoffs. The 23-year-old has brought some much-needed stability to the Chargers' kicking game and is a fringe starting option.",
+        "stats": [
+          {
+            "appliedAverage": 82.03425797499999,
+            "appliedTotal": 1312.5481275999998,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "74": 3.199192704,
+              "75": 4.901736558,
+              "76": 1.702543853,
+              "77": 7.847959528,
+              "78": 9.781032203,
+              "79": 1.933072675,
+              "80": 16.61749348,
+              "81": 17.37567832,
+              "82": 0.758184838,
+              "83": 27.66464571,
+              "84": 32.05844708,
+              "85": 4.393801367,
+              "86": 40.14814111,
+              "87": 41.88795017,
+              "88": 1.739809055,
+              "198": 3.199192704,
+              "199": 4.901736558,
+              "200": 1.702543853,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 28,
+          "totalRanking": 241,
+          "totalRating": 770.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 1097,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 5,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 1,
+            "rank": 203,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 204,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          17,
+          20,
+          21
+        ],
+        "firstName": "Adam",
+        "fullName": "Adam Vinatieri",
+        "id": 1097,
+        "injured": false,
+        "injuryStatus": "QUESTIONABLE",
+        "jersey": "4",
+        "lastName": "Vinatieri",
+        "lastNewsDate": 1565376093000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.786530612244898,
+          "auctionValueAverageChange": 0.011458979007075598,
+          "averageDraftPosition": 152.0013219987282,
+          "averageDraftPositionPercentChange": -0.5924521847081792,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -2.2437938913068223,
+          "percentOwned": 69.09973554498839,
+          "percentStarted": 58.501049129036666
+        },
+        "proTeamId": 11,
+        "seasonOutlook": "Vinatieri missed one game last season, but still finished 13th in fantasy points and registered eight top-10 weeks (tied for third most). The future Hall of Famer's production has been inconsistent in recent seasons, as he's finished four of his past nine seasons as a top-five fantasy kicker, but 13th or worse the other five seasons. His production has been better when Andrew Luck has been under center, which helps his cause in 2019. On the other hand, it's fair to wonder if Vinatieri's play has slipped a bit, as he's converted only 85.3 percent of his field goal attempts over the past two seasons (he was at 90.7 percent the previous four seasons). Nonetheless, the 46-year-old is back for his 25th NFL season and is on the top-10 radar as the kicker for the high-scoring Colts.",
+        "stats": [
+          {
+            "appliedAverage": 78.2570205875,
+            "appliedTotal": 1252.1123294,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "74": 2.891692419,
+              "75": 4.426388227,
+              "76": 1.534695808,
+              "77": 7.092373231,
+              "78": 8.83251176,
+              "79": 1.740138529,
+              "80": 15.01572725,
+              "81": 15.6906633,
+              "82": 0.674936058,
+              "83": 24.9997929,
+              "84": 28.94956329,
+              "85": 3.949770395,
+              "86": 43.12563204,
+              "87": 44.96539752,
+              "88": 1.839765474,
+              "198": 2.891692419,
+              "199": 4.426388227,
+              "200": 1.534695808,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 14,
+          "totalRanking": 140,
+          "totalRating": 1190.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 16486,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 5,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 1,
+            "rank": 205,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 206,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          17,
+          20,
+          21
+        ],
+        "firstName": "Brett",
+        "fullName": "Brett Maher",
+        "id": 16486,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "2",
+        "lastName": "Maher",
+        "lastNewsDate": 1565284596000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.6306563391765185,
+          "auctionValueAverageChange": 0.02507294619155076,
+          "averageDraftPosition": 160.77121678602504,
+          "averageDraftPositionPercentChange": -1.2541012156848694,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -0.0066751552711821205,
+          "percentOwned": 52.27253008762906,
+          "percentStarted": 43.794697636370394
+        },
+        "proTeamId": 6,
+        "stats": [
+          {
+            "appliedAverage": 79.32637707875,
+            "appliedTotal": 1269.22203326,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "74": 3.147287063,
+              "75": 5.114666623,
+              "76": 1.967379561,
+              "77": 7.807991206,
+              "78": 10.20591751,
+              "79": 2.397926301,
+              "80": 16.66272945,
+              "81": 18.13047292,
+              "82": 1.46774347,
+              "83": 27.61800772,
+              "84": 33.45105705,
+              "85": 5.833049332,
+              "86": 39.15010209,
+              "87": 42.50154002,
+              "88": 3.351437921,
+              "198": 3.147287063,
+              "199": 5.114666623,
+              "200": 1.967379561,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 10,
+          "totalRanking": 118,
+          "totalRating": 1300.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 14922,
+      "keeperValue": 14,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 208,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 211,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Mohamed",
+        "fullName": "Mohamed Sanu",
+        "id": 14922,
+        "injured": false,
+        "injuryStatus": "QUESTIONABLE",
+        "jersey": "12",
+        "lastName": "Sanu",
+        "lastNewsDate": 1565632530000,
+        "lastVideoDate": 1512764525000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.27793240556660037,
+          "auctionValueAverageChange": 0.03940029547485724,
+          "averageDraftPosition": 162.89341243521588,
+          "averageDraftPositionPercentChange": 1.0079462895086237,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 0.934959763955149,
+          "percentOwned": 27.965304050936606,
+          "percentStarted": 2.015317892405647
+        },
+        "proTeamId": 1,
+        "seasonOutlook": "Many think of Julio Jones and Calvin Ridley when discussing Falcons wide receivers, but it was actually Sanu who paced the unit in snaps (789) last season. Sanu worked ahead of Ridley most weeks and quietly tied him in targets (92). Sanu posted a 66/838/4 line and finished 31st in fantasy points (he was 29th in 2017). Sanu is still in his prime at age-29 and is a super reliable short-area target for Matt Ryan. Sanu has ranked Top 15 in catch rate and Bottom 15 in aDOT during each of the past four seasons. He posted a career-high 9.1 YPT in 2018. Touchdowns are the red flag here, as Sanu has never cleared five in a season. The veteran slot man figures to defer some target to second-year Ridley, but there are plenty to go around in this offense. Sanu remains a sneaky flex in deeper leagues.",
+        "stats": [
+          {
+            "appliedAverage": 76.657576939375,
+            "appliedTotal": 1226.52123103,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 5.414373622,
+              "24": 31.93613754,
+              "25": 0.220243489,
+              "26": 0.009097043,
+              "27": 6.0,
+              "28": 3.0,
+              "29": 1.0,
+              "30": 1.0,
+              "33": 1.0,
+              "35": 0.009960617,
+              "36": 0.006972432,
+              "37": 0.002578682,
+              "38": 8.80005E-5,
+              "39": 5.898399292,
+              "40": 1.996008596,
+              "42": 685.6051465,
+              "43": 3.638672197,
+              "44": 0.167609641,
+              "45": 0.230276525,
+              "46": 0.150485709,
+              "47": 137.0,
+              "48": 68.0,
+              "49": 34.0,
+              "50": 27.0,
+              "51": 13.0,
+              "53": 56.66809571,
+              "54": 11.0,
+              "55": 5.0,
+              "56": 1.015130207,
+              "57": 0.03139578,
+              "58": 80.10999182,
+              "60": 12.09860924,
+              "61": 42.85032166,
+              "62": 0.176706683,
+              "63": 0.003434581,
+              "66": 0.076218505,
+              "67": 0.797720626,
+              "68": 0.873939131,
+              "70": 0.035060512,
+              "71": 0.446723551,
+              "72": 0.481784063,
+              "73": 0.481784063,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 28,
+          "totalRanking": 89,
+          "totalRating": 1513.75
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3121410,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 209,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 1,
+            "rank": 171,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Parris",
+        "fullName": "Parris Campbell",
+        "id": 3121410,
+        "injured": false,
+        "injuryStatus": "QUESTIONABLE",
+        "jersey": "15",
+        "lastName": "Campbell",
+        "lastNewsDate": 1565621928000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.3800238758456029,
+          "auctionValueAverageChange": -0.016588685904573575,
+          "averageDraftPosition": 166.4092196926769,
+          "averageDraftPositionPercentChange": -1.4969064594279757,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -3.8316159176467224,
+          "percentOwned": 23.752148338215004,
+          "percentStarted": 0.6535789499164871
+        },
+        "proTeamId": 11,
+        "seasonOutlook": "The Colts selected Campbell in the second round of April's draft. It's a terrific landing spot, as the Colts' wide receiver depth chart is wide open behind T.Y. Hilton. Campbell was used extremely close to the line of scrimmage last season, posting a prospect-low 4.6 average depth of target and prospect-high 83 percent catch rate on 109 targets. Campbell, who checks in at 6-foot, 205 pounds, is extremely fast and athletic (receiver-best 4.31 40-yard dash and 4.03 short shuttle at the combine). The Ohio State product primarily worked from the slot (91 percent) last season and that's where he figures to align in Indianapolis, while also contributing as a rusher and kick returner (think Randall Cobb). Campbell will play a lot early in a high-scoring offense, which makes him a logical late-round flier.",
+        "stats": [
+          {
+            "appliedAverage": 55.38122656687501,
+            "appliedTotal": 886.0996250700001,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 10.14255408,
+              "24": 60.72614388,
+              "25": 0.270068031,
+              "26": 0.012357503,
+              "27": 12.0,
+              "28": 6.0,
+              "29": 3.0,
+              "30": 2.0,
+              "31": 1.0,
+              "33": 2.0,
+              "34": 1.0,
+              "35": 0.018710085,
+              "36": 0.01309706,
+              "37": 0.009747325,
+              "38": 3.33E-4,
+              "39": 5.987263503,
+              "40": 3.795383992,
+              "42": 432.9179826,
+              "43": 2.883302079,
+              "44": 0.126666118,
+              "45": 0.129018469,
+              "46": 0.08431357,
+              "47": 86.0,
+              "48": 43.0,
+              "49": 21.0,
+              "50": 17.0,
+              "51": 8.0,
+              "53": 40.25796213,
+              "54": 8.0,
+              "55": 4.0,
+              "56": 0.294456636,
+              "57": 0.009106906,
+              "58": 58.29555107,
+              "60": 10.75359903,
+              "61": 27.05737391,
+              "62": 0.139023621,
+              "63": 0.00207382,
+              "66": 0.106191782,
+              "67": 0.421497848,
+              "68": 0.52768963,
+              "70": 0.04884822,
+              "71": 0.236038795,
+              "72": 0.284887014,
+              "73": 0.284887014,
+              "101": 0.079272,
+              "114": 297.27,
+              "116": 29.0,
+              "117": 11.0,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 0,
+          "totalRanking": 0,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3126486,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 210,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 212,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Deebo",
+        "fullName": "Deebo Samuel",
+        "id": 3126486,
+        "injured": false,
+        "injuryStatus": "QUESTIONABLE",
+        "jersey": "19",
+        "lastName": "Samuel",
+        "lastNewsDate": 1565720656000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.13200795228628232,
+          "auctionValueAverageChange": 0.04943914494683277,
+          "averageDraftPosition": 169.15279884013532,
+          "averageDraftPositionPercentChange": 0.43461200151946855,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 0.9886502235020114,
+          "percentOwned": 11.716134656246405,
+          "percentStarted": 0.41588222118638424
+        },
+        "proTeamId": 25,
+        "seasonOutlook": "The 49ers spent the No. 36 overall pick in April's draft on Samuel, adding him to a wide receiver room that is highlighted by Dante Pettis and Marquise Goodwin. Samuel is one of the most versatile weapons among this year's rookies. The South Carolina product can play inside and out and contributes as a receiver, rusher and kick returner. He has sufficient size (5-foot-11, 214 pounds) with strong hands, route-running ability and is terrific after the catch (9.7 RAC last season). Durability is a concern, as he has struggled with hamstring injuries during his career. Samuel figures to at least play in three-wide sets as a rookie and could push for more on what is a wide-open depth chart. He's worth a late-round flier.",
+        "stats": [
+          {
+            "appliedAverage": 62.69036039,
+            "appliedTotal": 940.35540585,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 3.733873031,
+              "24": 22.70222344,
+              "25": 0.142322108,
+              "26": 0.005449017,
+              "27": 4.0,
+              "28": 2.0,
+              "29": 1.0,
+              "35": 0.006862424,
+              "36": 0.004803697,
+              "37": 0.00125589,
+              "38": 4.28587E-5,
+              "39": 6.08007376,
+              "40": 1.507201556,
+              "42": 523.4957191,
+              "43": 2.964483903,
+              "44": 0.145396851,
+              "45": 0.170434534,
+              "46": 0.111378968,
+              "47": 104.0,
+              "48": 52.0,
+              "49": 26.0,
+              "50": 20.0,
+              "51": 10.0,
+              "53": 41.73694227,
+              "54": 8.0,
+              "55": 4.0,
+              "56": 0.482993297,
+              "57": 0.014937937,
+              "58": 65.88308888,
+              "60": 12.54274249,
+              "61": 34.75490251,
+              "62": 0.150845868,
+              "63": 0.001870979,
+              "66": 0.039093371,
+              "67": 0.436982659,
+              "68": 0.47607603,
+              "70": 0.017982951,
+              "71": 0.244710289,
+              "72": 0.26269324,
+              "73": 0.26269324,
+              "101": 0.019818,
+              "114": 74.3175,
+              "116": 7.0,
+              "117": 2.0,
+              "210": 15.0625
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 0,
+          "totalRanking": 0,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 1,
+      "id": 10475,
+      "keeperValue": 8,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 4,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 211,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 1,
+            "rank": 166,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          5,
+          6,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Greg",
+        "fullName": "Greg Olsen",
+        "id": 10475,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "88",
+        "lastName": "Olsen",
+        "lastNewsDate": 1558536372000,
+        "lastVideoDate": 1565632081000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.921272365805169,
+          "auctionValueAverageChange": 0.024379710437937407,
+          "averageDraftPosition": 137.56257707562577,
+          "averageDraftPositionPercentChange": -0.16071558215168125,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -0.5505857332607604,
+          "percentOwned": 64.9843915781985,
+          "percentStarted": 17.661741887607096
+        },
+        "proTeamId": 29,
+        "seasonOutlook": "Injuries have derailed Olsen's past two seasons, limiting the veteran tight end to 44 catches for 482 yards and five touchdowns in 16 games during that span. Olsen played a majority of the snaps in seven games last season and was fantasy's No. 8 scoring tight end. Olsen's slump came after he ranked no lower than second at the position in snaps in five consecutive seasons, finishing each as a top-seven fantasy tight end. Olsen is expected back for Week 1 and should be no lower than third on the team in targets behind Christian McCaffrey and DJ Moore. Olsen is no spring chicken at 34 years old, but he's an obvious rebound candidate and can be had at a major discount late in drafts. He's worth a flier.",
+        "stats": [
+          {
+            "appliedAverage": 74.68769823266668,
+            "appliedTotal": 1120.3154734900002,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 600.6288296,
+              "43": 4.74777458,
+              "44": 0.280655617,
+              "45": 0.195708232,
+              "46": 0.127895329,
+              "47": 120.0,
+              "48": 60.0,
+              "49": 30.0,
+              "50": 24.0,
+              "51": 12.0,
+              "53": 46.89002749,
+              "54": 9.0,
+              "55": 4.0,
+              "56": 0.704960811,
+              "57": 0.0218,
+              "58": 73.09188338,
+              "60": 12.80930854,
+              "61": 39.87577292,
+              "62": 0.280655617,
+              "63": 0.00188,
+              "67": 0.478203633,
+              "68": 0.478203633,
+              "71": 0.267794035,
+              "72": 0.267794035,
+              "73": 0.267794035,
+              "210": 15.0625
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 24,
+          "totalRanking": 269,
+          "totalRating": 666.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 16504,
+      "keeperValue": 2,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 4,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 214,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 219,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          5,
+          6,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Jack",
+        "fullName": "Jack Doyle",
+        "id": 16504,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "84",
+        "lastName": "Doyle",
+        "lastNewsDate": 1565448092000,
+        "lastVideoDate": 1546288389000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.147175815433572,
+          "auctionValueAverageChange": -0.2454795517980664,
+          "averageDraftPosition": 165.85973303114636,
+          "averageDraftPositionPercentChange": -5.428859016240693,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -7.8641001761574,
+          "percentOwned": 32.98705135148442,
+          "percentStarted": 8.672640441140269
+        },
+        "proTeamId": 11,
+        "seasonOutlook": "Fellow tight end Eric Ebron stole the headlines last season, but it was Doyle, not Ebron,  who was (and still is) the Colts' No. 1 tight end. Doyle missed 10 games due to a pair of injuries, but during the six games both he and Ebron were active, Doyle ran 151 routes and was targeted 33 times, compared to 101 routes and 22 targets for Ebron. Doyle posted a 26-245-2 line and was fantasy's No. 6 tight end during those six weeks. Sure-handed Doyle has ranked top five in catch rate each of the past five seasons, though he does nearly all of his damage in the short area (5.0 career aDOT). Doyle caught 80 passes in 15 games in 2017, which was second-most at the position. The 29-year-old Doyle is a better two-way player than Ebron and both are likely ticketed for big 2019 roles. Consider Doyle a fringe TE1.",
+        "stats": [
+          {
+            "appliedAverage": 67.437564686,
+            "appliedTotal": 1011.56347029,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 482.922354,
+              "43": 4.40792593,
+              "44": 0.19364425,
+              "45": 0.094277655,
+              "46": 0.061610447,
+              "47": 96.0,
+              "48": 48.0,
+              "49": 24.0,
+              "50": 19.0,
+              "51": 9.0,
+              "53": 53.74014145,
+              "54": 10.0,
+              "55": 5.0,
+              "56": 0.390689572,
+              "57": 0.012083183,
+              "58": 69.95466128,
+              "60": 8.986250146,
+              "61": 32.06123512,
+              "62": 0.19364425,
+              "63": 0.003013769,
+              "67": 0.766862313,
+              "68": 0.766862313,
+              "71": 0.429442895,
+              "72": 0.429442895,
+              "73": 0.429442895,
+              "210": 15.0625
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 36,
+          "totalRanking": 324,
+          "totalRating": 475.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 13232,
+      "keeperValue": 8,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 4,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 216,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 1,
+            "rank": 235,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          5,
+          6,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Jimmy",
+        "fullName": "Jimmy Graham",
+        "id": 13232,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "80",
+        "lastName": "Graham",
+        "lastNewsDate": 1565206353000,
+        "lastVideoDate": 1542836383000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.5506958250497018,
+          "auctionValueAverageChange": -0.02164009591007232,
+          "averageDraftPosition": 152.99136796147243,
+          "averageDraftPositionPercentChange": -0.7213347957508063,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 0.07430860259277239,
+          "percentOwned": 43.6992007066661,
+          "percentStarted": 10.14667002005901
+        },
+        "proTeamId": 9,
+        "seasonOutlook": "Despite high expectations, Graham's first season with Aaron Rodgers was a disappointment. Graham appeared in all 16 of Green Bay's games but finished 12th in fantasy points. He averaged 8.2 fantasy points per game, which was his worst mark in the category since his rookie season (2010). Only three tight ends ran more routes, but Graham barely cracked the top 10 in targets (84), receptions (55) and receiving yards (636). The biggest culprit was touchdowns. Once a dominant force in the area, Graham was held to just two scores. On the plus side, his seven end-zone targets (eighth most) and 4.8 OTD suggest regression to the mean is on tap in 2019. The 32-year-old is best-viewed as a TE2, but has TE1 upside.",
+        "stats": [
+          {
+            "appliedAverage": 63.99905228875,
+            "appliedTotal": 1023.98483662,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 529.9401087,
+              "43": 4.473549698,
+              "44": 0.211328525,
+              "45": 0.15462413,
+              "46": 0.101046869,
+              "47": 105.0,
+              "48": 52.0,
+              "49": 26.0,
+              "50": 21.0,
+              "51": 10.0,
+              "53": 45.24478844,
+              "54": 9.0,
+              "55": 4.0,
+              "56": 0.50114102,
+              "57": 0.015499207,
+              "58": 68.41075794,
+              "60": 11.7127326,
+              "61": 33.12125679,
+              "62": 0.211328525,
+              "63": 0.001727235,
+              "67": 0.439500067,
+              "68": 0.439500067,
+              "71": 0.246120038,
+              "72": 0.246120038,
+              "73": 0.246120038,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 14,
+          "totalRanking": 176,
+          "totalRating": 1031.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3039707,
+      "keeperValue": 18,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 1,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 217,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 1,
+            "rank": 176,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          0,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Mitchell",
+        "fullName": "Mitchell Trubisky",
+        "id": 3039707,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "10",
+        "lastName": "Trubisky",
+        "lastNewsDate": 1565798932000,
+        "lastVideoDate": 1544213855000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.7929936305732485,
+          "auctionValueAverageChange": 0.00823710269745448,
+          "averageDraftPosition": 149.71965717906392,
+          "averageDraftPositionPercentChange": -1.413111789372465,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -0.8974509717844015,
+          "percentOwned": 49.34710307671539,
+          "percentStarted": 14.344096314568683
+        },
+        "proTeamId": 3,
+        "seasonOutlook": "Trubisky took a giant step forward in his second season, throwing for 3,223 yards and 24 touchdowns, while adding 421 yards (fifth most among quarterbacks) and three touchdowns with his legs in 14 games. He ranked 11th in fantasy points per game. A closer look shows average or worse efficiency nearly across the board, including a 2.8 percent interception rate (11th worst). Trubisky has struggled with accuracy, as shown by his 20 percent off-target rate in 2017 (sixth worst) and 19 percent rate in 2018 (seventh worst). Trubisky's rushing ability and good supporting cast help his fantasy appeal, but he hasn't proven to be a good -- or even average -- starting quarterback yet. Consider him a midrange QB2.",
+        "stats": [
+          {
+            "appliedAverage": 197.68202558466666,
+            "appliedTotal": 2965.23038377,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "0": 532.2780383,
+              "1": 345.7193193,
+              "2": 186.558719,
+              "3": 3895.803483,
+              "4": 24.57893861,
+              "5": 779.0,
+              "6": 389.0,
+              "7": 194.0,
+              "8": 155.0,
+              "9": 77.0,
+              "10": 38.0,
+              "11": 69.0,
+              "12": 34.0,
+              "15": 3.211502993,
+              "16": 2.098717206,
+              "17": 3.266167746,
+              "18": 0.441173623,
+              "19": 1.222957247,
+              "20": 12.32531457,
+              "21": 0.649508893,
+              "22": 248.1403492,
+              "23": 66.79227019,
+              "24": 385.9684428,
+              "25": 2.738161774,
+              "26": 0.101404746,
+              "27": 77.0,
+              "28": 38.0,
+              "29": 19.0,
+              "30": 15.0,
+              "31": 7.0,
+              "33": 13.0,
+              "34": 6.0,
+              "35": 0.127220373,
+              "36": 0.089054261,
+              "37": 0.406036655,
+              "38": 0.013856473,
+              "39": 5.77863938,
+              "40": 24.58397725,
+              "62": 1.324361993,
+              "63": 0.03373633,
+              "64": 34.35844246,
+              "65": 7.679130354,
+              "66": 0.905177423,
+              "68": 8.584307777,
+              "69": 3.68598257,
+              "70": 0.416381615,
+              "72": 4.102364184,
+              "73": 16.42767876,
+              "210": 15.7
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 15,
+          "totalRanking": 21,
+          "totalRating": 2829.05
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 2969939,
+      "keeperValue": 9,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 1,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 219,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 1,
+            "rank": 220,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          0,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Jameis",
+        "fullName": "Jameis Winston",
+        "id": 2969939,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "3",
+        "lastName": "Winston",
+        "lastNewsDate": 1565461150000,
+        "lastVideoDate": 1565285198000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.67078025477707,
+          "auctionValueAverageChange": 0.12063901183921688,
+          "averageDraftPosition": 159.45980058690142,
+          "averageDraftPositionPercentChange": 1.9555818331899104,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 2.718482981170112,
+          "percentOwned": 33.49569356857164,
+          "percentStarted": 9.185826810296174
+        },
+        "proTeamId": 27,
+        "seasonOutlook": "Winston's 2018 season was marred by a three-game suspension and an interception-fueled benching, but he still ended up showing improvement in several areas. Winston completed 65 percent of his passes and was off target on 16 percent of his attempts, both of which were career-best marks. Winston also rushed for a career-high 281 yards despite appearing in just 11 games. During the nine weeks he started, Winston ranked fourth in fantasy points. He continues to struggle with interceptions (58 in 56 career games), though part of that is a product of a propensity for attacking deep down field (he's ranked top five in aDOT in all four seasons). Winston has flashed enough to keep him in the QB2 mix.",
+        "stats": [
+          {
+            "appliedAverage": 207.86900338285713,
+            "appliedTotal": 2910.16604736,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "0": 542.5009447,
+              "1": 341.6554821,
+              "2": 200.8454626,
+              "3": 4387.19661,
+              "4": 26.43450481,
+              "5": 877.0,
+              "6": 438.0,
+              "7": 219.0,
+              "8": 175.0,
+              "9": 87.0,
+              "10": 43.0,
+              "11": 68.0,
+              "12": 34.0,
+              "15": 4.002459562,
+              "16": 2.615607324,
+              "17": 5.14738996,
+              "18": 0.695277418,
+              "19": 1.162075571,
+              "20": 16.97534567,
+              "21": 0.629778594,
+              "22": 293.4579672,
+              "23": 61.03369518,
+              "24": 277.1804609,
+              "25": 1.405547375,
+              "26": 0.067953765,
+              "27": 55.0,
+              "28": 27.0,
+              "29": 13.0,
+              "30": 11.0,
+              "31": 5.0,
+              "33": 12.0,
+              "34": 6.0,
+              "35": 0.115879513,
+              "36": 0.081115659,
+              "37": 0.208980464,
+              "38": 0.007131701,
+              "39": 4.541433385,
+              "40": 18.54049905,
+              "62": 1.230029337,
+              "63": 0.037199167,
+              "64": 38.95464485,
+              "65": 8.56626152,
+              "66": 0.899175455,
+              "68": 9.465436975,
+              "69": 4.11180553,
+              "70": 0.413620709,
+              "72": 4.525426239,
+              "73": 21.5007719,
+              "210": 14.95
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 23,
+          "totalRanking": 50,
+          "totalRating": 2048.2
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 5529,
+      "keeperValue": 28,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 1,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 221,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 1,
+            "rank": 223,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          0,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Philip",
+        "fullName": "Philip Rivers",
+        "id": 5529,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "17",
+        "lastName": "Rivers",
+        "lastNewsDate": 1565294604000,
+        "lastVideoDate": 1544727496000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.7606531262445241,
+          "auctionValueAverageChange": -0.04809775590085352,
+          "averageDraftPosition": 152.23797772293736,
+          "averageDraftPositionPercentChange": -3.153904243358255,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -2.06842429753749,
+          "percentOwned": 53.279161045014106,
+          "percentStarted": 11.655218937814302
+        },
+        "proTeamId": 24,
+        "seasonOutlook": "Rivers enjoyed one of the best seasons of his career in 2018, throwing 32 touchdowns, which matched his second-highest total of the past decade. Rivers also cleared 4,200 passing yards for the sixth consecutive season and finished top five in yards per completion for the third consecutive season. Despite yet another terrific passing season, Rivers was limited to six top-10 fantasy weeks and failed to finish as a top-10 fantasy QB for the fourth time in five seasons. The culprit? Minimal rushing contributions. Rivers hasn't scored a rushing touchdown since 2011 and has a total of 5 rushing yards on 36 carries over the past two seasons. Unless your league awards more points for passing categories, Rivers is limited to QB2 territory.",
+        "stats": [
+          {
+            "appliedAverage": 196.16023489,
+            "appliedTotal": 2942.40352335,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "0": 539.2582466,
+              "1": 354.7411234,
+              "2": 184.5171232,
+              "3": 4250.599465,
+              "4": 30.06240579,
+              "5": 850.0,
+              "6": 425.0,
+              "7": 212.0,
+              "8": 170.0,
+              "9": 85.0,
+              "10": 42.0,
+              "11": 70.0,
+              "12": 35.0,
+              "15": 3.775756967,
+              "16": 2.467457178,
+              "17": 4.568140042,
+              "18": 0.617035942,
+              "19": 1.370219293,
+              "20": 12.25909695,
+              "21": 0.657831615,
+              "22": 270.7388194,
+              "23": 19.17792988,
+              "24": 33.09417182,
+              "25": 0.222545169,
+              "26": 0.009625658,
+              "27": 6.0,
+              "28": 3.0,
+              "29": 1.0,
+              "30": 1.0,
+              "33": 3.0,
+              "34": 1.0,
+              "35": 0.035560569,
+              "36": 0.024892398,
+              "37": 0.002809565,
+              "38": 9.58797E-5,
+              "39": 1.725638378,
+              "40": 2.107909033,
+              "62": 1.379844951,
+              "63": 0.0232,
+              "64": 31.60110557,
+              "65": 5.723392275,
+              "66": 0.192276461,
+              "68": 5.915668736,
+              "69": 2.747228292,
+              "70": 0.088447172,
+              "72": 2.835675464,
+              "73": 15.09477242,
+              "210": 15.7
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 10,
+          "totalRanking": 13,
+          "totalRating": 3154.8
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3128774,
+      "keeperValue": 1,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 2,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 224,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 1,
+            "rank": 229,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          2,
+          3,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Kalen",
+        "fullName": "Kalen Ballage",
+        "id": 3128774,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "27",
+        "lastName": "Ballage",
+        "lastNewsDate": 1565812591000,
+        "lastVideoDate": 1565888719000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.6729009152407481,
+          "auctionValueAverageChange": -0.03140395420173603,
+          "averageDraftPosition": 161.09158931457998,
+          "averageDraftPositionPercentChange": -3.291318302206122,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 3.6620246751801098,
+          "percentOwned": 30.75778993300965,
+          "percentStarted": 1.1111793989306127
+        },
+        "proTeamId": 15,
+        "seasonOutlook": "A 2018 fourth-round pick, Ballage was limited to 23 snaps through Week 14 of his rookie season. With Frank Gore sidelined, Ballage shared backfield duties with Kenyan Drake during Miami's final three games. Results varied, with Ballage showing his playmaking ability with a 75-yard touchdown run but otherwise managing 3.3 YPC (1.6 YAC) on his other 35 attempts. Ballage was limited to 56 yards on 11 targets (5.1 YPT). The boom/bust production aligns with Ballage's profile, as he made the occasional big play at Arizona State, but his overall efficiency was about as poor as you'll find. Kenyan Drake is the top dog in Miami, but Ballage is worth a late flier as a second-year, 23-year-old back on the roster of a rebuilding team.",
+        "stats": [
+          {
+            "appliedAverage": 69.234344526,
+            "appliedTotal": 1038.51516789,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 130.7935563,
+              "24": 561.6602879,
+              "25": 2.927178932,
+              "26": 0.096815792,
+              "27": 112.0,
+              "28": 56.0,
+              "29": 28.0,
+              "30": 22.0,
+              "31": 11.0,
+              "33": 26.0,
+              "34": 13.0,
+              "35": 0.258081061,
+              "36": 0.180656742,
+              "37": 0.866813949,
+              "38": 0.029581034,
+              "39": 4.294250449,
+              "40": 37.28864982,
+              "42": 172.3725633,
+              "43": 0.526470811,
+              "44": 0.024406627,
+              "45": 0.060593426,
+              "46": 0.039597804,
+              "47": 34.0,
+              "48": 17.0,
+              "49": 8.0,
+              "50": 6.0,
+              "51": 3.0,
+              "53": 21.62420015,
+              "54": 4.0,
+              "55": 2.0,
+              "56": 0.064753124,
+              "57": 0.002002674,
+              "58": 27.69557895,
+              "60": 7.971280422,
+              "61": 11.44382163,
+              "62": 0.121222419,
+              "63": 0.005644356,
+              "66": 1.232459494,
+              "67": 0.203763484,
+              "68": 1.436222979,
+              "70": 0.566931367,
+              "71": 0.114107551,
+              "72": 0.681038919,
+              "73": 0.681038919,
+              "210": 15.0625
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 87,
+          "totalRanking": 368,
+          "totalRating": 332.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3116721,
+      "keeperValue": 5,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 2,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 226,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 1,
+            "rank": 227,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          2,
+          3,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Jaylen",
+        "fullName": "Jaylen Samuels",
+        "id": 3116721,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "38",
+        "lastName": "Samuels",
+        "lastNewsDate": 1565467472000,
+        "lastVideoDate": 1545422807000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.390612569610183,
+          "auctionValueAverageChange": 0.07727453150150265,
+          "averageDraftPosition": 166.0872050393281,
+          "averageDraftPositionPercentChange": 1.5485199446245588,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 1.4716326468834602,
+          "percentOwned": 20.61000564707597,
+          "percentStarted": 0.6357514557918962
+        },
+        "proTeamId": 23,
+        "seasonOutlook": "After working with the tight ends during the 2018 combine, Samuels was drafted by Pittsburgh in the fifth round and \"converted\" to tailback. Samuels played 54 snaps off the bench during Weeks 1-13, but James Conner's injury forced him into lead back duties during the team's final four games. Samuels impressed, rushing for 225 yards on 44 carries (5.1 YPC) and catching 19 of 21 targets for 145 yards. Despite scoring one touchdown, Samuels ranked 12th among backs in fantasy points during that span. Samuels is a terrific pass-catcher (his 87 percent catch rate was second-best at the position), who is expected to open 2018 as a change-of-pace and receiving back behind Conner. Samuels and rookie Benny Snell Jr. would handle backfield duties in the event of a Conner injury.",
+        "stats": [
+          {
+            "appliedAverage": 59.73218100266665,
+            "appliedTotal": 895.9827150399998,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 74.23634472,
+              "24": 321.2467645,
+              "25": 1.657702008,
+              "26": 0.069067131,
+              "27": 64.0,
+              "28": 32.0,
+              "29": 16.0,
+              "30": 12.0,
+              "31": 6.0,
+              "33": 14.0,
+              "34": 7.0,
+              "35": 0.142029968,
+              "36": 0.099420978,
+              "37": 0.283778672,
+              "38": 0.00968,
+              "39": 4.327351592,
+              "40": 21.32758602,
+              "42": 241.2252124,
+              "43": 1.429096003,
+              "44": 0.076600167,
+              "45": 0.065627639,
+              "46": 0.042887662,
+              "47": 48.0,
+              "48": 24.0,
+              "49": 12.0,
+              "50": 9.0,
+              "51": 4.0,
+              "53": 30.58682288,
+              "54": 6.0,
+              "55": 3.0,
+              "56": 0.093371628,
+              "57": 0.002887782,
+              "58": 37.9723263,
+              "60": 7.886573028,
+              "61": 16.01495186,
+              "62": 0.145667298,
+              "63": 0.003105461,
+              "66": 0.559619544,
+              "67": 0.230574174,
+              "68": 0.790193718,
+              "70": 0.25742499,
+              "71": 0.129121537,
+              "72": 0.386546527,
+              "73": 0.386546527,
+              "210": 15.0625
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 56,
+          "totalRanking": 243,
+          "totalRating": 765.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 4040761,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 2,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 227,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 1,
+            "rank": 228,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          2,
+          3,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Devin",
+        "fullName": "Devin Singletary",
+        "id": 4040761,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "40",
+        "lastName": "Singletary",
+        "lastNewsDate": 1565319986000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.35575009948269,
+          "auctionValueAverageChange": 0.1278037339216455,
+          "averageDraftPosition": 167.7481085224811,
+          "averageDraftPositionPercentChange": 1.2356307350876534,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 3.252324802868447,
+          "percentOwned": 11.859255716525709,
+          "percentStarted": 0.2851452061097355
+        },
+        "proTeamId": 2,
+        "seasonOutlook": "The Bills selected Singletary in the third round of April's draft. He was added to a crowded backfield that also includes LeSean McCoy and offseason additions Frank Gore and T.J. Yeldon. Singletary is very undersized (5-foot-7, 203 pounds) and lacks home run speed (4.66 40-yard dash), but makes up for that with toughness and elusiveness. The Florida Atlantic star ran for 22 touchdowns and ranked among the top backs in the class in broken tackle rate and evaded tackle rate in 2018. Singletary can contribute as a receiver and is a strong pass-blocker. He's the current favorite to be Buffalo's lead back (and perhaps workhorse) in 2020, but he has a tough path to consistent touches in 2019. He's no more than a late-round flier.",
+        "stats": [
+          {
+            "appliedAverage": 43.972323927333335,
+            "appliedTotal": 659.58485891,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 76.75166019,
+              "24": 341.9177608,
+              "25": 1.875319731,
+              "26": 0.05456699,
+              "27": 68.0,
+              "28": 34.0,
+              "29": 17.0,
+              "30": 13.0,
+              "31": 6.0,
+              "33": 15.0,
+              "34": 7.0,
+              "35": 0.147040282,
+              "36": 0.102928198,
+              "37": 0.321142422,
+              "38": 0.010959359,
+              "39": 4.454858175,
+              "40": 22.69993433,
+              "42": 118.3174469,
+              "43": 0.393290312,
+              "44": 0.023437106,
+              "45": 0.063770913,
+              "46": 0.041674291,
+              "47": 23.0,
+              "48": 11.0,
+              "49": 5.0,
+              "50": 4.0,
+              "51": 2.0,
+              "53": 13.91882663,
+              "54": 2.0,
+              "55": 1.0,
+              "56": 0.048166928,
+              "57": 0.001489699,
+              "58": 18.76429632,
+              "60": 8.500533134,
+              "61": 7.855100212,
+              "62": 0.078004096,
+              "63": 0.003357723,
+              "66": 0.72322609,
+              "67": 0.131156232,
+              "68": 0.854382322,
+              "70": 0.332684001,
+              "71": 0.07344749,
+              "72": 0.406131491,
+              "73": 0.406131491,
+              "210": 15.0625
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 0,
+          "totalRanking": 0,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3916148,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 2,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 228,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 337,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          25,
+          2,
+          3,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Tony",
+        "fullName": "Tony Pollard",
+        "id": 3916148,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "36",
+        "lastName": "Pollard",
+        "lastNewsDate": 1565529533000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.2238568588469185,
+          "auctionValueAverageChange": 0.12993030517460213,
+          "averageDraftPosition": 168.1937370841944,
+          "averageDraftPositionPercentChange": 1.3720927424941465,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 6.647589965749887,
+          "percentOwned": 11.973075712452482,
+          "percentStarted": 0.4001113774484879
+        },
+        "proTeamId": 6,
+        "stats": [
+          {
+            "appliedAverage": 20.267938179,
+            "appliedTotal": 304.019072685,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 24.42560477,
+              "24": 100.0068437,
+              "25": 0.708317072,
+              "26": 0.016308471,
+              "27": 20.0,
+              "28": 10.0,
+              "29": 5.0,
+              "30": 4.0,
+              "31": 2.0,
+              "33": 4.0,
+              "34": 2.0,
+              "35": 0.045429616,
+              "36": 0.031800731,
+              "37": 0.026964471,
+              "38": 9.20194E-4,
+              "39": 4.094344629,
+              "40": 6.639458504,
+              "42": 77.70184073,
+              "43": 0.43147503,
+              "44": 0.018743157,
+              "45": 0.05415975,
+              "46": 0.035393397,
+              "47": 15.0,
+              "48": 7.0,
+              "49": 3.0,
+              "50": 3.0,
+              "51": 1.0,
+              "53": 9.678841507,
+              "54": 1.0,
+              "56": 0.035432231,
+              "57": 0.001095842,
+              "58": 12.83893261,
+              "60": 8.028010446,
+              "61": 5.15862843,
+              "62": 0.035051627,
+              "63": 0.001262961,
+              "66": 0.230160945,
+              "67": 0.091203118,
+              "68": 0.321364063,
+              "70": 0.105874035,
+              "71": 0.051073746,
+              "72": 0.156947781,
+              "73": 0.156947781,
+              "101": 0.19818,
+              "114": 743.175,
+              "116": 74.0,
+              "117": 29.0,
+              "210": 15.0625
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 0,
+          "totalRanking": 0,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3116136,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 2,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 229,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 275,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          2,
+          3,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Justin",
+        "fullName": "Justin Jackson",
+        "id": 3116136,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "22",
+        "lastName": "Jackson",
+        "lastNewsDate": 1565366042000,
+        "lastVideoDate": 1544553982000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.22832140015910898,
+          "auctionValueAverageChange": -0.026442184879705427,
+          "averageDraftPosition": 169.0568562430221,
+          "averageDraftPositionPercentChange": -0.3052068724575747,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -0.6617043570553474,
+          "percentOwned": 12.641683022571149,
+          "percentStarted": 0.5458783120706575
+        },
+        "proTeamId": 24,
+        "stats": [
+          {
+            "appliedAverage": 14.674278463666669,
+            "appliedTotal": 220.11417695500003,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 28.1564108,
+              "24": 117.0717896,
+              "25": 0.634334782,
+              "26": 0.027420974,
+              "27": 23.0,
+              "28": 11.0,
+              "29": 5.0,
+              "30": 4.0,
+              "31": 2.0,
+              "33": 5.0,
+              "34": 2.0,
+              "35": 0.05247887,
+              "36": 0.036735209,
+              "37": 0.036962381,
+              "38": 0.001261384,
+              "39": 4.157908847,
+              "40": 7.772400967,
+              "42": 33.6651747,
+              "43": 0.202409401,
+              "44": 0.009260827,
+              "45": 0.065020433,
+              "46": 0.042490853,
+              "47": 6.0,
+              "48": 3.0,
+              "49": 1.0,
+              "50": 1.0,
+              "53": 4.136701891,
+              "56": 0.018008254,
+              "57": 5.56956E-4,
+              "58": 5.321149075,
+              "60": 8.13816794,
+              "61": 2.235032345,
+              "62": 0.036681802,
+              "63": 9.56707E-4,
+              "66": 0.212252877,
+              "67": 0.031183906,
+              "68": 0.243436784,
+              "70": 0.097636324,
+              "71": 0.017462988,
+              "72": 0.115099311,
+              "73": 0.115099311,
+              "210": 15.0625
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 72,
+          "totalRanking": 301,
+          "totalRating": 536.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3115394,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 231,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 237,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "DJ",
+        "fullName": "DJ Chark",
+        "id": 3115394,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "17",
+        "lastName": "Chark",
+        "lastNewsDate": 1565327319000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.041384799044966177,
+          "auctionValueAverageChange": -0.015778221420806586,
+          "averageDraftPosition": 170.51033230010333,
+          "averageDraftPositionPercentChange": -0.040857940214579,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -0.8361212361291299,
+          "percentOwned": 6.036151155000868,
+          "percentStarted": 0.26797012629332806
+        },
+        "proTeamId": 30,
+        "seasonOutlook": "Chark was selected by Jacksonville in the second round of the 2018 draft. He was limited to 178 routes in 11 games, which allowed for a 14/174/0 receiving line. He failed to find the end zone despite three end zone targets and caught only 42 percent of his 33 targets. It obviously wasn't a great start to Chark's career, but also nothing to overreact to. The team's quarterback situation has gone from terrible to Nick Foles, and Chark is still only 22 years old. The speedy and super-athletic Chark is a solid deep sleeper.",
+        "stats": [
+          {
+            "appliedAverage": 65.148975055625,
+            "appliedTotal": 1042.38360089,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 614.8608292,
+              "43": 2.97531963,
+              "44": 0.166399241,
+              "45": 0.137428713,
+              "46": 0.089809664,
+              "47": 122.0,
+              "48": 61.0,
+              "49": 30.0,
+              "50": 24.0,
+              "51": 12.0,
+              "53": 48.34248261,
+              "54": 9.0,
+              "55": 4.0,
+              "56": 0.756011814,
+              "57": 0.023381809,
+              "58": 81.52434683,
+              "60": 12.71885091,
+              "61": 38.42880182,
+              "62": 0.166399241,
+              "63": 0.001989139,
+              "67": 0.506142172,
+              "68": 0.506142172,
+              "71": 0.283439616,
+              "72": 0.283439616,
+              "73": 0.283439616,
+              "101": 0.158544,
+              "114": 594.54,
+              "116": 59.0,
+              "117": 23.0,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 147,
+          "totalRanking": 418,
+          "totalRating": 224.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 2578533,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 234,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 238,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Chris",
+        "fullName": "Chris Conley",
+        "id": 2578533,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "18",
+        "lastName": "Conley",
+        "lastNewsDate": 1565906193000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.0238758456028651,
+          "auctionValueAverageChange": 0.002704356541467782,
+          "averageDraftPosition": 170.3941903873075,
+          "averageDraftPositionPercentChange": -0.2582562861057909,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 0.8834901937356936,
+          "percentOwned": 2.670353325415677,
+          "percentStarted": 0.20041567695961995
+        },
+        "proTeamId": 30,
+        "stats": [
+          {
+            "appliedAverage": 66.30554009125001,
+            "appliedTotal": 1060.8886414600001,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 601.4226681,
+              "43": 3.391635562,
+              "44": 0.189682338,
+              "45": 0.12510092,
+              "46": 0.081753451,
+              "47": 120.0,
+              "48": 60.0,
+              "49": 30.0,
+              "50": 24.0,
+              "51": 12.0,
+              "53": 52.19336956,
+              "54": 10.0,
+              "55": 5.0,
+              "56": 0.711279299,
+              "57": 0.021998329,
+              "58": 81.52434683,
+              "60": 11.5229707,
+              "61": 37.58891675,
+              "62": 0.189682338,
+              "63": 0.00315,
+              "67": 0.801933474,
+              "68": 0.801933474,
+              "71": 0.449082746,
+              "72": 0.449082746,
+              "73": 0.449082746,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 81,
+          "totalRanking": 249,
+          "totalRating": 754.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 4241372,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 235,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 210,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Marquise",
+        "fullName": "Marquise Brown",
+        "id": 4241372,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "15",
+        "lastName": "Brown",
+        "lastNewsDate": 1565907267000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.23000397930760047,
+          "auctionValueAverageChange": -0.16519714983848283,
+          "averageDraftPosition": 166.51419952668243,
+          "averageDraftPositionPercentChange": -3.701525680309146,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -3.6512121300384095,
+          "percentOwned": 25.533589181729035,
+          "percentStarted": 1.1797677994213145
+        },
+        "proTeamId": 33,
+        "seasonOutlook": "The Ravens selected Brown with the No. 25 pick in April's draft. The former Oklahoma Sooner is extremely small (5-foot-9, 166 pounds), but he is superfast with the ability to get behind the defense and make plays with the ball in his hands. Drops (eight last season) and durability (he suffered a Lisfranc injury prior to the draft) are red flags, but Brown has the skill set of DeSean Jackson and John Brown, which allows him plenty of upside. The biggest concern here is that Brown's short-term fantasy value will be hindered by Baltimore's extremely run-heavy offense and Lamar Jackson's shaky accuracy. Brown is only worth a late flier in 2019 fantasy drafts because he has a good chance to lead the team in targets as a rookie.",
+        "stats": [
+          {
+            "appliedAverage": 65.14563755733333,
+            "appliedTotal": 977.18456336,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 5.378849581,
+              "24": 32.63339145,
+              "25": 0.155384161,
+              "26": 0.00421763,
+              "27": 6.0,
+              "28": 3.0,
+              "29": 1.0,
+              "30": 1.0,
+              "33": 1.0,
+              "35": 0.009895097,
+              "36": 0.006926568,
+              "37": 0.00269,
+              "38": 9.19E-5,
+              "39": 6.066983462,
+              "40": 2.166532213,
+              "42": 579.903744,
+              "43": 2.707828443,
+              "44": 0.207081313,
+              "45": 0.196768368,
+              "46": 0.128588128,
+              "47": 115.0,
+              "48": 57.0,
+              "49": 28.0,
+              "50": 23.0,
+              "51": 11.0,
+              "53": 38.71557017,
+              "54": 7.0,
+              "55": 3.0,
+              "56": 0.641361566,
+              "57": 0.019835925,
+              "58": 70.47167904,
+              "60": 14.97856654,
+              "61": 38.49983363,
+              "62": 0.211298943,
+              "63": 0.001814345,
+              "66": 0.056316152,
+              "67": 0.40534912,
+              "68": 0.461665272,
+              "70": 0.02590543,
+              "71": 0.226995507,
+              "72": 0.252900937,
+              "73": 0.252900937,
+              "210": 15.0625
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 0,
+          "totalRanking": 0,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 16781,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 236,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 215,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Paul",
+        "fullName": "Paul Richardson",
+        "id": 16781,
+        "injured": false,
+        "injuryStatus": "QUESTIONABLE",
+        "jersey": "10",
+        "lastName": "Richardson",
+        "lastNewsDate": 1565794316000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.062027833001988074,
+          "auctionValueAverageChange": -0.012778095014949122,
+          "averageDraftPosition": 170.65507932275696,
+          "averageDraftPositionPercentChange": -0.21185130763677762,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -0.12079493570157496,
+          "percentOwned": 8.364809471324723,
+          "percentStarted": 0.2817372351360388
+        },
+        "proTeamId": 28,
+        "seasonOutlook": "Richardson signed a five-year, $40 million contract with Washington last offseason following a 2017 season in Seattle in which he set career-highs in targets (80), receptions (44), yardage (703) and touchdowns (six) last year. His first year in Washington didn't go well, as he hurt his shoulder in Week 1 and then struggled to a 20/262/2 line in seven games before landing on injured reserve. The 2014 second-round pick has overcome a lot, having torn his ACL in both 2012 and during the 2014 playoffs before suffering a season-ending hamstring injury in 2015. Richardson is now healthy, still in his prime at age-27 and very well could lead Washington in targets. He's a fine late-round post-hype target.",
+        "stats": [
+          {
+            "appliedAverage": 67.151486753125,
+            "appliedTotal": 1074.42378805,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 3.69319183,
+              "24": 21.87363171,
+              "25": 0.096557904,
+              "26": 0.003406804,
+              "27": 4.0,
+              "28": 2.0,
+              "29": 1.0,
+              "35": 0.006787473,
+              "36": 0.004751231,
+              "37": 0.001156469,
+              "38": 3.94659E-5,
+              "39": 5.922690378,
+              "40": 1.367101982,
+              "42": 651.4318996,
+              "43": 2.918166781,
+              "44": 0.150325346,
+              "45": 0.229754901,
+              "46": 0.150144828,
+              "47": 130.0,
+              "48": 65.0,
+              "49": 32.0,
+              "50": 26.0,
+              "51": 13.0,
+              "53": 44.19075254,
+              "54": 8.0,
+              "55": 4.0,
+              "56": 0.879285167,
+              "57": 0.027194387,
+              "58": 76.24316953,
+              "60": 14.74136244,
+              "61": 40.71449372,
+              "62": 0.15373215,
+              "63": 0.00137919,
+              "66": 0.027067209,
+              "67": 0.323871708,
+              "68": 0.350938918,
+              "70": 0.012450916,
+              "71": 0.181368157,
+              "72": 0.193819073,
+              "73": 0.193819073,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 106,
+          "totalRanking": 318,
+          "totalRating": 491.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3128451,
+      "keeperValue": 4,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 237,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 217,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Tre'Quan",
+        "fullName": "Tre'Quan Smith",
+        "id": 3128451,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "10",
+        "lastName": "Smith",
+        "lastNewsDate": 1565410225000,
+        "lastVideoDate": 1543517207000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.0731610337972167,
+          "auctionValueAverageChange": -2.3346161562734502E-4,
+          "averageDraftPosition": 170.0998400159984,
+          "averageDraftPositionPercentChange": -0.2174136555391044,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 1.018282482713162,
+          "percentOwned": 8.32552981764416,
+          "percentStarted": 0.4879250862493839
+        },
+        "proTeamId": 18,
+        "seasonOutlook": "Smith racked up 42 targets in 15 regular-season games while operating as a reserve for most of his rookie campaign. The third-round pick flashed his upside during a 48-7 whooping of the Eagles in which he posted a 10/157/1 line on 13 targets. He also scored on two of three receptions against Washington earlier in the season. Smith's combination of size (6-foot-2, 210 pounds) and downfield playmaking ability makes him an intriguing breakout candidate in the Saints' high-scoring and efficient offense, but the 23-year-old will need to beat out the likes of Ted Ginn Jr. and Keith Kirkwood for a full-time role opposite Michael Thomas. He's a terrific post-hype target in the late rounds.",
+        "stats": [
+          {
+            "appliedAverage": 43.168415603125005,
+            "appliedTotal": 690.6946496500001,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 376.1827167,
+              "43": 2.940464939,
+              "44": 0.161132527,
+              "45": 0.236058997,
+              "46": 0.154264555,
+              "47": 75.0,
+              "48": 37.0,
+              "49": 18.0,
+              "50": 15.0,
+              "51": 7.0,
+              "53": 27.60608167,
+              "54": 5.0,
+              "55": 2.0,
+              "56": 0.209208978,
+              "57": 0.006470381,
+              "58": 43.6921628,
+              "60": 13.62680591,
+              "61": 23.51141979,
+              "62": 0.161132527,
+              "63": 0.001135902,
+              "67": 0.289033607,
+              "68": 0.289033607,
+              "71": 0.16185882,
+              "72": 0.16185882,
+              "73": 0.16185882,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 72,
+          "totalRanking": 216,
+          "totalRating": 867.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3914328,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 238,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 1,
+            "rank": 239,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Andy",
+        "fullName": "Andy Isabella",
+        "id": 3914328,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "89",
+        "lastName": "Isabella",
+        "lastNewsDate": 1565469190000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.12485089463220676,
+          "auctionValueAverageChange": 0.05710212963573534,
+          "averageDraftPosition": 170.19651368196514,
+          "averageDraftPositionPercentChange": -0.2866673854707358,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -1.5453484386739902,
+          "percentOwned": 7.140218832690479,
+          "percentStarted": 0.23796692683576648
+        },
+        "proTeamId": 22,
+        "seasonOutlook": "The Cardinals selected Isabella in the second round of April's draft. The 5-foot-9, 188-pound receiver out of UMASS is undersized, but also quick, strong and fast. Like Julian Edelman, he's extremely versatile, with the ability to play inside and out, while adding value as a rusher and returner. Like Brandin Cooks, he has the vertical speed (4.31 40-yard dash) to make plays deep downfield. Isabella led the nation with 1,698 receiving yards, ranked second in catches (102) and finished sixth with 13 touchdown catches in 2018. He'll battle with fellow rookie Hakeem Butler for work behind Christian Kirk and Larry Fitzgerald in 2019. Barring a terrific season from first overall pick Kyler Murray, Isabella figures to struggle to push for flex value as a rookie, but he has WR2 upside down the road.",
+        "stats": [
+          {
+            "appliedAverage": 53.33418470499999,
+            "appliedTotal": 853.3469552799999,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 4.019846457,
+              "24": 24.30854683,
+              "25": 0.107477649,
+              "26": 0.003544122,
+              "27": 4.0,
+              "28": 2.0,
+              "29": 1.0,
+              "35": 0.007389224,
+              "36": 0.005172457,
+              "37": 0.001450708,
+              "38": 4.95071E-5,
+              "39": 6.047133165,
+              "40": 1.519284177,
+              "42": 485.6351433,
+              "43": 2.529847953,
+              "44": 0.133118851,
+              "45": 0.18742606,
+              "46": 0.12248293,
+              "47": 97.0,
+              "48": 48.0,
+              "49": 24.0,
+              "50": 19.0,
+              "51": 9.0,
+              "53": 37.17728247,
+              "54": 7.0,
+              "55": 3.0,
+              "56": 0.395176812,
+              "57": 0.012221963,
+              "58": 59.71311145,
+              "60": 13.06268536,
+              "61": 30.35219646,
+              "62": 0.136662973,
+              "63": 0.00169513,
+              "66": 0.042087491,
+              "67": 0.389243363,
+              "68": 0.431330854,
+              "70": 0.019360246,
+              "71": 0.217976283,
+              "72": 0.237336529,
+              "73": 0.237336529,
+              "101": 0.019818,
+              "114": 74.3175,
+              "116": 7.0,
+              "117": 2.0,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 0,
+          "totalRanking": 0,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 4035004,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 239,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 306,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Mecole",
+        "fullName": "Mecole Hardman",
+        "id": 4035004,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "17",
+        "lastName": "Hardman",
+        "lastNewsDate": 1564945780000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.21607640270592918,
+          "auctionValueAverageChange": 0.10457322698256996,
+          "averageDraftPosition": 167.89758032262364,
+          "averageDraftPositionPercentChange": 1.1360822669709023,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -3.436774991342187,
+          "percentOwned": 19.240497137947308,
+          "percentStarted": 1.002626069487977
+        },
+        "proTeamId": 12,
+        "seasonOutlook": "The Chiefs selected Hardman in the second round of April's draft to complement Tyreek Hill, who has a similar skill set. Hardman is undersized at 5-foot-10, 187 pounds, but the Georgia product is extremely explosive and versatile. Hardman has terrific speed (4.33 40-yard dash) and toughness (17 bench reps) and dominates with the ball in his hands (8.7 RAC in 2018). He has struggled with drops (eight on 91 career targets) and fumbles (eight on 39 touches last season). Hardman figures to be utilized as a short-area RAC target, lid lifter and a returner. He's positioned for situational rookie season role in a high-scoring, Patrick Mahomes-led offense, which makes him a fine bench stash in deeper leagues.",
+        "stats": [
+          {
+            "appliedAverage": 52.595415171875,
+            "appliedTotal": 841.52664275,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 10.1930039,
+              "24": 60.66880227,
+              "25": 0.368585508,
+              "26": 0.009475459,
+              "27": 12.0,
+              "28": 6.0,
+              "29": 3.0,
+              "30": 2.0,
+              "31": 1.0,
+              "33": 2.0,
+              "34": 1.0,
+              "35": 0.018803414,
+              "36": 0.01316239,
+              "37": 0.009686458,
+              "38": 3.30562E-4,
+              "39": 5.952004224,
+              "40": 3.791800142,
+              "42": 418.9297289,
+              "43": 3.095247527,
+              "44": 0.097507685,
+              "45": 0.190100974,
+              "46": 0.124230986,
+              "47": 83.0,
+              "48": 41.0,
+              "49": 20.0,
+              "50": 16.0,
+              "51": 8.0,
+              "53": 29.75469948,
+              "54": 5.0,
+              "55": 2.0,
+              "56": 0.270028343,
+              "57": 0.008351392,
+              "58": 51.38457419,
+              "60": 14.07944749,
+              "61": 26.18310806,
+              "62": 0.106983144,
+              "63": 0.00164372,
+              "66": 0.106719987,
+              "67": 0.311529475,
+              "68": 0.418249462,
+              "70": 0.049091194,
+              "71": 0.174456506,
+              "72": 0.2235477,
+              "73": 0.2235477,
+              "101": 0.039636,
+              "102": 0.086319,
+              "114": 148.635,
+              "115": 85.3599,
+              "116": 14.0,
+              "117": 5.0,
+              "118": 8.0,
+              "119": 3.0,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 0,
+          "totalRanking": 0,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 14880,
+      "keeperValue": 29,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 1,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 240,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 1,
+            "rank": 241,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          0,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Kirk",
+        "fullName": "Kirk Cousins",
+        "id": 14880,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "8",
+        "lastName": "Cousins",
+        "lastNewsDate": 1565409346000,
+        "lastVideoDate": 1565027148000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.509952229299363,
+          "auctionValueAverageChange": 0.04911948406294803,
+          "averageDraftPosition": 162.31122967903292,
+          "averageDraftPositionPercentChange": 0.724656597855045,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 0.7235444130731388,
+          "percentOwned": 27.725950384818393,
+          "percentStarted": 5.178170302085507
+        },
+        "proTeamId": 16,
+        "seasonOutlook": "Cousins posted career-high marks in completion percentage (70.1 percent) and passing touchdowns (30) in his first season with the Vikings, but still managed his worst fantasy season (12th) since he became a full-time starter in 2015. Cousins was extremely conservative, posting a career-low 7.2 aDOT, which was sixth lowest in the NFL and led to an ugly 10.1 yards per completion (fourth lowest). Cousins rushed for at least three touchdowns during each of his three seasons as the Redskins' starter, but managed only one touchdown last season. He posted a healthy seven top-10 fantasy weeks, but finished 20th or worse six times. Minnesota is expected to operate a run-first offense this season, so Cousins is best viewed as a midrange QB2.",
+        "stats": [
+          {
+            "appliedAverage": 190.17319768733336,
+            "appliedTotal": 2852.5979653100003,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "0": 529.3260436,
+              "1": 364.5185696,
+              "2": 164.807474,
+              "3": 3877.807866,
+              "4": 25.63127452,
+              "5": 775.0,
+              "6": 387.0,
+              "7": 193.0,
+              "8": 155.0,
+              "9": 77.0,
+              "10": 38.0,
+              "11": 72.0,
+              "12": 36.0,
+              "15": 3.18558723,
+              "16": 2.081781254,
+              "17": 3.220792386,
+              "18": 0.435044602,
+              "19": 1.223389947,
+              "20": 9.884858197,
+              "21": 0.68864658,
+              "22": 246.9941316,
+              "23": 44.26532828,
+              "24": 134.4343406,
+              "25": 2.861098384,
+              "26": 0.111715198,
+              "27": 26.0,
+              "28": 13.0,
+              "29": 6.0,
+              "30": 5.0,
+              "31": 2.0,
+              "33": 8.0,
+              "34": 4.0,
+              "35": 0.083257149,
+              "36": 0.058280004,
+              "37": 0.048854346,
+              "38": 0.00167,
+              "39": 3.037012168,
+              "40": 8.562696853,
+              "62": 1.335105145,
+              "63": 0.033160725,
+              "64": 34.23729998,
+              "65": 7.823354798,
+              "66": 0.61448881,
+              "68": 8.437843608,
+              "69": 3.755210303,
+              "70": 0.282664853,
+              "72": 4.037875156,
+              "73": 13.92273335,
+              "210": 15.7
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 11,
+          "totalRanking": 15,
+          "totalRating": 3111.3
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 14054,
+      "keeperValue": 2,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 4,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 242,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 1,
+            "rank": 236,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          5,
+          6,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Kyle",
+        "fullName": "Kyle Rudolph",
+        "id": 14054,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "82",
+        "lastName": "Rudolph",
+        "lastNewsDate": 1565409669000,
+        "lastVideoDate": 1545941546000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.5769383697813121,
+          "auctionValueAverageChange": 0.14755983870786576,
+          "averageDraftPosition": 153.68439734039893,
+          "averageDraftPositionPercentChange": -2.1469726711410146,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -0.9368665132370637,
+          "percentOwned": 44.3290739728719,
+          "percentStarted": 11.018869314797644
+        },
+        "proTeamId": 16,
+        "seasonOutlook": "Rudolph finished as fantasy's No. 7 scoring tight end last season and has now finished no lower than eighth over the past three seasons. Rudolph has finished in the top three at the position in snaps and no lower than ninth in receptions, touchdowns and end-zone targets during each of those three seasons. Rudolph was a bit of a letdown in the scoring department last season (four touchdowns, 5.4 OTD), though his 10 end-zone targets were the second-highest total of his career. The 29-year-old lacks the upside of many TE1 options - and could defer some targets to rookie Irv Smith Jr. - but he's a high-floor fringe starter.",
+        "stats": [
+          {
+            "appliedAverage": 65.431289174375,
+            "appliedTotal": 1046.90062679,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 496.3092808,
+              "43": 4.998246529,
+              "44": 0.238941299,
+              "45": 0.117042307,
+              "46": 0.076487148,
+              "47": 99.0,
+              "48": 49.0,
+              "49": 24.0,
+              "50": 19.0,
+              "51": 9.0,
+              "53": 49.94857187,
+              "54": 9.0,
+              "55": 4.0,
+              "56": 0.419166246,
+              "57": 0.012963905,
+              "58": 68.37987047,
+              "60": 9.936405831,
+              "61": 31.0,
+              "62": 0.238941299,
+              "63": 0.001371077,
+              "67": 0.348874616,
+              "68": 0.348874616,
+              "71": 0.195369785,
+              "72": 0.195369785,
+              "73": 0.195369785,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 8,
+          "totalRanking": 139,
+          "totalRating": 1194.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 15966,
+      "keeperValue": 3,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 2,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 243,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 1,
+            "rank": 231,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          2,
+          3,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Chris",
+        "fullName": "Chris Thompson",
+        "id": 15966,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "25",
+        "lastName": "Thompson",
+        "lastNewsDate": 1560356242000,
+        "lastVideoDate": 1565896627000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.18687872763419483,
+          "auctionValueAverageChange": 0.02174111295529574,
+          "averageDraftPosition": 169.2644691452664,
+          "averageDraftPositionPercentChange": -0.14471592676491696,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -0.9522777210268956,
+          "percentOwned": 12.671759481369401,
+          "percentStarted": 0.7288629737609329
+        },
+        "proTeamId": 28,
+        "seasonOutlook": "Thompson has emerged as one of the league's better receiving backs in recent years, but injuries have derailed his chances for a full-on breakout. The 28-year-old back has missed exactly six games each of the past two seasons. Thompson's best season came in 2017, when he put up 804 scrimmage yards and six touchdowns on 103 touches in 10 games. Thompson has never cleared 68 carries in a season (though he has benefited from light boxes), but he's averaging an impressive 4.96 YPC in his career. Interestingly, he paced the position in YPR (13.1) and YPT (9.8) in 2017 but finished sixth-worst (6.4) and fifth-worst (4.9), respectively, last season. Thompson will continue to be limited to passing situations behind Adrian Peterson and Derrius Guice, which severely limits his fantasy upside. He's worth a look in deep PPR leagues.",
+        "stats": [
+          {
+            "appliedAverage": 64.38906106357143,
+            "appliedTotal": 901.44685489,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 36.9319183,
+              "24": 168.8760897,
+              "25": 0.848894902,
+              "26": 0.029951131,
+              "27": 33.0,
+              "28": 16.0,
+              "29": 8.0,
+              "30": 6.0,
+              "31": 3.0,
+              "33": 7.0,
+              "34": 3.0,
+              "35": 0.069180537,
+              "36": 0.048426376,
+              "37": 0.0774,
+              "38": 0.00264,
+              "39": 4.572632496,
+              "40": 11.95582936,
+              "42": 368.8734372,
+              "43": 1.479167091,
+              "44": 0.076194799,
+              "45": 0.055928273,
+              "46": 0.036549126,
+              "47": 73.0,
+              "48": 36.0,
+              "49": 18.0,
+              "50": 14.0,
+              "51": 7.0,
+              "53": 46.47111815,
+              "54": 9.0,
+              "55": 4.0,
+              "56": 0.202343973,
+              "57": 0.006258061,
+              "58": 60.57029354,
+              "60": 7.93769231,
+              "61": 26.11493361,
+              "62": 0.10614593,
+              "63": 0.004080643,
+              "66": 0.459786278,
+              "67": 0.578545157,
+              "68": 1.038331435,
+              "70": 0.211501688,
+              "71": 0.323985288,
+              "72": 0.535486976,
+              "73": 0.535486976,
+              "210": 14.125
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 61,
+          "totalRanking": 255,
+          "totalRating": 711.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3025433,
+      "keeperValue": 11,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 2,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 245,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 1,
+            "rank": 234,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          2,
+          3,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Mike",
+        "fullName": "Mike Davis",
+        "id": 3025433,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "25",
+        "lastName": "Davis",
+        "lastNewsDate": 1565321046000,
+        "lastVideoDate": 1560458671000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.16341948310139165,
+          "auctionValueAverageChange": 0.0808506757619421,
+          "averageDraftPosition": 170.33173349331733,
+          "averageDraftPositionPercentChange": -0.21243962741147016,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 0.9606387636442344,
+          "percentOwned": 5.093143939627671,
+          "percentStarted": 0.29063130549607863
+        },
+        "proTeamId": 3,
+        "seasonOutlook": "Davis joins the Bears after bouncing around the league for the first four seasons of his career. Davis made some noise during a career-best season in Seattle in 2018. He notched a career-high 728 yards and five scores on 146 touches. Though his efficiency has progressively improved, Davis is averaging an ugly 3.6 YPC (1.6 YAC) and 5.4 YPT in his career. The 26-year-old will have some non-PPR value only if he surprisingly beats out rookie David Montgomery for early-down and goal-line duties. Davis is best viewed as a handcuff with limited upside.",
+        "stats": [
+          {
+            "appliedAverage": 24.927728727000005,
+            "appliedTotal": 373.9159309050001,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 43.78769957,
+              "24": 186.175234,
+              "25": 1.1595143,
+              "26": 0.042907067,
+              "27": 37.0,
+              "28": 18.0,
+              "29": 9.0,
+              "30": 7.0,
+              "31": 3.0,
+              "33": 8.0,
+              "34": 4.0,
+              "35": 0.082757765,
+              "36": 0.057930436,
+              "37": 0.114577465,
+              "38": 0.003910089,
+              "39": 4.251770151,
+              "40": 12.36018151,
+              "42": 61.93162312,
+              "43": 0.279395585,
+              "44": 0.013892677,
+              "45": 0.047824874,
+              "46": 0.031253555,
+              "47": 12.0,
+              "48": 6.0,
+              "49": 3.0,
+              "50": 2.0,
+              "51": 1.0,
+              "53": 8.219336821,
+              "54": 1.0,
+              "56": 0.029795539,
+              "57": 9.21512E-4,
+              "58": 10.55660332,
+              "60": 7.534868624,
+              "61": 4.111643029,
+              "62": 0.056799744,
+              "63": 0.001168037,
+              "66": 0.250238523,
+              "67": 0.046971974,
+              "68": 0.297210497,
+              "70": 0.115109721,
+              "71": 0.026304306,
+              "72": 0.141414026,
+              "73": 0.141414026,
+              "210": 15.0625
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 37,
+          "totalRanking": 138,
+          "totalRating": 1198.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 16782,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 2,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 248,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 1,
+            "rank": 243,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          2,
+          3,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Jerick",
+        "fullName": "Jerick McKinnon",
+        "id": 16782,
+        "injured": false,
+        "injuryStatus": "QUESTIONABLE",
+        "jersey": "28",
+        "lastName": "McKinnon",
+        "lastNewsDate": 1565294221000,
+        "lastVideoDate": 1556744874000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.4186878727634195,
+          "auctionValueAverageChange": -0.6158922260368627,
+          "averageDraftPosition": 164.59746362924326,
+          "averageDraftPositionPercentChange": -22.73832376760714,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -18.60537682673005,
+          "percentOwned": 45.76707631100426,
+          "percentStarted": 1.6072539998291453
+        },
+        "proTeamId": 25,
+        "seasonOutlook": "McKinnon signed a pricy contract with San Francisco last offseason but missed all of 2018 with a torn ACL. The 5-foot-9, 212-pound McKinnon has yet to exceed 159 carries in a season and averaged 3.59 YPC (worst), including 1.50 after contact (second-worst) on 309 carries in the 2016 and 2017 seasons. McKinnon's receiving volume has been terrific, but his efficiency has been weak (7.2 YPR). Those numbers are alarming, and it doesn't help that he's going to need to battle with Tevin Coleman and Matt Breida for touches. McKinnon is likely going to end up on the short end of a three-headed committee and should be on benches in most leagues.",
+        "stats": [
+          {
+            "appliedAverage": 54.877303760909086,
+            "appliedTotal": 603.65034137,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 60.24283429,
+              "24": 240.2506845,
+              "25": 1.839262783,
+              "26": 0.070269813,
+              "27": 48.0,
+              "28": 24.0,
+              "29": 12.0,
+              "30": 9.0,
+              "31": 4.0,
+              "33": 12.0,
+              "34": 6.0,
+              "35": 0.115243139,
+              "36": 0.080670197,
+              "37": 0.195149864,
+              "38": 0.006659716,
+              "39": 3.988037537,
+              "40": 20.39263104,
+              "42": 130.9461349,
+              "43": 0.634434246,
+              "44": 0.031179869,
+              "45": 0.038012963,
+              "46": 0.024841471,
+              "47": 26.0,
+              "48": 13.0,
+              "49": 6.0,
+              "50": 5.0,
+              "51": 2.0,
+              "53": 17.21738997,
+              "54": 3.0,
+              "55": 1.0,
+              "56": 0.049641809,
+              "57": 0.001535314,
+              "58": 22.38367391,
+              "60": 7.605457923,
+              "61": 11.11479129,
+              "62": 0.101449682,
+              "63": 0.001705974,
+              "66": 0.337603093,
+              "67": 0.096486896,
+              "68": 0.43408999,
+              "70": 0.155297423,
+              "71": 0.054032662,
+              "72": 0.209330085,
+              "73": 0.209330085,
+              "210": 11.78125
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 153,
+          "totalRanking": 631,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3059915,
+      "keeperValue": 40,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 2,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 249,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 1,
+            "rank": 245,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          2,
+          3,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Kareem",
+        "fullName": "Kareem Hunt",
+        "id": 3059915,
+        "injured": false,
+        "injuryStatus": "SUSPENSION",
+        "jersey": "27",
+        "lastName": "Hunt",
+        "lastNewsDate": 1565467816000,
+        "lastVideoDate": 1542555057000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 2.058097890966972,
+          "auctionValueAverageChange": -0.09151396506690235,
+          "averageDraftPosition": 139.69069244229647,
+          "averageDraftPositionPercentChange": -1.4420474558465912,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -3.5554363760485046,
+          "percentOwned": 72.21396731054978,
+          "percentStarted": 2.448345654553348
+        },
+        "proTeamId": 5,
+        "seasonOutlook": "Following a top-five fantasy campaign as a rookie, Hunt was well on his way to a repeat performance in 2018, having scored 14 touchdowns in 11 games. However, when video surfaced of an off-field assault, Hunt was released by Kansas City and sat out the rest of the season. Hunt signed with Cleveland, though he will be suspended for the first eight games of 2019. Hunt is entering his age-24 season and has been one of the league's most effective backs over the past two seasons. He's averaging 4.8 YPC (2.5 YAC) on 453 attempts and an outstanding 8.4 YPT on 99 targets. Hunt will be an intriguing handcuff down the stretch, and he's talented enough to push Nick Chubb for touches, but it's hard to imagine a significant impact as long as Chubb is healthy. Hunt is worth stashing on season-long rosters only in leagues with deep benches.",
+        "stats": [
+          {
+            "appliedAverage": 122.12299469571428,
+            "appliedTotal": 854.86096287,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 69.01162177,
+              "24": 315.7315387,
+              "25": 2.308547609,
+              "26": 0.130367262,
+              "27": 63.0,
+              "28": 31.0,
+              "29": 15.0,
+              "30": 12.0,
+              "31": 6.0,
+              "33": 13.0,
+              "34": 6.0,
+              "35": 0.136684849,
+              "36": 0.095679395,
+              "37": 0.547167235,
+              "38": 0.018672718,
+              "39": 4.575048819,
+              "40": 40.73955338,
+              "42": 208.7115013,
+              "43": 1.431088904,
+              "44": 0.086748306,
+              "45": 0.080086216,
+              "46": 0.052336342,
+              "47": 41.0,
+              "48": 20.0,
+              "49": 10.0,
+              "50": 8.0,
+              "51": 4.0,
+              "53": 21.23537969,
+              "54": 4.0,
+              "55": 2.0,
+              "56": 0.133962141,
+              "57": 0.004143159,
+              "58": 26.68372174,
+              "60": 9.828479844,
+              "61": 26.93051629,
+              "62": 0.217115569,
+              "63": 0.001865894,
+              "66": 0.36306457,
+              "67": 0.111717618,
+              "68": 0.474782187,
+              "70": 0.167009702,
+              "71": 0.062561866,
+              "72": 0.229571568,
+              "73": 0.229571568,
+              "210": 7.75
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 11,
+          "totalRanking": 42,
+          "totalRating": 2172.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 4361606,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 2,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 250,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 297,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          25,
+          2,
+          3,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Darwin",
+        "fullName": "Darwin Thompson",
+        "id": 4361606,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "25",
+        "lastName": "Thompson",
+        "lastNewsDate": 1565501316000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.11664012738853503,
+          "auctionValueAverageChange": 0.03548275265317864,
+          "averageDraftPosition": 169.6042895710429,
+          "averageDraftPositionPercentChange": 0.30894462174623527,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 1.3334264909152296,
+          "percentOwned": 5.780843988685439,
+          "percentStarted": 0.15930029013246758
+        },
+        "proTeamId": 12,
+        "stats": [
+          {
+            "appliedAverage": 14.660360743000002,
+            "appliedTotal": 219.90541114500002,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 20.3860078,
+              "24": 82.49319512,
+              "25": 0.596441313,
+              "26": 0.015333091,
+              "27": 16.0,
+              "28": 8.0,
+              "29": 4.0,
+              "30": 3.0,
+              "31": 1.0,
+              "33": 4.0,
+              "34": 2.0,
+              "35": 0.03782765,
+              "36": 0.026479355,
+              "37": 0.018156632,
+              "38": 6.19616E-4,
+              "39": 4.046559578,
+              "40": 5.476726647,
+              "42": 50.69908038,
+              "43": 0.343916392,
+              "44": 0.010834187,
+              "45": 0.049696905,
+              "46": 0.032476928,
+              "47": 10.0,
+              "48": 5.0,
+              "49": 2.0,
+              "50": 2.0,
+              "51": 1.0,
+              "53": 6.430945681,
+              "54": 1.0,
+              "56": 0.025407666,
+              "57": 7.85804E-4,
+              "58": 8.564095699,
+              "60": 7.883611975,
+              "61": 3.36591405,
+              "62": 0.026167278,
+              "63": 9.93089E-4,
+              "66": 0.192096075,
+              "67": 0.060598399,
+              "68": 0.252694474,
+              "70": 0.088364195,
+              "71": 0.033935103,
+              "72": 0.122299298,
+              "73": 0.122299298,
+              "210": 15.0625
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 0,
+          "totalRanking": 0,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": -16007,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 16,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 252,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 1,
+            "rank": 252,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          16,
+          20,
+          21
+        ],
+        "firstName": "Broncos",
+        "fullName": "Broncos D/ST",
+        "id": -16007,
+        "injured": false,
+        "lastName": "D/ST",
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 1.2533387292594091,
+          "auctionValueAverageChange": 0.5375267634474433,
+          "averageDraftPosition": 159.63691113490364,
+          "averageDraftPositionPercentChange": -5.69605245869613,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -6.84222764408009,
+          "percentOwned": 51.28893529221667,
+          "percentStarted": 39.51388370994606
+        },
+        "proTeamId": 7,
+        "seasonOutlook": "Denver's D/ST is fantasy's reigning No. 10 unit and has finished no lower than 13th the past seven seasons. The unit jumped to fifth in interceptions (17), eighth in sacks (44) and first in blocks (four), though it was 22nd in yardage allowed (5,842) last season. This unit lost a lot of solid talent in the offseason (Bradley Roby, Brandon Marshall, Shaq Barrett, Shane Ray, Darian Stewart) but brought in defensive-minded coach Vic Fangio and improved its secondary with Bryce Callahan and Kareem Jackson. A potentially lethal pass rush led by Von Miller, Bradley Chubb and Derek Wolfe, as well as stud corner Chris Harris Jr. keeps this D/ST in the top-10 mix.",
+        "stats": [
+          {
+            "appliedAverage": 51.58518640375,
+            "appliedTotal": 825.36298246,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "93": 0.120707928,
+              "94": 1.96913434,
+              "95": 11.96154144,
+              "96": 9.141729718,
+              "97": 0.7505766,
+              "98": 0.319096391,
+              "99": 41.73589634,
+              "100": 83.47179268,
+              "101": 0.19818,
+              "102": 0.28773,
+              "103": 1.2034275,
+              "104": 0.76570684,
+              "105": 2.575752268,
+              "106": 14.06419957,
+              "109": 930.1741796,
+              "110": 310.0,
+              "111": 186.0,
+              "113": 79.10852795,
+              "114": 743.175,
+              "115": 284.533,
+              "116": 74.0,
+              "117": 29.0,
+              "118": 28.0,
+              "119": 11.0,
+              "120": 362.703302,
+              "121": 6.0,
+              "122": 7.0,
+              "123": 3.0,
+              "126": 22.66895638,
+              "127": 5661.375027,
+              "131": 7.0,
+              "132": 9.0,
+              "137": 353.8359392,
+              "160": -362.703302,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 6,
+          "totalRanking": 153,
+          "totalRating": 1150.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": -16034,
+      "keeperValue": 1,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 16,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 255,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 1,
+            "rank": 255,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          16,
+          20,
+          21
+        ],
+        "firstName": "Texans",
+        "fullName": "Texans D/ST",
+        "id": -16034,
+        "injured": false,
+        "lastName": "D/ST",
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 1.3113627173473514,
+          "auctionValueAverageChange": -0.05428232898194296,
+          "averageDraftPosition": 157.51099810983055,
+          "averageDraftPositionPercentChange": -2.729893437869464,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -6.565428979870973,
+          "percentOwned": 52.85798431348235,
+          "percentStarted": 35.21592212543014
+        },
+        "proTeamId": 34,
+        "seasonOutlook": "The Houston D/ST bounced back last season following a disastrous and injury-plagued 2017 season. Houston ranked fourth in forced turnovers (29), 11th in sacks (43) and second in fantasy points (133) and scored four touchdowns. Houston allowed 316 points (fourth-fewest) after surrendering a league-high 436 points in 2017. Four of coach Bill O'Brien's past five and six of DC Romeo Crennel's past seven defenses have been better than average in touchdowns allowed. Offseason turnover cost the secondary some talent, but this will be a viable fantasy option as long as J.J. Watt, Jadeveon Clowney and Whitney Mercilus do their usual damage up front. That said, a Week 1 trip to New Orleans means this unit is not a great draft selection.",
+        "stats": [
+          {
+            "appliedAverage": 48.474257063749995,
+            "appliedTotal": 775.5881130199999,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "92": 1.0,
+              "93": 0.132251934,
+              "94": 2.1808638,
+              "95": 11.73437396,
+              "96": 9.726214205,
+              "97": 0.776478,
+              "98": 0.243610174,
+              "99": 32.85821222,
+              "100": 65.71642443,
+              "101": 0.09909,
+              "102": 0.211002,
+              "103": 1.42250362,
+              "104": 0.75836018,
+              "105": 2.623207734,
+              "106": 14.96340647,
+              "109": 895.9878646,
+              "110": 298.0,
+              "111": 179.0,
+              "113": 81.0067266,
+              "114": 744.8265,
+              "115": 306.1742308,
+              "116": 74.0,
+              "117": 29.0,
+              "118": 30.0,
+              "119": 12.0,
+              "120": 353.6035316,
+              "121": 4.0,
+              "122": 9.0,
+              "123": 2.0,
+              "126": 22.10022072,
+              "127": 5699.558819,
+              "131": 7.0,
+              "132": 9.0,
+              "137": 356.2224262,
+              "160": -353.6035316,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 2,
+          "totalRanking": 108,
+          "totalRating": 1360.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 11122,
+      "keeperValue": 1,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 5,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 256,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 256,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          17,
+          20,
+          21
+        ],
+        "firstName": "Matt",
+        "fullName": "Matt Prater",
+        "id": 11122,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "5",
+        "lastName": "Prater",
+        "lastNewsDate": 1560954237000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.26905829596412556,
+          "auctionValueAverageChange": -0.037312498595645394,
+          "averageDraftPosition": 164.9616961461872,
+          "averageDraftPositionPercentChange": -0.5139840786404193,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -0.2474133762791766,
+          "percentOwned": 34.793017890567185,
+          "percentStarted": 29.37361250163235
+        },
+        "proTeamId": 8,
+        "stats": [
+          {
+            "appliedAverage": 78.92843664875001,
+            "appliedTotal": 1262.8549863800001,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "74": 3.179805232,
+              "75": 4.735506978,
+              "76": 1.555701746,
+              "77": 7.759618131,
+              "78": 9.449334069,
+              "79": 1.689715938,
+              "80": 16.36981332,
+              "81": 16.78642761,
+              "82": 0.416614298,
+              "83": 27.30923668,
+              "84": 30.97126866,
+              "85": 3.662031983,
+              "86": 34.7074233,
+              "87": 35.51425462,
+              "88": 0.806831323,
+              "198": 3.179805232,
+              "199": 4.735506978,
+              "200": 1.555701746,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 11,
+          "totalRanking": 124,
+          "totalRating": 1272.8
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3050478,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 5,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 257,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 257,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          17,
+          20,
+          21
+        ],
+        "firstName": "Jake",
+        "fullName": "Jake Elliott",
+        "id": 3050478,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "4",
+        "lastName": "Elliott",
+        "lastNewsDate": 1550841045000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.2974296205630355,
+          "auctionValueAverageChange": 0.031860543970336885,
+          "averageDraftPosition": 163.44841841004185,
+          "averageDraftPositionPercentChange": 0.4482727006717937,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 0.8766188440577949,
+          "percentOwned": 34.35451988850713,
+          "percentStarted": 28.059038841671395
+        },
+        "proTeamId": 21,
+        "stats": [
+          {
+            "appliedAverage": 79.1164315275,
+            "appliedTotal": 1265.86290444,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "74": 3.095287702,
+              "75": 4.855626466,
+              "76": 1.760338764,
+              "77": 7.626851456,
+              "78": 9.689023118,
+              "79": 2.062171662,
+              "80": 16.19953088,
+              "81": 17.21222724,
+              "82": 1.012696359,
+              "83": 26.92167004,
+              "84": 31.75687682,
+              "85": 4.835206785,
+              "86": 39.19667954,
+              "87": 41.55429883,
+              "88": 2.357619285,
+              "198": 3.095287702,
+              "199": 4.855626466,
+              "200": 1.760338764,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 16,
+          "totalRanking": 152,
+          "totalRating": 1150.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3123050,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 4,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 260,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 260,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          5,
+          6,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Chris",
+        "fullName": "Chris Herndon",
+        "id": 3123050,
+        "injured": false,
+        "injuryStatus": "SUSPENSION",
+        "jersey": "89",
+        "lastName": "Herndon",
+        "lastNewsDate": 1565320421000,
+        "lastVideoDate": 1545697826000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.06247512932749701,
+          "auctionValueAverageChange": -0.0645538050408869,
+          "averageDraftPosition": 169.45504391447093,
+          "averageDraftPositionPercentChange": -0.09522649773887792,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -2.1215632723587916,
+          "percentOwned": 9.251871552403466,
+          "percentStarted": 1.1130811662726556
+        },
+        "proTeamId": 20,
+        "seasonOutlook": "The Jets selected Herndon in the fourth round of the 2018 draft and quickly put him in position for a big role. Herndon was on the field for 63 percent of New York's snaps, including 50 percent of pass plays. Following a slow start to the season, Herndon was fantasy's No. 9 tight end from Week 6 on. His 10.3 aDOT was fifth-highest at the position and helped him to a strong 9.0 YPT (10th). Herndon's 502 receiving yards rank 11th, his catch rate 10th, his YPT fifth and his aDOT third among rookie tight ends over the past 12 seasons. Herndon is in prime position for a second-year breakout and should be on your radar in the late rounds.",
+        "stats": [
+          {
+            "appliedAverage": 69.35094793999998,
+            "appliedTotal": 832.2113752799999,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 446.5326457,
+              "43": 3.510114991,
+              "44": 0.163980956,
+              "45": 0.151547185,
+              "46": 0.099036086,
+              "47": 89.0,
+              "48": 44.0,
+              "49": 22.0,
+              "50": 17.0,
+              "51": 8.0,
+              "53": 35.2756006,
+              "54": 7.0,
+              "55": 3.0,
+              "56": 0.513926016,
+              "57": 0.015894619,
+              "58": 54.00386967,
+              "60": 12.65839952,
+              "61": 37.2110538,
+              "62": 0.163980956,
+              "63": 0.001643728,
+              "67": 0.4182514,
+              "68": 0.4182514,
+              "71": 0.234220784,
+              "72": 0.234220784,
+              "73": 0.234220784,
+              "210": 12.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 15,
+          "totalRanking": 196,
+          "totalRating": 937.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3917846,
+      "keeperValue": 1,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 2,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 263,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 340,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          2,
+          3,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Mark",
+        "fullName": "Mark Walton",
+        "id": 3917846,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "9",
+        "lastName": "Walton",
+        "lastNewsDate": 1565378049000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.002785515320334262,
+          "auctionValueAverageChange": -0.003565931398084934,
+          "averageDraftPosition": 170.15701763157017,
+          "averageDraftPositionPercentChange": -0.07817442649226791,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -0.004930203336213412,
+          "percentOwned": 0.3737667869094702,
+          "percentStarted": 0.036631628617373325
+        },
+        "proTeamId": 15,
+        "stats": [
+          {
+            "appliedAverage": 16.693711009999998,
+            "appliedTotal": 250.40566514999998,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 34.41935693,
+              "24": 143.6287828,
+              "25": 0.769748039,
+              "26": 0.025459245,
+              "27": 28.0,
+              "28": 14.0,
+              "29": 7.0,
+              "30": 5.0,
+              "31": 2.0,
+              "33": 6.0,
+              "34": 3.0,
+              "35": 0.064383478,
+              "36": 0.045068435,
+              "37": 0.0559,
+              "38": 0.00191,
+              "39": 4.172907214,
+              "40": 9.535520852,
+              "42": 34.8325925,
+              "43": 0.117045674,
+              "44": 0.005426113,
+              "45": 0.063259477,
+              "46": 0.041340068,
+              "47": 6.0,
+              "48": 3.0,
+              "49": 1.0,
+              "50": 1.0,
+              "53": 4.29399313,
+              "56": 0.018547749,
+              "57": 5.73642E-4,
+              "58": 5.539115789,
+              "60": 8.111934847,
+              "61": 2.312537261,
+              "62": 0.030885358,
+              "63": 0.001433638,
+              "66": 0.324331446,
+              "67": 0.040462028,
+              "68": 0.364793474,
+              "70": 0.149192465,
+              "71": 0.022658736,
+              "72": 0.171851201,
+              "73": 0.171851201,
+              "210": 15.0625
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 110,
+          "totalRanking": 487,
+          "totalRating": 100.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3925347,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 2,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 265,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 1,
+            "rank": 248,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          2,
+          3,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Damien",
+        "fullName": "Damien Harris",
+        "id": 3925347,
+        "injured": false,
+        "injuryStatus": "QUESTIONABLE",
+        "jersey": "37",
+        "lastName": "Harris",
+        "lastNewsDate": 1565799948000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.2487067250298448,
+          "auctionValueAverageChange": -0.30104627426443886,
+          "averageDraftPosition": 169.53894480735903,
+          "averageDraftPositionPercentChange": -7.357894953568291,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -8.066337728186078,
+          "percentOwned": 18.444456552667745,
+          "percentStarted": 0.47343153102429514
+        },
+        "proTeamId": 17,
+        "seasonOutlook": "The Patriots selected Harris in the third round of April's draft. The Alabama product joins 2018 first-round pick Sony Michel, James White and Rex Burkhead on the New England depth chart. The 5-foot-10, 216-pound Harris actually out-snapped first-round pick Josh Jacobs last season, but wasn't quite as explosive or dynamic. Harris actually found himself averaging a full yard more prior to initial contact than Jacobs, but forced tackles at a below-average rate and underwhelmed after contact (3.0 YAC). Harris lacks top-end speed (4.57 40-yard dash), but is a powerful, downhill runner with exceptional ball security (zero fumbles last season). He's also a good pass-catcher and blocker, which supplies him with three-down upside in the pros. He may not get that opportunity anytime soon with Michel and White locked into offensive roles. Harris is worth no more than a late-round flier.",
+        "stats": [
+          {
+            "appliedAverage": 40.45390737733333,
+            "appliedTotal": 606.80861066,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 64.92642862,
+              "24": 274.5915041,
+              "25": 2.098082016,
+              "26": 0.02809544,
+              "27": 54.0,
+              "28": 27.0,
+              "29": 13.0,
+              "30": 10.0,
+              "31": 5.0,
+              "33": 12.0,
+              "34": 6.0,
+              "35": 0.123554482,
+              "36": 0.086488138,
+              "37": 0.206237334,
+              "38": 0.007038089,
+              "39": 4.229271653,
+              "40": 18.23014135,
+              "42": 113.7327689,
+              "43": 0.537243455,
+              "44": 0.013022302,
+              "45": 0.07624475,
+              "46": 0.049825944,
+              "47": 22.0,
+              "48": 11.0,
+              "49": 5.0,
+              "50": 4.0,
+              "51": 2.0,
+              "53": 13.27974556,
+              "54": 2.0,
+              "55": 1.0,
+              "56": 0.04680353,
+              "57": 0.001447532,
+              "58": 17.2902661,
+              "60": 8.564378613,
+              "61": 7.550723245,
+              "62": 0.041117742,
+              "63": 0.002896142,
+              "66": 0.611797673,
+              "67": 0.125134211,
+              "68": 0.736931884,
+              "70": 0.28142693,
+              "71": 0.070075158,
+              "72": 0.351502088,
+              "73": 0.351502088,
+              "210": 15.0625
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 0,
+          "totalRanking": 0,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3121422,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 269,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 305,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          25,
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Terry",
+        "fullName": "Terry McLaurin",
+        "id": 3121422,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "17",
+        "lastName": "McLaurin",
+        "lastNewsDate": 1565231628000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.027037773359840953,
+          "auctionValueAverageChange": -0.0033080276281618713,
+          "averageDraftPosition": 170.2261736130785,
+          "averageDraftPositionPercentChange": -0.1616275749927638,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -0.0418096243768491,
+          "percentOwned": 2.1238820079016896,
+          "percentStarted": 0.1169498509343869
+        },
+        "proTeamId": 28,
+        "seasonOutlook": "The Redskins drafted McLaurin in the third round of April's draft, adding the Ohio State product to a wide receiver room that also includes Josh Doctson, Paul Richardson, Kelvin Harmon and Trey Quinn. McLaurin is an older prospect (he turned 23 in April) with an average frame (6-foot, 208 pounds) who is extremely fast (4.35 40-yard dash). An efficient receiver, the former Buckeye averaged 14.3 yards per target last season, which topped this class. McLaurin could settle in as a depth receiver and special-teams standout, but he has a terrific opportunity for a major rookie-season role because of Washington's shaky depth chart. That puts him on the late-round radar in deeper leagues.",
+        "stats": [
+          {
+            "appliedAverage": 48.98837585999999,
+            "appliedTotal": 783.8140137599999,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 478.0261027,
+              "43": 2.148768597,
+              "44": 0.110690857,
+              "45": 0.17474467,
+              "46": 0.114195642,
+              "47": 95.0,
+              "48": 47.0,
+              "49": 23.0,
+              "50": 19.0,
+              "51": 9.0,
+              "53": 35.75038406,
+              "54": 7.0,
+              "55": 3.0,
+              "56": 0.378021434,
+              "57": 0.011691385,
+              "58": 59.90534749,
+              "60": 13.37121587,
+              "61": 29.87663142,
+              "62": 0.110690857,
+              "63": 0.001471014,
+              "67": 0.374303843,
+              "68": 0.374303843,
+              "71": 0.209610152,
+              "72": 0.209610152,
+              "73": 0.209610152,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 0,
+          "totalRanking": 0,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 4047646,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 270,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 1,
+            "rank": 240,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "A.J.",
+        "fullName": "A.J. Brown",
+        "id": 4047646,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "11",
+        "lastName": "Brown",
+        "lastNewsDate": 1565625598000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.16673298846000795,
+          "auctionValueAverageChange": -0.014764186681234998,
+          "averageDraftPosition": 169.85573590187974,
+          "averageDraftPositionPercentChange": -0.27348134605077234,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -0.6710998820438547,
+          "percentOwned": 5.828469716416826,
+          "percentStarted": 0.3535708231419369
+        },
+        "proTeamId": 10,
+        "seasonOutlook": "The Titans continued their wide receiver overhaul by selecting Brown with the No. 51 pick in April's draft. He joins Corey Davis and Adam Humphries atop the depth chart. The Ole Miss product has good size (6-foot, 226 pounds) and dominates in the short-to-intermediate area and as a blocker (ideal in Tennessee's run-first offense). Brown is quick, has good hands, is productive after the catch and is a savvy route runner. He lacks top-end speed (4.49 40-yard dash), but that won't limit him much as he carves out a short-area, high-volume role in the NFL. It will be tough for Brown to carve out consistent fantasy value as a rookie, but he shouldn't struggle for snaps. He's no more than a late flier, but is a terrific dynasty target.",
+        "stats": [
+          {
+            "appliedAverage": 55.805558425625,
+            "appliedTotal": 892.88893481,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 508.538447,
+              "43": 3.050743299,
+              "44": 0.172124514,
+              "45": 0.182734416,
+              "46": 0.119416941,
+              "47": 101.0,
+              "48": 50.0,
+              "49": 25.0,
+              "50": 20.0,
+              "51": 10.0,
+              "53": 40.50257325,
+              "54": 8.0,
+              "55": 4.0,
+              "56": 0.447703656,
+              "57": 0.013846505,
+              "58": 62.95157561,
+              "60": 12.55570711,
+              "61": 31.78365294,
+              "62": 0.172124514,
+              "63": 0.001666552,
+              "67": 0.424058908,
+              "68": 0.424058908,
+              "71": 0.237472989,
+              "72": 0.237472989,
+              "73": 0.237472989,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 0,
+          "totalRanking": 0,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 15349,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 271,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 267,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Cole",
+        "fullName": "Cole Beasley",
+        "id": 15349,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "10",
+        "lastName": "Beasley",
+        "lastNewsDate": 1565319407000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.06961018297533811,
+          "auctionValueAverageChange": 0.025150055946403738,
+          "averageDraftPosition": 169.12528747125288,
+          "averageDraftPositionPercentChange": 0.2602770391244178,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 1.540604205473298,
+          "percentOwned": 5.699914621923605,
+          "percentStarted": 0.5815608102255714
+        },
+        "proTeamId": 2,
+        "seasonOutlook": "Beasley signed with the Bills after spending the first seven seasons of his career in Dallas. His best season included a 75/833/5 receiving line back in 2016, which allowed a 33rd-place finish in fantasy points. Beasley's production plummeted in 2017 prior to rebounding for a 65/672/3 line last season. Beasley has aligned in the slot on 88 percent of his career routes and has never cleared five touchdowns or five end zone targets in a single season. The undersized 30-year-old will soak up short area targets, but this is a run-heavy offense led by an inaccurate quarterback who likes to throw down field. Beasley lacks upside and is only worth a look in deep PPR leagues.",
+        "stats": [
+          {
+            "appliedAverage": 71.44347331875,
+            "appliedTotal": 1143.0955731,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 670.4895854,
+              "43": 2.780388931,
+              "44": 0.165689995,
+              "45": 0.136267862,
+              "46": 0.089051048,
+              "47": 134.0,
+              "48": 67.0,
+              "49": 33.0,
+              "50": 26.0,
+              "51": 13.0,
+              "53": 61.63103484,
+              "54": 12.0,
+              "55": 6.0,
+              "56": 0.955962216,
+              "57": 0.0296,
+              "58": 89.13040754,
+              "60": 10.87909017,
+              "61": 41.90559909,
+              "62": 0.165689995,
+              "63": 0.00204,
+              "67": 0.518635917,
+              "68": 0.518635917,
+              "71": 0.290436113,
+              "72": 0.290436113,
+              "73": 0.290436113,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 47,
+          "totalRanking": 144,
+          "totalRating": 1177.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 4038441,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 2,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 275,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 1,
+            "rank": 249,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          25,
+          2,
+          3,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Justice",
+        "fullName": "Justice Hill",
+        "id": 4038441,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "43",
+        "lastName": "Hill",
+        "lastNewsDate": 1556383687000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.16195781933943493,
+          "auctionValueAverageChange": 0.0750934125597739,
+          "averageDraftPosition": 170.01571561895872,
+          "averageDraftPositionPercentChange": -0.006087547782328784,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": 0.501852256515976,
+          "percentOwned": 4.843027058453042,
+          "percentStarted": 0.15745742593444925
+        },
+        "proTeamId": 33,
+        "stats": [
+          {
+            "appliedAverage": 30.652952378000005,
+            "appliedTotal": 459.7942856700001,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 48.40964623,
+              "24": 201.4586219,
+              "25": 1.084339594,
+              "26": 0.029432492,
+              "27": 40.0,
+              "28": 20.0,
+              "29": 10.0,
+              "30": 8.0,
+              "31": 4.0,
+              "33": 9.0,
+              "34": 4.0,
+              "35": 0.091273264,
+              "36": 0.063891285,
+              "37": 0.110374866,
+              "38": 0.003766671,
+              "39": 4.161538816,
+              "40": 13.37484626,
+              "42": 105.3448643,
+              "43": 0.451304741,
+              "44": 0.034513552,
+              "45": 0.051059581,
+              "46": 0.033367436,
+              "47": 21.0,
+              "48": 10.0,
+              "49": 5.0,
+              "50": 4.0,
+              "51": 2.0,
+              "53": 13.00110935,
+              "54": 2.0,
+              "55": 1.0,
+              "56": 0.044271435,
+              "57": 0.00136922,
+              "58": 17.61791976,
+              "60": 8.102759657,
+              "61": 6.993849915,
+              "62": 0.063946045,
+              "63": 0.002274172,
+              "66": 0.456161066,
+              "67": 0.12250864,
+              "68": 0.578669706,
+              "70": 0.20983409,
+              "71": 0.068604838,
+              "72": 0.278438929,
+              "73": 0.278438929,
+              "210": 15.0625
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 0,
+          "totalRanking": 0,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 2570986,
+      "keeperValue": 1,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 2,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "rank": 278,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "rank": 372,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          2,
+          3,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Malcolm",
+        "fullName": "Malcolm Brown",
+        "id": 2570986,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "34",
+        "lastName": "Brown",
+        "lastNewsDate": 1556551604000,
+        "lastVideoDate": 1543950197000,
+        "ownership": {
+          "activityLevel": "ACTIVE_LAST_DAY",
+          "auctionValueAverage": 0.022266401590457258,
+          "auctionValueAverageChange": 0.007435893115880986,
+          "averageDraftPosition": 170.05606012631858,
+          "averageDraftPositionPercentChange": 0.02368309764716514,
+          "date": 1565878899083,
+          "leagueType": 0,
+          "percentChange": -0.025411240018161863,
+          "percentOwned": 2.1272509895991427,
+          "percentStarted": 0.07991129227090547
+        },
+        "proTeamId": 14,
+        "stats": [
+          {
+            "appliedAverage": 25.20258834466667,
+            "appliedTotal": 378.03882517000005,
+            "externalId": "2019",
+            "id": "102019",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2019,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 56.68721652,
+              "24": 239.7482236,
+              "25": 1.315278237,
+              "26": 0.036004316,
+              "27": 47.0,
+              "28": 23.0,
+              "29": 11.0,
+              "30": 9.0,
+              "31": 4.0,
+              "33": 11.0,
+              "34": 5.0,
+              "35": 0.107373607,
+              "36": 0.075161525,
+              "37": 0.156722103,
+              "38": 0.00535,
+              "39": 4.229317266,
+              "40": 15.91689451,
+              "42": 33.23236529,
+              "43": 0.178531837,
+              "44": 0.008447745,
+              "45": 0.064079812,
+              "46": 0.041876157,
+              "47": 6.0,
+              "48": 3.0,
+              "49": 1.0,
+              "50": 1.0,
+              "53": 4.085968184,
+              "56": 0.017808923,
+              "57": 5.51E-4,
+              "58": 5.259952481,
+              "60": 8.133290273,
+              "61": 2.20629811,
+              "62": 0.044452061,
+              "63": 0.00254,
+              "66": 0.603725105,
+              "67": 0.043516012,
+              "68": 0.647241117,
+              "70": 0.277713548,
+              "71": 0.024368966,
+              "72": 0.302082515,
+              "73": 0.302082515,
+              "210": 15.0625
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 84,
+          "totalRanking": 352,
+          "totalRating": 369.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    }
+  ],
+  "positionAgainstOpponent": {
+    "positionalRatings": {
+      "16": {
+        "average": 0.0,
+        "ratingsByOpponent": {}
+      },
+      "1": {
+        "average": 0.0,
+        "ratingsByOpponent": {}
+      },
+      "2": {
+        "average": 0.0,
+        "ratingsByOpponent": {}
+      },
+      "3": {
+        "average": 0.0,
+        "ratingsByOpponent": {}
+      },
+      "4": {
+        "average": 0.0,
+        "ratingsByOpponent": {}
+      },
+      "5": {
+        "average": 0.0,
+        "ratingsByOpponent": {}
+      }
+    }
+  }
+}
