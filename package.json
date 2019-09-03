@@ -1,0 +1,12 @@
+{
+  "name": "espon-projection-scraper",
+  "version": "1.0.0",
+  "description": "scrapes ESPN projections and creates a csv",
+  "repository": "git@github.com:xitij/espn-projection-scraper.git",
+  "license": "ISC",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+  }
+}
