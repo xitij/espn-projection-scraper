@@ -4,7 +4,7 @@ const parser = new Parser('draft.csv');
 
 (async () => {
   try {
-    await parser.createDraftCSV();
+    await parser.createProjectionsCSV();
   } catch (e) {
     console.error(`parser failed with error: ${e.message}`);
   }
