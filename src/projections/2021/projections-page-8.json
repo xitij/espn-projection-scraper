@@ -1,0 +1,5945 @@
+{
+  "players": [
+    {
+      "draftAuctionValue": 0,
+      "id": 17427,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 5,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 496,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 496,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          17,
+          20,
+          21
+        ],
+        "firstName": "Cairo",
+        "fullName": "Cairo Santos",
+        "id": 17427,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "2",
+        "lastName": "Santos",
+        "lastNewsDate": 1615508346000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.02608695652173913,
+          "auctionValueAverageChange": -0.007066474472863803,
+          "averageDraftPosition": 169.7085662085662,
+          "averageDraftPositionPercentChange": -0.292144722352333,
+          "date": 1630328406532,
+          "leagueType": 0,
+          "percentChange": 0.1602620452885981,
+          "percentOwned": 2.1842308938557804,
+          "percentStarted": 1.6652871818720587
+        },
+        "proTeamId": 3,
+        "rankings": {},
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 71.36775994647058,
+            "appliedTotal": 1213.25191909,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "74": 3.187733958,
+              "75": 4.97275758,
+              "76": 1.785023622,
+              "77": 7.81525786,
+              "78": 10.30303368,
+              "79": 2.487775819,
+              "80": 16.2240255,
+              "81": 17.22589227,
+              "82": 1.001866768,
+              "83": 27.22701732,
+              "84": 32.50168353,
+              "85": 5.274666209,
+              "86": 32.74262369,
+              "87": 34.75716699,
+              "88": 2.014543302,
+              "198": 3.187733958,
+              "199": 4.97275758,
+              "200": 1.785023622,
+              "210": 17.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 9,
+          "totalRanking": 118,
+          "totalRating": 1360.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 17372,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 5,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 497,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 497,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          17,
+          20,
+          21
+        ],
+        "firstName": "Chris",
+        "fullName": "Chris Boswell",
+        "id": 17372,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "9",
+        "lastName": "Boswell",
+        "lastNewsDate": 1628878469000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.04995737425404945,
+          "auctionValueAverageChange": 0.024128538479184374,
+          "averageDraftPosition": 169.38335433354334,
+          "averageDraftPositionPercentChange": -0.11046562212027311,
+          "date": 1630328406479,
+          "leagueType": 0,
+          "percentChange": 0.6706797520920649,
+          "percentOwned": 3.1529587949586233,
+          "percentStarted": 2.321235798674011
+        },
+        "proTeamId": 23,
+        "rankings": {},
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 72.06363813823529,
+            "appliedTotal": 1225.08184835,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "74": 2.953293921,
+              "75": 4.412654809,
+              "76": 1.459360889,
+              "77": 7.193166881,
+              "78": 9.142559311,
+              "79": 1.94939243,
+              "80": 14.82829319,
+              "81": 15.28566699,
+              "82": 0.457373796,
+              "83": 24.97475399,
+              "84": 28.84088111,
+              "85": 3.866127115,
+              "86": 39.56217098,
+              "87": 40.77404671,
+              "88": 1.211875729,
+              "198": 2.953293921,
+              "199": 4.412654809,
+              "200": 1.459360889,
+              "210": 17.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 25,
+          "totalRanking": 198,
+          "totalRating": 950.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3975763,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 5,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 498,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 498,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          17,
+          20,
+          21
+        ],
+        "firstName": "Greg",
+        "fullName": "Greg Joseph",
+        "id": 3975763,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "1",
+        "lastName": "Joseph",
+        "lastNewsDate": 1629165321000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.010230179028132993,
+          "auctionValueAverageChange": 0.00676063392404664,
+          "averageDraftPosition": 169.96926496926497,
+          "averageDraftPositionPercentChange": -0.07129399132045933,
+          "date": 1630328412964,
+          "leagueType": 0,
+          "percentChange": 0.08230363819970132,
+          "percentOwned": 0.5214620412233708,
+          "percentStarted": 0.3307405734739345
+        },
+        "proTeamId": 16,
+        "rankings": {},
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 71.23378577117649,
+            "appliedTotal": 1210.9743581100001,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "74": 2.895857876,
+              "75": 4.520894898,
+              "76": 1.625037021,
+              "77": 7.100516206,
+              "78": 9.366821455,
+              "79": 2.266305249,
+              "80": 14.74211649,
+              "81": 15.66061631,
+              "82": 0.918499825,
+              "83": 24.73849057,
+              "84": 29.54833266,
+              "85": 4.809842095,
+              "86": 41.36762795,
+              "87": 43.93568167,
+              "88": 2.568053718,
+              "198": 2.895857876,
+              "199": 4.520894898,
+              "200": 1.625037021,
+              "210": 17.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 0,
+          "totalRanking": 0,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3050478,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 5,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 499,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 499,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          17,
+          20,
+          21
+        ],
+        "firstName": "Jake",
+        "fullName": "Jake Elliott",
+        "id": 3050478,
+        "injured": false,
+        "injuryStatus": "QUESTIONABLE",
+        "jersey": "4",
+        "lastName": "Elliott",
+        "lastNewsDate": 1629411190000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.01568627450980392,
+          "auctionValueAverageChange": -0.02016569156575506,
+          "averageDraftPosition": 169.77682677682677,
+          "averageDraftPositionPercentChange": -0.23779054616099415,
+          "date": 1630328407709,
+          "leagueType": 0,
+          "percentChange": -0.014299901007697624,
+          "percentOwned": 1.2836677372292185,
+          "percentStarted": 0.9287535864964734
+        },
+        "proTeamId": 21,
+        "rankings": {},
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 70.59060538705883,
+            "appliedTotal": 1200.04029158,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "74": 3.105489106,
+              "75": 4.983050161,
+              "76": 1.877561055,
+              "77": 7.647360833,
+              "78": 10.32435883,
+              "79": 2.676997997,
+              "80": 15.94984977,
+              "81": 17.26154631,
+              "82": 1.311696538,
+              "83": 26.70269971,
+              "84": 32.5689553,
+              "85": 5.866255591,
+              "86": 34.75381983,
+              "87": 37.60379308,
+              "88": 2.849973253,
+              "198": 3.105489106,
+              "199": 4.983050161,
+              "200": 1.877561055,
+              "210": 17.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 29,
+          "totalRanking": 266,
+          "totalRating": 680.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3123052,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 5,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 501,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 501,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          17,
+          20,
+          21
+        ],
+        "firstName": "Michael",
+        "fullName": "Michael Badgley",
+        "id": 3123052,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "4",
+        "lastName": "Badgley",
+        "lastNewsDate": 1616102921000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.005967604433077579,
+          "auctionValueAverageChange": 0.002883564340556376,
+          "averageDraftPosition": 169.99516695166952,
+          "averageDraftPositionPercentChange": -0.059390219995009375,
+          "date": 1630328412500,
+          "leagueType": 0,
+          "percentChange": 0.2808775543779223,
+          "percentOwned": 0.985005817360077,
+          "percentStarted": 0.6745787240758121
+        },
+        "proTeamId": 24,
+        "rankings": {},
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 69.45203316999999,
+            "appliedTotal": 1180.68456389,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "74": 2.985991592,
+              "75": 4.999543216,
+              "76": 2.013551624,
+              "77": 7.403789678,
+              "78": 10.35853072,
+              "79": 2.954741038,
+              "80": 15.55308968,
+              "81": 17.31867911,
+              "82": 1.765589431,
+              "83": 25.94287095,
+              "84": 32.67675305,
+              "85": 6.733882093,
+              "86": 37.88981736,
+              "87": 42.18168195,
+              "88": 4.29186459,
+              "198": 2.985991592,
+              "199": 4.999543216,
+              "200": 2.013551624,
+              "210": 17.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 21,
+          "totalRanking": 176,
+          "totalRating": 1080.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 2582139,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 5,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 503,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 503,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          17,
+          20,
+          21
+        ],
+        "firstName": "Sam",
+        "fullName": "Sam Ficken",
+        "id": 2582139,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "4",
+        "lastName": "Ficken",
+        "lastNewsDate": 1629743554000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.006308610400682012,
+          "auctionValueAverageChange": 0.0012970452503350575,
+          "averageDraftPosition": 169.88126181261813,
+          "averageDraftPositionPercentChange": -0.004412451488349234,
+          "date": 1630328412283,
+          "leagueType": 0,
+          "percentChange": 0.28157866563648354,
+          "percentOwned": 0.6131354018538449,
+          "percentStarted": 0.4269450511813601
+        },
+        "proTeamId": 10,
+        "rankings": {},
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 67.73887835,
+            "appliedTotal": 1151.56093195,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "74": 2.581115256,
+              "75": 4.160681554,
+              "76": 1.579566298,
+              "77": 6.360709295,
+              "78": 8.620497076,
+              "79": 2.25978778,
+              "80": 13.276494,
+              "81": 14.41281845,
+              "82": 1.136324458,
+              "83": 22.21831855,
+              "84": 27.19399708,
+              "85": 4.975678536,
+              "86": 45.86895422,
+              "87": 49.78403216,
+              "88": 3.915077949,
+              "198": 2.581115256,
+              "199": 4.160681554,
+              "200": 1.579566298,
+              "210": 17.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 31,
+          "totalRanking": 318,
+          "totalRating": 490.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3919602,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 5,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 504,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 504,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          25,
+          17,
+          20,
+          21
+        ],
+        "firstName": "Matt",
+        "fullName": "Matt Ammendola",
+        "id": 3919602,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "6",
+        "lastName": "Ammendola",
+        "lastNewsDate": 1629647796000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.00886615515771526,
+          "auctionValueAverageChange": 0.004240095018933456,
+          "averageDraftPosition": 169.88372333723336,
+          "averageDraftPositionPercentChange": -0.06499415589948399,
+          "date": 1630328408223,
+          "leagueType": 0,
+          "percentChange": 0.21175341926456248,
+          "percentOwned": 0.29783740495309985,
+          "percentStarted": 0.199957355861974
+        },
+        "proTeamId": 20,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 69.60420602352941,
+            "appliedTotal": 1183.2715024000001,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "74": 3.169348048,
+              "75": 5.123420705,
+              "76": 1.954072657,
+              "77": 7.813842771,
+              "78": 10.61519192,
+              "79": 2.801349147,
+              "80": 16.31732476,
+              "81": 17.74779721,
+              "82": 1.430472455,
+              "83": 27.30051558,
+              "84": 33.48640984,
+              "85": 6.18589426,
+              "86": 31.18548451,
+              "87": 33.91201012,
+              "88": 2.726525614,
+              "198": 3.169348048,
+              "199": 5.123420705,
+              "200": 1.954072657,
+              "210": 17.0
+            }
+          }
+        ]
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 2985659,
+      "keeperValue": 1,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 5,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 505,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 505,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          17,
+          20,
+          21
+        ],
+        "firstName": "Wil",
+        "fullName": "Wil Lutz",
+        "id": 2985659,
+        "injured": true,
+        "injuryStatus": "OUT",
+        "jersey": "3",
+        "lastName": "Lutz",
+        "lastNewsDate": 1628525864000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.004092071611253197,
+          "auctionValueAverageChange": 2.3702149560169295E-4,
+          "averageDraftPosition": 169.91358230246195,
+          "averageDraftPositionPercentChange": -0.05683423588493497,
+          "date": 1630328408155,
+          "leagueType": 0,
+          "percentChange": -2.7946940374264284,
+          "percentOwned": 3.484602509195852,
+          "percentStarted": 1.9504775463402104
+        },
+        "proTeamId": 18,
+        "rankings": {},
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 128.16303849142855,
+            "appliedTotal": 897.1412694399999,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "74": 2.248951035,
+              "75": 3.533246699,
+              "76": 1.284295664,
+              "77": 5.519752186,
+              "78": 7.32051767,
+              "79": 1.800765484,
+              "80": 11.47208085,
+              "81": 12.23935131,
+              "82": 0.767270459,
+              "83": 19.24078407,
+              "84": 23.09311568,
+              "85": 3.852331607,
+              "86": 27.67082145,
+              "87": 29.51519081,
+              "88": 1.844369368,
+              "198": 2.248951035,
+              "199": 3.533246699,
+              "200": 1.284295664,
+              "210": 7.555555556
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 12,
+          "totalRanking": 132,
+          "totalRating": 1290.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": -16029,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 16,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 506,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 506,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          16,
+          20,
+          21
+        ],
+        "firstName": "Panthers",
+        "fullName": "Panthers D/ST",
+        "id": -16029,
+        "injured": false,
+        "lastName": "D/ST",
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.048034934497816595,
+          "auctionValueAverageChange": 0.01696043056670465,
+          "averageDraftPosition": 169.79990305768513,
+          "averageDraftPositionPercentChange": -0.13111717833385228,
+          "date": 1630328416695,
+          "leagueType": 0,
+          "percentChange": 3.484987718776603,
+          "percentOwned": 15.54298634999817,
+          "percentStarted": 12.58903803951474
+        },
+        "proTeamId": 29,
+        "rankings": {},
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 51.06065506176471,
+            "appliedTotal": 868.0311360500001,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "89": 0.113831701,
+              "90": 0.509694183,
+              "91": 2.089746152,
+              "92": 2.310613632,
+              "93": 0.0615874,
+              "94": 1.57191728,
+              "95": 12.90274166,
+              "96": 10.66875843,
+              "97": 1.199122305,
+              "98": 0.59565509,
+              "99": 41.21150157,
+              "100": 82.42300315,
+              "101": 0.22046,
+              "102": 0.166152,
+              "103": 1.017334542,
+              "104": 0.554582738,
+              "105": 2.02011668,
+              "106": 16.41347451,
+              "109": 1003.002209,
+              "110": 334.0,
+              "111": 200.0,
+              "113": 78.94827228,
+              "114": 680.104,
+              "115": 216.075,
+              "116": 68.0,
+              "117": 27.0,
+              "118": 21.0,
+              "119": 8.0,
+              "120": 406.3583693,
+              "121": 2.463521887,
+              "122": 4.094543274,
+              "123": 3.363981611,
+              "124": 1.817909254,
+              "125": 0.236158305,
+              "126": 23.90343349,
+              "127": 6197.490729,
+              "129": 0.297277042,
+              "130": 2.887834124,
+              "131": 3.354983762,
+              "132": 4.161878591,
+              "133": 3.354983762,
+              "134": 1.953534849,
+              "135": 0.76442668,
+              "136": 0.225081189,
+              "137": 364.5582782,
+              "160": -406.3583693,
+              "210": 17.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 18,
+          "totalRanking": 254,
+          "totalRating": 710.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": -16026,
+      "keeperValue": 1,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 16,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 509,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 509,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          16,
+          20,
+          21
+        ],
+        "firstName": "Seahawks",
+        "fullName": "Seahawks D/ST",
+        "id": -16026,
+        "injured": false,
+        "lastName": "D/ST",
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.07698528222545689,
+          "auctionValueAverageChange": 0.012589924681465872,
+          "averageDraftPosition": 169.30815067792616,
+          "averageDraftPositionPercentChange": -0.26798671778686867,
+          "date": 1630328416676,
+          "leagueType": 0,
+          "percentChange": 0.640604138639632,
+          "percentOwned": 5.906975582547307,
+          "percentStarted": 3.836362274078206
+        },
+        "proTeamId": 26,
+        "rankings": {},
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 54.186726006470586,
+            "appliedTotal": 921.17434211,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "89": 0.132546981,
+              "90": 0.594762095,
+              "91": 2.328068772,
+              "92": 2.447021192,
+              "93": 0.070218571,
+              "94": 1.605528224,
+              "95": 14.32198338,
+              "96": 8.559069962,
+              "97": 1.25383471,
+              "98": 0.580297441,
+              "99": 43.20273297,
+              "100": 86.40546595,
+              "101": 0.2072324,
+              "102": 0.23736,
+              "103": 1.06695548,
+              "104": 0.538572744,
+              "105": 2.120339195,
+              "106": 13.16779994,
+              "109": 1028.749802,
+              "110": 342.0,
+              "111": 205.0,
+              "113": 74.26845209,
+              "114": 728.9743111,
+              "115": 211.56,
+              "116": 72.0,
+              "117": 29.0,
+              "118": 21.0,
+              "119": 8.0,
+              "120": 397.1335291,
+              "121": 2.464014394,
+              "122": 3.976409436,
+              "123": 3.177728908,
+              "124": 1.665333866,
+              "125": 0.214114354,
+              "126": 23.36079583,
+              "127": 6273.71097,
+              "129": 0.144261968,
+              "130": 1.866919583,
+              "131": 2.99555733,
+              "132": 4.361803025,
+              "133": 3.912045126,
+              "134": 2.46093945,
+              "135": 0.967403784,
+              "136": 0.291069735,
+              "137": 369.0418218,
+              "160": -397.1335291,
+              "210": 17.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 12,
+          "totalRanking": 212,
+          "totalRating": 890.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": -16024,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 16,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 511,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 511,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          16,
+          20,
+          21
+        ],
+        "firstName": "Chargers",
+        "fullName": "Chargers D/ST",
+        "id": -16024,
+        "injured": false,
+        "lastName": "D/ST",
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.03234675723758693,
+          "auctionValueAverageChange": 0.014001568169822051,
+          "averageDraftPosition": 169.86954974986102,
+          "averageDraftPositionPercentChange": -0.1632694252834881,
+          "date": 1630328416666,
+          "leagueType": 0,
+          "percentChange": 0.6729051865655986,
+          "percentOwned": 2.897513087261732,
+          "percentStarted": 1.7824317664140235
+        },
+        "proTeamId": 24,
+        "rankings": {},
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 41.591523159411764,
+            "appliedTotal": 707.05589371,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "89": 0.104476866,
+              "90": 0.467172979,
+              "91": 1.970620566,
+              "92": 2.242430299,
+              "93": 0.071673581,
+              "94": 1.536222363,
+              "95": 12.51062601,
+              "96": 6.04387544,
+              "97": 1.067311281,
+              "98": 0.559013193,
+              "99": 37.61947875,
+              "100": 75.2389575,
+              "101": 0.154322,
+              "102": 0.23736,
+              "103": 1.010867676,
+              "104": 0.525354687,
+              "105": 1.999577944,
+              "106": 9.298269908,
+              "109": 992.6228248,
+              "110": 330.0,
+              "111": 198.0,
+              "113": 66.51426938,
+              "114": 625.5714286,
+              "115": 211.56,
+              "116": 62.0,
+              "117": 25.0,
+              "118": 21.0,
+              "119": 8.0,
+              "120": 410.2723779,
+              "121": 2.463275707,
+              "122": 4.153592485,
+              "123": 3.457080044,
+              "124": 1.894174078,
+              "125": 0.247176976,
+              "126": 24.13366929,
+              "127": 6094.825219,
+              "129": 0.425,
+              "130": 3.74,
+              "131": 3.655,
+              "132": 3.995,
+              "133": 2.89,
+              "134": 1.53,
+              "135": 0.595,
+              "136": 0.17,
+              "137": 358.5191305,
+              "160": -410.2723779,
+              "210": 17.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 22,
+          "totalRanking": 323,
+          "totalRating": 480.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": -16021,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 16,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 513,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 513,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          16,
+          20,
+          21
+        ],
+        "firstName": "Eagles",
+        "fullName": "Eagles D/ST",
+        "id": -16021,
+        "injured": false,
+        "lastName": "D/ST",
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.020216723273491832,
+          "auctionValueAverageChange": -0.002621165157807307,
+          "averageDraftPosition": 169.76076148633024,
+          "averageDraftPositionPercentChange": -0.20001362732759276,
+          "date": 1630328416645,
+          "leagueType": 0,
+          "percentChange": 0.06794848286187882,
+          "percentOwned": 1.5772849652591039,
+          "percentStarted": 0.8783044644507308
+        },
+        "proTeamId": 21,
+        "rankings": {},
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 52.79628769764705,
+            "appliedTotal": 897.5368908599999,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "89": 0.160633937,
+              "90": 0.722427757,
+              "91": 2.685731427,
+              "92": 2.651734827,
+              "93": 0.03736835,
+              "94": 1.597110943,
+              "95": 13.01438545,
+              "96": 7.718176457,
+              "97": 1.065430198,
+              "98": 0.537321943,
+              "99": 40.50939655,
+              "100": 81.01879309,
+              "101": 0.154322,
+              "102": 0.1732728,
+              "103": 1.027582922,
+              "104": 0.569528021,
+              "105": 1.962074093,
+              "106": 11.87411763,
+              "109": 1008.715,
+              "110": 336.0,
+              "111": 201.0,
+              "113": 61.79526245,
+              "114": 651.926087,
+              "115": 152.1831429,
+              "116": 65.0,
+              "117": 26.0,
+              "118": 15.0,
+              "119": 6.0,
+              "120": 386.2110283,
+              "121": 2.464753525,
+              "122": 3.799120088,
+              "123": 2.898210179,
+              "124": 1.436356364,
+              "125": 0.181031897,
+              "126": 22.71829578,
+              "127": 6316.129199,
+              "129": 0.118786185,
+              "130": 1.696945498,
+              "131": 2.935715712,
+              "132": 4.39508884,
+              "133": 4.004791376,
+              "134": 2.545418247,
+              "135": 1.001197844,
+              "136": 0.302056299,
+              "137": 371.5370117,
+              "160": -386.2110283,
+              "210": 17.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 15,
+          "totalRanking": 236,
+          "totalRating": 790.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": -16004,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 16,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 515,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 515,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          16,
+          20,
+          21
+        ],
+        "firstName": "Bengals",
+        "fullName": "Bengals D/ST",
+        "id": -16004,
+        "injured": false,
+        "lastName": "D/ST",
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.0048520135856380394,
+          "auctionValueAverageChange": 3.5931422210378275E-4,
+          "averageDraftPosition": 169.9349727626459,
+          "averageDraftPositionPercentChange": -0.07085824031028665,
+          "date": 1630328416541,
+          "leagueType": 0,
+          "percentChange": -0.026731137965225304,
+          "percentOwned": 0.5271544482611062,
+          "percentStarted": 0.2699044095487218
+        },
+        "proTeamId": 4,
+        "rankings": {},
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 45.58709826882353,
+            "appliedTotal": 774.98067057,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "89": 0.095123901,
+              "90": 0.424660272,
+              "91": 1.851518785,
+              "92": 2.174260592,
+              "93": 0.063943802,
+              "94": 1.571177684,
+              "95": 13.16423166,
+              "96": 8.942664702,
+              "97": 1.11604446,
+              "98": 0.566037545,
+              "99": 36.79816142,
+              "100": 73.59632284,
+              "101": 0.556988667,
+              "102": 0.2088768,
+              "103": 1.02626418,
+              "104": 0.544913504,
+              "105": 2.400986952,
+              "106": 13.7579457,
+              "109": 1044.522804,
+              "110": 348.0,
+              "111": 208.0,
+              "113": 78.92139105,
+              "114": 839.56,
+              "115": 226.1343673,
+              "116": 83.0,
+              "117": 33.0,
+              "118": 22.0,
+              "119": 9.0,
+              "120": 414.1329818,
+              "121": 2.463029576,
+              "122": 4.212629896,
+              "123": 3.550159872,
+              "124": 1.970423661,
+              "125": 0.258193445,
+              "126": 24.36076364,
+              "127": 6220.231322,
+              "129": 0.246241446,
+              "130": 2.547325308,
+              "131": 3.235103142,
+              "132": 4.228560012,
+              "133": 3.540782179,
+              "134": 2.12277109,
+              "135": 0.832126267,
+              "136": 0.247090555,
+              "137": 365.8959601,
+              "160": -414.1329818,
+              "210": 17.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 28,
+          "totalRanking": 437,
+          "totalRating": 200.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": -16013,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 16,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 516,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 516,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          16,
+          20,
+          21
+        ],
+        "firstName": "Raiders",
+        "fullName": "Raiders D/ST",
+        "id": -16013,
+        "injured": false,
+        "lastName": "D/ST",
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.020378457059679767,
+          "auctionValueAverageChange": 0.015511366082517655,
+          "averageDraftPosition": 169.80994859389173,
+          "averageDraftPositionPercentChange": -0.0997783579874465,
+          "date": 1630328416597,
+          "leagueType": 0,
+          "percentChange": 0.016303630699449734,
+          "percentOwned": 0.7624245734152092,
+          "percentStarted": 0.36098197754185923
+        },
+        "proTeamId": 13,
+        "rankings": {},
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 38.53709711529411,
+            "appliedTotal": 655.1306509599999,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "89": 0.048387097,
+              "90": 0.212224109,
+              "91": 1.256366723,
+              "92": 1.833616299,
+              "93": 0.069806143,
+              "94": 1.616515568,
+              "95": 12.88639412,
+              "96": 8.527617034,
+              "97": 1.055167956,
+              "98": 0.582561853,
+              "99": 38.6222107,
+              "100": 77.24442141,
+              "101": 0.1675496,
+              "102": 0.166152,
+              "103": 1.043722391,
+              "104": 0.572793177,
+              "105": 2.020023311,
+              "106": 13.11941082,
+              "109": 950.2825339,
+              "110": 316.0,
+              "111": 190.0,
+              "113": 70.96086624,
+              "114": 639.1790609,
+              "115": 279.1928571,
+              "116": 63.0,
+              "117": 25.0,
+              "118": 27.0,
+              "119": 11.0,
+              "120": 422.1762784,
+              "121": 2.46179966,
+              "122": 4.507640068,
+              "123": 4.015280136,
+              "124": 2.351443124,
+              "125": 0.313242784,
+              "126": 24.83389873,
+              "127": 6273.611569,
+              "129": 0.169745382,
+              "130": 2.036944583,
+              "131": 3.055416875,
+              "132": 4.328507239,
+              "133": 3.819271093,
+              "134": 2.376435347,
+              "135": 0.933599601,
+              "136": 0.28007988,
+              "137": 369.0359747,
+              "160": -422.1762784,
+              "210": 17.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 31,
+          "totalRanking": 542,
+          "totalRating": 70.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": -16006,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 16,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 517,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 517,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          16,
+          20,
+          21
+        ],
+        "firstName": "Cowboys",
+        "fullName": "Cowboys D/ST",
+        "id": -16006,
+        "injured": false,
+        "lastName": "D/ST",
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.043021187125990616,
+          "auctionValueAverageChange": -0.009393638781909047,
+          "averageDraftPosition": 169.34857277533942,
+          "averageDraftPositionPercentChange": -0.24389133692380938,
+          "date": 1630328416552,
+          "leagueType": 0,
+          "percentChange": -0.1465191965457624,
+          "percentOwned": 2.4904010416493225,
+          "percentStarted": 1.2384571068922685
+        },
+        "proTeamId": 6,
+        "rankings": {},
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 43.23253926235294,
+            "appliedTotal": 734.9531674599999,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "89": 0.067076216,
+              "90": 0.29717311,
+              "91": 1.494356208,
+              "92": 1.969833183,
+              "93": 0.060329596,
+              "94": 1.570570766,
+              "95": 12.89805499,
+              "96": 10.69158059,
+              "97": 1.091947728,
+              "98": 0.543389282,
+              "99": 38.52340509,
+              "100": 77.04681018,
+              "101": 0.154322,
+              "102": 0.1875144,
+              "103": 1.022580314,
+              "104": 0.547990452,
+              "105": 1.972736762,
+              "106": 16.44858552,
+              "109": 1055.691147,
+              "110": 351.0,
+              "111": 211.0,
+              "113": 63.54095935,
+              "114": 663.7434783,
+              "115": 192.898,
+              "116": 66.0,
+              "117": 26.0,
+              "118": 19.0,
+              "119": 7.0,
+              "120": 418.5939652,
+              "121": 2.462291479,
+              "122": 4.389671362,
+              "123": 3.829287783,
+              "124": 2.199081011,
+              "125": 0.291229647,
+              "126": 24.62317443,
+              "127": 6389.043152,
+              "129": 0.04240459,
+              "130": 1.187328511,
+              "131": 2.756298329,
+              "132": 4.494886505,
+              "133": 4.282863557,
+              "134": 2.798702918,
+              "135": 1.102519332,
+              "136": 0.334996258,
+              "137": 375.8260678,
+              "160": -418.5939652,
+              "210": 17.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 24,
+          "totalRanking": 334,
+          "totalRating": 440.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": -16030,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 16,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 518,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 518,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          16,
+          20,
+          21
+        ],
+        "firstName": "Jaguars",
+        "fullName": "Jaguars D/ST",
+        "id": -16030,
+        "injured": false,
+        "lastName": "D/ST",
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.009704027171276079,
+          "auctionValueAverageChange": -0.012010686419139495,
+          "averageDraftPosition": 169.90573387763814,
+          "averageDraftPositionPercentChange": -0.08820418046565237,
+          "date": 1630328416709,
+          "leagueType": 0,
+          "percentChange": 0.09423648887010572,
+          "percentOwned": 1.0654718196939952,
+          "percentStarted": 0.793234528679824
+        },
+        "proTeamId": 30,
+        "rankings": {},
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 39.64526794882352,
+            "appliedTotal": 673.9695551299999,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "89": 0.057730723,
+              "90": 0.254694367,
+              "91": 1.375349581,
+              "92": 1.901717938,
+              "93": 0.062207317,
+              "94": 1.583019469,
+              "95": 12.29858168,
+              "96": 7.193204278,
+              "97": 1.025492121,
+              "98": 0.561731632,
+              "99": 39.40889752,
+              "100": 78.81779503,
+              "101": 0.2958845,
+              "102": 0.584530378,
+              "103": 1.023401763,
+              "104": 0.559617707,
+              "105": 2.525641665,
+              "106": 11.06646812,
+              "109": 1005.163783,
+              "110": 335.0,
+              "111": 201.0,
+              "113": 66.57710797,
+              "114": 778.121875,
+              "115": 298.7918919,
+              "116": 77.0,
+              "117": 31.0,
+              "118": 29.0,
+              "119": 11.0,
+              "120": 421.6019625,
+              "121": 2.462045545,
+              "122": 4.448661606,
+              "123": 3.922293248,
+              "124": 2.275269676,
+              "125": 0.302237315,
+              "126": 24.80011544,
+              "127": 6256.626902,
+              "129": 0.195236431,
+              "130": 2.207020522,
+              "131": 3.115294353,
+              "132": 4.295201478,
+              "133": 3.726469266,
+              "134": 2.291905927,
+              "135": 0.89978529,
+              "136": 0.269086733,
+              "137": 368.0368766,
+              "160": -421.6019625,
+              "210": 17.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 29,
+          "totalRanking": 452,
+          "totalRating": 180.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": -16008,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 16,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 519,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 519,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          16,
+          20,
+          21
+        ],
+        "firstName": "Lions",
+        "fullName": "Lions D/ST",
+        "id": -16008,
+        "injured": false,
+        "lastName": "D/ST",
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.0048520135856380394,
+          "auctionValueAverageChange": -0.0022614270732912002,
+          "averageDraftPosition": 169.83762679153492,
+          "averageDraftPositionPercentChange": -0.09347989663461931,
+          "date": 1630328416564,
+          "leagueType": 0,
+          "percentChange": -0.05459259960781715,
+          "percentOwned": 0.4160943080496516,
+          "percentStarted": 0.22461433435733494
+        },
+        "proTeamId": 8,
+        "rankings": {},
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 36.57404040235294,
+            "appliedTotal": 621.75868684,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "89": 0.029705442,
+              "90": 0.127309036,
+              "91": 1.018472292,
+              "92": 1.697453819,
+              "93": 0.09724158,
+              "94": 1.610377195,
+              "95": 11.41402945,
+              "96": 10.17188897,
+              "97": 1.150439338,
+              "98": 0.59299913,
+              "99": 38.69807404,
+              "100": 77.39614808,
+              "101": 0.154322,
+              "102": 0.166152,
+              "103": 1.075890822,
+              "104": 0.534486373,
+              "105": 2.028092776,
+              "106": 15.64905996,
+              "109": 1013.242149,
+              "110": 337.0,
+              "111": 202.0,
+              "113": 57.5908843,
+              "114": 611.4175439,
+              "115": 209.8983051,
+              "116": 61.0,
+              "117": 24.0,
+              "118": 20.0,
+              "119": 8.0,
+              "120": 453.0892751,
+              "121": 2.461308038,
+              "122": 4.625561658,
+              "123": 4.201198203,
+              "124": 2.503744383,
+              "125": 0.335247129,
+              "126": 26.6523103,
+              "127": 6340.123033,
+              "129": 0.09331803,
+              "130": 1.527022307,
+              "131": 2.875892011,
+              "132": 4.428364689,
+              "133": 4.097509856,
+              "134": 2.62987175,
+              "135": 1.034981786,
+              "136": 0.313039573,
+              "137": 372.9484137,
+              "160": -453.0892751,
+              "210": 17.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 32,
+          "totalRanking": 734,
+          "totalRating": -60.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": -16034,
+      "keeperValue": 1,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 16,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 520,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 520,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          16,
+          20,
+          21
+        ],
+        "firstName": "Texans",
+        "fullName": "Texans D/ST",
+        "id": -16034,
+        "injured": false,
+        "lastName": "D/ST",
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.13084263302603913,
+          "auctionValueAverageChange": -0.01442131306156852,
+          "averageDraftPosition": 169.68981296192536,
+          "averageDraftPositionPercentChange": -0.16213394235032297,
+          "date": 1630328416721,
+          "leagueType": 0,
+          "percentChange": 0.03528041652353686,
+          "percentOwned": 0.6700178660330579,
+          "percentStarted": 0.42042622060970963
+        },
+        "proTeamId": 34,
+        "rankings": {},
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 36.503020627058824,
+            "appliedTotal": 620.55135066,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "89": 0.039045337,
+              "90": 0.169762333,
+              "91": 1.137407629,
+              "92": 1.76552826,
+              "93": 0.077985121,
+              "94": 1.618997827,
+              "95": 11.7123229,
+              "96": 8.123750575,
+              "97": 1.09065553,
+              "98": 0.578027907,
+              "99": 38.65150906,
+              "100": 77.30301812,
+              "101": 0.250195016,
+              "102": 0.342061091,
+              "103": 1.065096626,
+              "104": 0.553901201,
+              "105": 2.289239055,
+              "106": 12.49807781,
+              "109": 1009.392086,
+              "110": 336.0,
+              "111": 201.0,
+              "113": 60.1907768,
+              "114": 778.3291005,
+              "115": 254.0909091,
+              "116": 77.0,
+              "117": 31.0,
+              "118": 25.0,
+              "119": 10.0,
+              "120": 443.0310362,
+              "121": 2.461553825,
+              "122": 4.566606751,
+              "123": 4.108248452,
+              "124": 2.427601358,
+              "125": 0.324246056,
+              "126": 26.06064919,
+              "127": 6366.83719,
+              "129": 0.067857499,
+              "130": 1.357149985,
+              "131": 2.816086219,
+              "132": 4.461630576,
+              "133": 4.190200579,
+              "134": 2.71429997,
+              "135": 1.068755613,
+              "136": 0.324019559,
+              "137": 374.5198347,
+              "160": -443.0310362,
+              "210": 17.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 29,
+          "totalRanking": 452,
+          "totalRating": 180.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 2973405,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1013,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1013,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Kalif",
+        "fullName": "Kalif Raymond",
+        "id": 2973405,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "11",
+        "lastName": "Raymond",
+        "lastNewsDate": 1630187131000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 9.222256378727329E-4,
+          "auctionValueAverageChange": 5.575283366327621E-4,
+          "averageDraftPosition": 170.01654903442005,
+          "averageDraftPositionPercentChange": -0.023816929014827792,
+          "date": 1630328411066,
+          "leagueType": 0,
+          "percentChange": 0.02606001920744029,
+          "percentOwned": 0.07153357484118233,
+          "percentStarted": 0.009187798603454613
+        },
+        "proTeamId": 8,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 33.29385317125,
+            "appliedTotal": 532.70165074,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 327.2898353,
+              "43": 1.239205748,
+              "44": 0.061698895,
+              "45": 0.299696413,
+              "46": 0.195851606,
+              "47": 65.0,
+              "48": 32.0,
+              "49": 16.0,
+              "50": 13.0,
+              "51": 6.0,
+              "53": 22.6456684,
+              "54": 4.0,
+              "55": 2.0,
+              "56": 0.14640332,
+              "57": 0.004527938,
+              "58": 36.27154333,
+              "60": 14.45264628,
+              "61": 20.4556147,
+              "62": 0.061698895,
+              "63": 0.001058675,
+              "67": 0.240608021,
+              "68": 0.240608021,
+              "71": 0.134740492,
+              "72": 0.134740492,
+              "73": 0.134740492,
+              "101": 0.154322,
+              "102": 0.166152,
+              "114": 611.4175439,
+              "115": 209.8983051,
+              "116": 61.0,
+              "117": 24.0,
+              "118": 20.0,
+              "119": 8.0,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 144,
+          "totalRanking": 416,
+          "totalRating": 229.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 4035793,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1014,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1014,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Quintez",
+        "fullName": "Quintez Cephus",
+        "id": 4035793,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "87",
+        "lastName": "Cephus",
+        "lastNewsDate": 1630123417000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.0036889025514909315,
+          "auctionValueAverageChange": -0.0021483831106761607,
+          "averageDraftPosition": 170.16429421608112,
+          "averageDraftPositionPercentChange": 0.0873825910289554,
+          "date": 1630328409942,
+          "leagueType": 0,
+          "percentChange": -0.2265929092095793,
+          "percentOwned": 0.6659589792894797,
+          "percentStarted": 0.037079755929889734
+        },
+        "proTeamId": 8,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 26.239390166875,
+            "appliedTotal": 419.83024267,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 258.218901,
+              "43": 1.163668434,
+              "44": 0.057937963,
+              "45": 0.242590732,
+              "46": 0.158533043,
+              "47": 51.0,
+              "48": 25.0,
+              "49": 12.0,
+              "50": 10.0,
+              "51": 5.0,
+              "53": 18.55775499,
+              "54": 3.0,
+              "55": 1.0,
+              "56": 0.100048996,
+              "57": 0.003094299,
+              "58": 30.22628611,
+              "60": 13.91433938,
+              "61": 16.13868131,
+              "62": 0.057937963,
+              "63": 8.67567E-4,
+              "67": 0.197174339,
+              "68": 0.197174339,
+              "71": 0.11041763,
+              "72": 0.11041763,
+              "73": 0.11041763,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 101,
+          "totalRanking": 296,
+          "totalRating": 569.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 4411193,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1015,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1015,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Deonte",
+        "fullName": "Deonte Harris",
+        "id": 4411193,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "11",
+        "lastName": "Harris",
+        "lastNewsDate": 1627564169000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.005379649554257608,
+          "auctionValueAverageChange": 0.0031906674309449485,
+          "averageDraftPosition": 169.98001607498145,
+          "averageDraftPositionPercentChange": 0.11884908340837796,
+          "date": 1630328408362,
+          "leagueType": 0,
+          "percentChange": -0.10764203911917203,
+          "percentOwned": 0.6840066481049127,
+          "percentStarted": 0.11829426559933848
+        },
+        "proTeamId": 18,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 35.244003344999996,
+            "appliedTotal": 563.9040535199999,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 8.509396496,
+              "24": 53.57329306,
+              "25": 0.202495674,
+              "26": 0.006157706,
+              "27": 10.0,
+              "28": 5.0,
+              "29": 2.0,
+              "30": 2.0,
+              "31": 1.0,
+              "33": 1.0,
+              "35": 0.015677918,
+              "36": 0.010974543,
+              "37": 0.007059863,
+              "38": 2.41E-4,
+              "39": 6.295780563,
+              "40": 3.348330817,
+              "42": 271.0662399,
+              "43": 1.504681486,
+              "44": 0.070272831,
+              "45": 0.207291438,
+              "46": 0.135464955,
+              "47": 54.0,
+              "48": 27.0,
+              "49": 13.0,
+              "50": 10.0,
+              "51": 5.0,
+              "53": 22.39942238,
+              "54": 4.0,
+              "55": 2.0,
+              "56": 0.115141791,
+              "57": 0.003561086,
+              "58": 33.02059407,
+              "60": 12.10148348,
+              "61": 16.94163999,
+              "62": 0.076430537,
+              "63": 0.001444974,
+              "66": 0.090411509,
+              "67": 0.237991681,
+              "68": 0.32840319,
+              "70": 0.041589294,
+              "71": 0.133275341,
+              "72": 0.174864636,
+              "73": 0.174864636,
+              "101": 0.154322,
+              "102": 0.29099071,
+              "114": 832.5590909,
+              "115": 279.6387097,
+              "116": 83.0,
+              "117": 33.0,
+              "118": 27.0,
+              "119": 11.0,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 121,
+          "totalRanking": 354,
+          "totalRating": 377.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3915823,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1016,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1016,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Keke",
+        "fullName": "Keke Coutee",
+        "id": 3915823,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "16",
+        "lastName": "Coutee",
+        "lastNewsDate": 1629640826000,
+        "lastVideoDate": 1538629293000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.001690747002766677,
+          "auctionValueAverageChange": -0.0015927261822023123,
+          "averageDraftPosition": 170.03128060751666,
+          "averageDraftPositionPercentChange": 0.17554934960142532,
+          "date": 1630328405312,
+          "leagueType": 0,
+          "percentChange": -0.15678356759762851,
+          "percentOwned": 0.3689976357243527,
+          "percentStarted": 0.028220361647215947
+        },
+        "proTeamId": 34,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 33.280090539374996,
+            "appliedTotal": 532.4814486299999,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 309.8078859,
+              "43": 1.427831844,
+              "44": 0.075352015,
+              "45": 0.142091268,
+              "46": 0.092856644,
+              "47": 61.0,
+              "48": 30.0,
+              "49": 15.0,
+              "50": 12.0,
+              "51": 6.0,
+              "53": 28.11908881,
+              "54": 5.0,
+              "55": 2.0,
+              "56": 0.132661172,
+              "57": 0.004102923,
+              "58": 41.32363649,
+              "60": 11.01770715,
+              "61": 19.36299287,
+              "62": 0.075352015,
+              "63": 0.00205,
+              "67": 0.466235024,
+              "68": 0.466235024,
+              "71": 0.261091613,
+              "72": 0.261091613,
+              "73": 0.261091613,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 90,
+          "totalRanking": 257,
+          "totalRating": 705.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 4360797,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1017,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1017,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          25,
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Tutu",
+        "fullName": "Tutu Atwell",
+        "id": 4360797,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "15",
+        "lastName": "Atwell",
+        "lastNewsDate": 1630215274000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.004303719643406086,
+          "auctionValueAverageChange": -0.0015335660187610059,
+          "averageDraftPosition": 170.17616598516358,
+          "averageDraftPositionPercentChange": 0.015864166529325985,
+          "date": 1630328407540,
+          "leagueType": 0,
+          "percentChange": -0.2770407021114416,
+          "percentOwned": 0.9096025082978259,
+          "percentStarted": 0.03396243131631493
+        },
+        "proTeamId": 14,
+        "seasonOutlook": "Atwell was selected by the Rams in the second round of April's draft. The Louisville product is one of the tiniest players in this year's rookie class at 5-foot-9, 155 pounds. He's a terrific athlete with outstanding game speed, explosiveness, elusiveness and big-play ability, but he isn't going to handle traffic or contested situations very well. Atwell is primarily a slot target (92% over the past three seasons) and figures to be used as a situational screen/gadget and vertical home-run target in the pros. He may have trouble finding his way to consistent snaps and targets in 2021 with Robert Woods, Cooper Kupp, Van Jefferson and DeSean Jackson also in the fold. The second-round investment and Sean McVay's productive offense makes him worthy of a late-round flier.",
+        "stats": [
+          {
+            "appliedAverage": 33.8564364075,
+            "appliedTotal": 541.70298252,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 313.2375726,
+              "43": 1.446805489,
+              "44": 0.070568523,
+              "45": 0.228610118,
+              "46": 0.149396712,
+              "47": 62.0,
+              "48": 31.0,
+              "49": 15.0,
+              "50": 12.0,
+              "51": 6.0,
+              "53": 23.38357808,
+              "54": 4.0,
+              "55": 2.0,
+              "56": 0.136729675,
+              "57": 0.004228753,
+              "58": 37.23476489,
+              "60": 13.39562198,
+              "61": 19.57734829,
+              "62": 0.070568523,
+              "63": 0.00109,
+              "67": 0.248448239,
+              "68": 0.248448239,
+              "71": 0.139131014,
+              "72": 0.139131014,
+              "73": 0.139131014,
+              "101": 0.22046,
+              "102": 0.213624,
+              "114": 680.104,
+              "115": 190.404,
+              "116": 68.0,
+              "117": 27.0,
+              "118": 19.0,
+              "119": 7.0,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 0,
+          "totalRanking": 0,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3128724,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1018,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1018,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Isaiah",
+        "fullName": "Isaiah McKenzie",
+        "id": 3128724,
+        "injured": false,
+        "injuryStatus": "QUESTIONABLE",
+        "jersey": "19",
+        "lastName": "McKenzie",
+        "lastNewsDate": 1630022433000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.001537042729787888,
+          "auctionValueAverageChange": -0.003229401502814591,
+          "averageDraftPosition": 169.99465041000346,
+          "averageDraftPositionPercentChange": -0.003381620351035508,
+          "date": 1630328404072,
+          "leagueType": 0,
+          "percentChange": -0.04232999728929979,
+          "percentOwned": 0.2114882934912796,
+          "percentStarted": 0.023298167320218544
+        },
+        "proTeamId": 2,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 34.254504346874995,
+            "appliedTotal": 548.0720695499999,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 12.73891723,
+              "24": 62.59568169,
+              "25": 0.469992327,
+              "26": 0.017374404,
+              "27": 12.0,
+              "28": 6.0,
+              "29": 3.0,
+              "30": 2.0,
+              "31": 1.0,
+              "33": 2.0,
+              "34": 1.0,
+              "35": 0.023524811,
+              "36": 0.016467368,
+              "37": 0.009757514,
+              "38": 3.33E-4,
+              "39": 4.913736433,
+              "40": 3.912230106,
+              "42": 212.6942631,
+              "43": 1.786909447,
+              "44": 0.074708071,
+              "45": 0.100225474,
+              "46": 0.065497347,
+              "47": 42.0,
+              "48": 21.0,
+              "49": 10.0,
+              "50": 8.0,
+              "51": 4.0,
+              "53": 21.39538158,
+              "54": 4.0,
+              "55": 2.0,
+              "56": 0.079403025,
+              "57": 0.002455764,
+              "58": 30.77140201,
+              "60": 9.941129693,
+              "61": 13.29339144,
+              "62": 0.092082475,
+              "63": 0.00112,
+              "66": 0.094744828,
+              "67": 0.159126692,
+              "68": 0.25387152,
+              "70": 0.043582621,
+              "71": 0.089110947,
+              "72": 0.132693568,
+              "73": 0.132693568,
+              "101": 0.154322,
+              "102": 0.364613538,
+              "114": 579.84,
+              "115": 245.4307692,
+              "116": 57.0,
+              "117": 23.0,
+              "118": 24.0,
+              "119": 9.0,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 69,
+          "totalRanking": 217,
+          "totalRating": 865.2
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 2579604,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1019,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1019,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Phillip",
+        "fullName": "Phillip Dorsett II",
+        "id": 2579604,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "13",
+        "lastName": "Dorsett II",
+        "lastNewsDate": 1616432885000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 4.6111281893636643E-4,
+          "auctionValueAverageChange": 9.64155176963956E-5,
+          "averageDraftPosition": 169.99496240469415,
+          "averageDraftPositionPercentChange": -0.005563148095944825,
+          "date": 1630328410851,
+          "leagueType": 0,
+          "percentChange": -9.496333740049434E-4,
+          "percentOwned": 0.09663595316847798,
+          "percentStarted": 0.013289494408568277
+        },
+        "proTeamId": 30,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 30.14798864125,
+            "appliedTotal": 482.36781826,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 278.0266826,
+              "43": 1.600426401,
+              "44": 0.084139481,
+              "45": 0.180604867,
+              "46": 0.11802528,
+              "47": 55.0,
+              "48": 27.0,
+              "49": 13.0,
+              "50": 11.0,
+              "51": 5.0,
+              "53": 21.79646086,
+              "54": 4.0,
+              "55": 2.0,
+              "56": 0.111260398,
+              "57": 0.003441043,
+              "58": 35.03525723,
+              "60": 12.75558837,
+              "61": 17.37666767,
+              "62": 0.084139481,
+              "63": 9.45E-4,
+              "67": 0.214843065,
+              "68": 0.214843065,
+              "71": 0.120312116,
+              "72": 0.120312116,
+              "73": 0.120312116,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 0,
+          "totalRanking": 0,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3921564,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1020,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1020,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Auden",
+        "fullName": "Auden Tate",
+        "id": 3921564,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "19",
+        "lastName": "Tate",
+        "lastNewsDate": 1625061065000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.001537042729787888,
+          "auctionValueAverageChange": 0.0011722123759024448,
+          "averageDraftPosition": 169.9849218863234,
+          "averageDraftPositionPercentChange": 5.835543278180921E-4,
+          "date": 1630328410252,
+          "leagueType": 0,
+          "percentChange": -0.027621650477008097,
+          "percentOwned": 0.14996168921834518,
+          "percentStarted": 0.01804790570461485
+        },
+        "proTeamId": 4,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 28.46273210375,
+            "appliedTotal": 455.40371366,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 251.067948,
+              "43": 1.75467339,
+              "44": 0.068010655,
+              "45": 0.126617267,
+              "46": 0.082744384,
+              "47": 50.0,
+              "48": 25.0,
+              "49": 12.0,
+              "50": 10.0,
+              "51": 5.0,
+              "53": 20.0634061,
+              "54": 4.0,
+              "55": 2.0,
+              "56": 0.105832479,
+              "57": 0.003273169,
+              "58": 34.35964849,
+              "60": 12.51372507,
+              "61": 15.69174675,
+              "62": 0.068010655,
+              "63": 0.00105,
+              "67": 0.239721547,
+              "68": 0.239721547,
+              "71": 0.134244067,
+              "72": 0.134244067,
+              "73": 0.134244067,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 148,
+          "totalRanking": 421,
+          "totalRating": 220.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 4050373,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1021,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1021,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Quez",
+        "fullName": "Quez Watkins",
+        "id": 4050373,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "16",
+        "lastName": "Watkins",
+        "lastNewsDate": 1630003824000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.04150015370427298,
+          "auctionValueAverageChange": 0.021069653886688154,
+          "averageDraftPosition": 169.88823056618193,
+          "averageDraftPositionPercentChange": -0.14523637017515512,
+          "date": 1630328408018,
+          "leagueType": 0,
+          "percentChange": -0.14956491448038345,
+          "percentOwned": 1.7132159797341087,
+          "percentStarted": 0.05709626134337003
+        },
+        "proTeamId": 21,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 28.2428624775,
+            "appliedTotal": 451.88579964,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 263.9437138,
+              "43": 1.455233522,
+              "44": 0.084624167,
+              "45": 0.208711402,
+              "46": 0.136392901,
+              "47": 52.0,
+              "48": 26.0,
+              "49": 13.0,
+              "50": 10.0,
+              "51": 5.0,
+              "53": 20.25788754,
+              "54": 4.0,
+              "55": 2.0,
+              "56": 0.103124027,
+              "57": 0.003189403,
+              "58": 32.09858812,
+              "60": 13.0291825,
+              "61": 16.49648211,
+              "62": 0.084624167,
+              "63": 9.47E-4,
+              "67": 0.215238082,
+              "68": 0.215238082,
+              "71": 0.120533326,
+              "72": 0.120533326,
+              "73": 0.120533326,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 153,
+          "totalRanking": 436,
+          "totalRating": 201.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3046704,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 4,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1022,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1022,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          5,
+          6,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Geoff",
+        "fullName": "Geoff Swaim",
+        "id": 3046704,
+        "injured": true,
+        "injuryStatus": "OUT",
+        "jersey": "87",
+        "lastName": "Swaim",
+        "lastNewsDate": 1629994240000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.0,
+          "auctionValueAverageChange": -7.296607077708865E-4,
+          "averageDraftPosition": 169.98830340005182,
+          "averageDraftPositionPercentChange": -0.007679139881105357,
+          "date": 1630328417765,
+          "leagueType": 0,
+          "percentChange": -0.025532108915727714,
+          "percentOwned": 0.06940502013237819,
+          "percentStarted": 0.015915571992531165
+        },
+        "proTeamId": 10,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 27.431515149375,
+            "appliedTotal": 438.90424239,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 208.1566608,
+              "43": 1.985766581,
+              "44": 0.110638356,
+              "45": 0.095581369,
+              "46": 0.062462425,
+              "47": 41.0,
+              "48": 20.0,
+              "49": 10.0,
+              "50": 8.0,
+              "51": 4.0,
+              "53": 22.32709745,
+              "54": 4.0,
+              "55": 2.0,
+              "56": 0.077633895,
+              "57": 0.002401048,
+              "58": 30.46370114,
+              "60": 9.323050667,
+              "61": 13.0097913,
+              "62": 0.110638356,
+              "63": 9.04E-4,
+              "67": 0.205438182,
+              "68": 0.205438182,
+              "71": 0.115045382,
+              "72": 0.115045382,
+              "73": 0.115045382,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 70,
+          "totalRanking": 445,
+          "totalRating": 188.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 4239992,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1023,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1023,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          25,
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Amari",
+        "fullName": "Amari Rodgers",
+        "id": 4239992,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "8",
+        "lastName": "Rodgers",
+        "lastNewsDate": 1630188167000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.052566861358745776,
+          "auctionValueAverageChange": 0.01425967420077423,
+          "averageDraftPosition": 169.84340947721174,
+          "averageDraftPositionPercentChange": -0.08529539203200898,
+          "date": 1630328414320,
+          "leagueType": 0,
+          "percentChange": -0.23383985820219255,
+          "percentOwned": 1.2794156492976996,
+          "percentStarted": 0.07104218724620466
+        },
+        "proTeamId": 9,
+        "seasonOutlook": "The Packers drafted Rodgers in the third round of April's draft. The Clemson product is a 5-foot-9, 210-pound receiver/rusher/punt returner. Built like a back, Rodgers is not coincidentally very good after the catch and is a quality tackle breaker. He has good speed, strength and hands, but his lack of length hurts his separation ability and could limit him to slot duties (or perhaps even a conversion to RB) in the pros. Rodgers' 6.4 aDOT over the past three seasons is second-lowest in this class and he handled only 15% of the targets and 11% of the air yards in Clemson's offense. He'll look to carve out a slot/punt returner role, but he'll have his hands full finding a consistent offensive role with Randall Cobb, Allen Lazard, Marquez Valdes-Scantling and Devin Funchess in the mix. He's barely worth late-round consideration.",
+        "stats": [
+          {
+            "appliedAverage": 28.145541214374997,
+            "appliedTotal": 450.32865942999996,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 6.108754058,
+              "24": 37.03871097,
+              "25": 0.232003109,
+              "26": 0.008567831,
+              "27": 7.0,
+              "28": 3.0,
+              "29": 1.0,
+              "30": 1.0,
+              "33": 1.0,
+              "35": 0.011240212,
+              "36": 0.007868148,
+              "37": 0.003279804,
+              "38": 1.12E-4,
+              "39": 6.063218559,
+              "40": 2.314919436,
+              "42": 211.0858007,
+              "43": 1.326110684,
+              "44": 0.055124259,
+              "45": 0.146749371,
+              "46": 0.095900714,
+              "47": 42.0,
+              "48": 21.0,
+              "49": 10.0,
+              "50": 8.0,
+              "51": 4.0,
+              "53": 19.20261932,
+              "54": 3.0,
+              "55": 1.0,
+              "56": 0.079082469,
+              "57": 0.00244585,
+              "58": 27.96400079,
+              "60": 10.99255248,
+              "61": 13.19286254,
+              "62": 0.063692089,
+              "63": 0.001183296,
+              "66": 0.064904917,
+              "67": 0.20402596,
+              "68": 0.268930877,
+              "70": 0.029856262,
+              "71": 0.114254538,
+              "72": 0.144110799,
+              "73": 0.144110799,
+              "102": 0.23736,
+              "115": 211.56,
+              "118": 21.0,
+              "119": 8.0,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 0,
+          "totalRanking": 0,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 4035403,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1024,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1024,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Denzel",
+        "fullName": "Denzel Mims",
+        "id": 4035403,
+        "injured": false,
+        "injuryStatus": "QUESTIONABLE",
+        "jersey": "11",
+        "lastName": "Mims",
+        "lastNewsDate": 1630255285000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.007070396557024286,
+          "auctionValueAverageChange": -0.0016855319362263522,
+          "averageDraftPosition": 170.30108353354035,
+          "averageDraftPositionPercentChange": 0.1022971810197646,
+          "date": 1630328409558,
+          "leagueType": 0,
+          "percentChange": -0.6240033866002446,
+          "percentOwned": 1.362945024438505,
+          "percentStarted": 0.049713776622711814
+        },
+        "proTeamId": 20,
+        "seasonOutlook": "Mims is entering his second NFL season after appearing in nine games as a rookie. The 2020 second-round pick was heavily used out of the gate with seven-plus targets in four of his first five NFL games but was reduced to a total of 11 targets during his final four outings. Mims was utilized as a vertical threat (15.3 aDOT) but caught only 50% of his 46 targets and didn't find the end zone. Mims has a great combination of size (6-foot-3), speed (4.38 40-yard dash) and quickness (6.66 three cone), but has plenty of competition for work with Corey Davis, Elijah Moore and Keelan Cole added to a WR room that also includes Jamison Crowder. Mims' skill set and talent make him worth a late-round flier, even in a rebuilding Jets' offense.",
+        "stats": [
+          {
+            "appliedAverage": 27.929644659374997,
+            "appliedTotal": 446.87431454999995,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 273.9533317,
+              "43": 1.28534845,
+              "44": 0.070640457,
+              "45": 0.204943188,
+              "46": 0.133930373,
+              "47": 54.0,
+              "48": 27.0,
+              "49": 13.0,
+              "50": 10.0,
+              "51": 5.0,
+              "53": 19.32657961,
+              "54": 3.0,
+              "55": 1.0,
+              "56": 0.108808243,
+              "57": 0.003365203,
+              "58": 33.4632228,
+              "60": 14.17495166,
+              "61": 17.12208323,
+              "62": 0.070640457,
+              "63": 9.03509E-4,
+              "67": 0.205343026,
+              "68": 0.205343026,
+              "71": 0.114992094,
+              "72": 0.114992094,
+              "73": 0.114992094,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 108,
+          "totalRanking": 316,
+          "totalRating": 492.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3932430,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1025,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1025,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Jalen",
+        "fullName": "Jalen Guyton",
+        "id": 3932430,
+        "injured": false,
+        "injuryStatus": "QUESTIONABLE",
+        "jersey": "15",
+        "lastName": "Guyton",
+        "lastNewsDate": 1629932089000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 6.148170919151552E-4,
+          "auctionValueAverageChange": 2.4998673802971194E-4,
+          "averageDraftPosition": 169.99703532574085,
+          "averageDraftPositionPercentChange": 0.017386702895549888,
+          "date": 1630328405539,
+          "leagueType": 0,
+          "percentChange": -0.100510190356461,
+          "percentOwned": 0.1955736690900082,
+          "percentStarted": 0.016899402614321178
+        },
+        "proTeamId": 24,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 28.240145851875,
+            "appliedTotal": 451.84233363,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 2.045802569,
+              "24": 10.60759412,
+              "25": 0.071616741,
+              "26": 0.002720262,
+              "27": 2.0,
+              "28": 1.0,
+              "35": 0.003755996,
+              "36": 0.002629197,
+              "37": 2.13457E-4,
+              "38": 7.28E-6,
+              "39": 5.185052694,
+              "40": 0.662974633,
+              "42": 260.5417668,
+              "43": 1.458789685,
+              "44": 0.071773444,
+              "45": 0.238246769,
+              "46": 0.155694263,
+              "47": 52.0,
+              "48": 26.0,
+              "49": 13.0,
+              "50": 10.0,
+              "51": 5.0,
+              "53": 17.93129145,
+              "54": 3.0,
+              "55": 1.0,
+              "56": 0.101262333,
+              "57": 0.003131825,
+              "58": 30.65378968,
+              "60": 14.53000569,
+              "61": 16.28386042,
+              "62": 0.074493706,
+              "63": 9.33921E-4,
+              "66": 0.021736453,
+              "67": 0.190518225,
+              "68": 0.212254678,
+              "70": 0.009998768,
+              "71": 0.106690206,
+              "72": 0.116688974,
+              "73": 0.116688974,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 77,
+          "totalRanking": 226,
+          "totalRating": 831.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3042910,
+      "keeperValue": 9,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1026,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1026,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Rashard",
+        "fullName": "Rashard Higgins",
+        "id": 3042910,
+        "injured": false,
+        "injuryStatus": "QUESTIONABLE",
+        "jersey": "82",
+        "lastName": "Higgins",
+        "lastNewsDate": 1630118198000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.018751921303412234,
+          "auctionValueAverageChange": 0.0012400643169109583,
+          "averageDraftPosition": 169.95456801401963,
+          "averageDraftPositionPercentChange": -0.06268538257182854,
+          "date": 1630328413483,
+          "leagueType": 0,
+          "percentChange": -0.17971016025692155,
+          "percentOwned": 0.6155976563974084,
+          "percentStarted": 0.07153533533829158
+        },
+        "proTeamId": 5,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 26.5644530975,
+            "appliedTotal": 425.03124956,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 247.3072231,
+              "43": 1.577999422,
+              "44": 0.076894912,
+              "45": 0.307435059,
+              "46": 0.200908811,
+              "47": 49.0,
+              "48": 24.0,
+              "49": 12.0,
+              "50": 9.0,
+              "51": 4.0,
+              "53": 17.04693528,
+              "54": 3.0,
+              "55": 1.0,
+              "56": 0.094505584,
+              "57": 0.002922853,
+              "58": 27.24126161,
+              "60": 14.50743017,
+              "61": 15.45670145,
+              "62": 0.076894912,
+              "63": 0.0015,
+              "67": 0.340938706,
+              "68": 0.340938706,
+              "71": 0.190925675,
+              "72": 0.190925675,
+              "73": 0.190925675,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 62,
+          "totalRanking": 188,
+          "totalRating": 1024.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3914397,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1027,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1027,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Scotty",
+        "fullName": "Scotty Miller",
+        "id": 3914397,
+        "injured": false,
+        "injuryStatus": "QUESTIONABLE",
+        "jersey": "10",
+        "lastName": "Miller",
+        "lastNewsDate": 1630292407000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.01798339993851829,
+          "auctionValueAverageChange": 0.0052143375525277764,
+          "averageDraftPosition": 169.94927618980694,
+          "averageDraftPositionPercentChange": -0.03298157012548586,
+          "date": 1630328417122,
+          "leagueType": 0,
+          "percentChange": -0.07771422367359326,
+          "percentOwned": 0.4925364808416106,
+          "percentStarted": 0.04577537580106908
+        },
+        "proTeamId": 27,
+        "seasonOutlook": "Miller flirted with flex value during the first half of the 2020 season, but his stock plummeted in a hurry once Antonio Brown returned from suspension in Week 9. Of course, even before Brown came back and with Chris Godwin missing four of the first eight games, Miller sat 40th at WR in fantasy points with a 25-400-2 receiving line. He was limited to an 8-101-1 line as a situational player the rest of the regular season. For the season, his 15.1 aDOT was fifth highest among WRs. Brown, Mike Evans and Chris Godwin are all back for 2021 and youngsters Tyler Johnson and Jaelon Darden are also competing for work off the bench. The 24-year-old Miller doesn't need to be drafted.",
+        "stats": [
+          {
+            "appliedAverage": 25.139998989374998,
+            "appliedTotal": 402.23998382999997,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 2.055159447,
+              "24": 12.02256457,
+              "25": 0.061721644,
+              "26": 0.002518989,
+              "27": 2.0,
+              "28": 1.0,
+              "35": 0.003773186,
+              "36": 0.00264123,
+              "37": 2.84941E-4,
+              "38": 9.72E-6,
+              "39": 5.849942485,
+              "40": 0.751410285,
+              "42": 219.6656671,
+              "43": 1.518965733,
+              "44": 0.060403286,
+              "45": 0.260562913,
+              "46": 0.170277864,
+              "47": 43.0,
+              "48": 21.0,
+              "49": 10.0,
+              "50": 8.0,
+              "51": 4.0,
+              "53": 15.20429638,
+              "54": 3.0,
+              "55": 1.0,
+              "56": 0.082149003,
+              "57": 0.002540691,
+              "58": 25.24488041,
+              "60": 14.44760492,
+              "61": 13.7291042,
+              "62": 0.062922275,
+              "63": 6.45498E-4,
+              "66": 0.017468695,
+              "67": 0.129235334,
+              "68": 0.14670403,
+              "70": 0.0080356,
+              "71": 0.072371787,
+              "72": 0.080407387,
+              "73": 0.080407387,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 71,
+          "totalRanking": 219,
+          "totalRating": 860.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3894912,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1028,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1028,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Tyron",
+        "fullName": "Tyron Johnson",
+        "id": 3894912,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "83",
+        "lastName": "Johnson",
+        "lastNewsDate": 1630215125000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 1.537042729787888E-4,
+          "auctionValueAverageChange": -2.1112608090665446E-4,
+          "averageDraftPosition": 169.98390730891026,
+          "averageDraftPositionPercentChange": 0.016663751809062433,
+          "date": 1630328413462,
+          "leagueType": 0,
+          "percentChange": -0.03700903591604743,
+          "percentOwned": 0.12928863359305912,
+          "percentStarted": 0.011813174643020629
+        },
+        "proTeamId": 24,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 24.828901895625002,
+            "appliedTotal": 397.26243033000003,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 4.091605138,
+              "24": 22.18766969,
+              "25": 0.138001727,
+              "26": 0.005241804,
+              "27": 4.0,
+              "28": 2.0,
+              "29": 1.0,
+              "35": 0.007520367,
+              "36": 0.005264257,
+              "37": 0.001112849,
+              "38": 3.8E-5,
+              "39": 5.422729941,
+              "40": 1.386729356,
+              "42": 220.1846452,
+              "43": 1.197750583,
+              "44": 0.058930143,
+              "45": 0.294601354,
+              "46": 0.192521985,
+              "47": 44.0,
+              "48": 22.0,
+              "49": 11.0,
+              "50": 8.0,
+              "51": 4.0,
+              "53": 15.12140548,
+              "54": 3.0,
+              "55": 1.0,
+              "56": 0.082360028,
+              "57": 0.002547217,
+              "58": 24.52303174,
+              "60": 14.561123,
+              "61": 13.76154033,
+              "62": 0.064171947,
+              "63": 8.982E-4,
+              "66": 0.043472906,
+              "67": 0.16066346,
+              "68": 0.204136366,
+              "70": 0.019997537,
+              "71": 0.089971538,
+              "72": 0.109969075,
+              "73": 0.109969075,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 92,
+          "totalRanking": 262,
+          "totalRating": 695.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 4240432,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1029,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1029,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          25,
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Sage",
+        "fullName": "Sage Surratt",
+        "id": 4240432,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "15",
+        "lastName": "Surratt",
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 4.6111281893636643E-4,
+          "auctionValueAverageChange": 4.6111281893636643E-4,
+          "averageDraftPosition": 169.99566063342454,
+          "averageDraftPositionPercentChange": 0.0014010606178658236,
+          "date": 1630328414861,
+          "leagueType": 0,
+          "percentChange": -0.003663945563708172,
+          "percentOwned": 0.029860688403716508,
+          "percentStarted": 0.0029532548970708635
+        },
+        "proTeamId": 8,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 14.201550711249997,
+            "appliedTotal": 227.22481137999995,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 136.4529547,
+              "43": 0.606802521,
+              "44": 0.03021213,
+              "45": 0.144251436,
+              "46": 0.094268314,
+              "47": 27.0,
+              "48": 13.0,
+              "49": 6.0,
+              "50": 5.0,
+              "51": 2.0,
+              "53": 11.00769326,
+              "54": 2.0,
+              "55": 1.0,
+              "56": 0.054358316,
+              "57": 0.001681185,
+              "58": 18.13577166,
+              "60": 12.39614436,
+              "61": 8.528309671,
+              "62": 0.03021213,
+              "63": 5.15E-4,
+              "67": 0.116955669,
+              "68": 0.116955669,
+              "71": 0.065495174,
+              "72": 0.065495174,
+              "73": 0.065495174,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 0,
+          "totalRanking": 0,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3121409,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1030,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1030,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Noah",
+        "fullName": "Noah Brown",
+        "id": 3121409,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "85",
+        "lastName": "Brown",
+        "lastNewsDate": 1615851035000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.00261297264063941,
+          "auctionValueAverageChange": 0.0015184815789830801,
+          "averageDraftPosition": 169.9779781538367,
+          "averageDraftPositionPercentChange": -0.02594625816212215,
+          "date": 1630328411250,
+          "leagueType": 0,
+          "percentChange": -0.03305930532462251,
+          "percentOwned": 0.0890898560616377,
+          "percentStarted": 0.012797437887307073
+        },
+        "proTeamId": 6,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 22.564622528125,
+            "appliedTotal": 361.03396045,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 202.2753707,
+              "43": 1.290032821,
+              "44": 0.067058171,
+              "45": 0.16706169,
+              "46": 0.109174814,
+              "47": 40.0,
+              "48": 20.0,
+              "49": 10.0,
+              "50": 8.0,
+              "51": 4.0,
+              "53": 16.38383179,
+              "54": 3.0,
+              "55": 1.0,
+              "56": 0.075434574,
+              "57": 0.002333028,
+              "58": 25.96453171,
+              "60": 12.34603561,
+              "61": 12.64221067,
+              "62": 0.067058171,
+              "63": 7.65937E-4,
+              "67": 0.174076617,
+              "68": 0.174076617,
+              "71": 0.097482905,
+              "72": 0.097482905,
+              "73": 0.097482905,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 145,
+          "totalRanking": 417,
+          "totalRating": 228.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 15773,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 4,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1031,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1031,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          5,
+          6,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Darren",
+        "fullName": "Darren Fells",
+        "id": 15773,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "80",
+        "lastName": "Fells",
+        "lastNewsDate": 1630169856000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 1.537042729787888E-4,
+          "auctionValueAverageChange": -0.004903185739663436,
+          "averageDraftPosition": 169.98835207308503,
+          "averageDraftPositionPercentChange": 0.006469150324790007,
+          "date": 1630328403982,
+          "leagueType": 0,
+          "percentChange": -0.017343438306653025,
+          "percentOwned": 0.08663051592738132,
+          "percentStarted": 0.01870431593886642
+        },
+        "proTeamId": 8,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 21.838495375,
+            "appliedTotal": 349.415926,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 180.9945981,
+              "43": 1.357356526,
+              "44": 0.067581512,
+              "45": 0.141103306,
+              "46": 0.092211011,
+              "47": 36.0,
+              "48": 18.0,
+              "49": 9.0,
+              "50": 7.0,
+              "51": 3.0,
+              "53": 17.43264018,
+              "54": 3.0,
+              "55": 1.0,
+              "56": 0.068045522,
+              "57": 0.002104501,
+              "58": 24.18102888,
+              "60": 10.38251213,
+              "61": 11.31216238,
+              "62": 0.067581512,
+              "63": 6.17551E-4,
+              "67": 0.140352488,
+              "68": 0.140352488,
+              "71": 0.078597393,
+              "72": 0.078597393,
+              "73": 0.078597393,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 26,
+          "totalRanking": 272,
+          "totalRating": 657.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 4362504,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 4,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1032,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1032,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          25,
+          5,
+          6,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Brevin",
+        "fullName": "Brevin Jordan",
+        "id": 4362504,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "9",
+        "lastName": "Jordan",
+        "lastNewsDate": 1630291662000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.001690747002766677,
+          "auctionValueAverageChange": 2.3142558722490385E-4,
+          "averageDraftPosition": 169.99358290179336,
+          "averageDraftPositionPercentChange": -0.010684817581733341,
+          "date": 1630328408626,
+          "leagueType": 0,
+          "percentChange": -0.08039578516003881,
+          "percentOwned": 0.17786061896808025,
+          "percentStarted": 0.01427479137474445
+        },
+        "proTeamId": 34,
+        "seasonOutlook": "Jordan was selected by Houston in the fifth round of April's draft. The Miami product stands 6-foot-3, 247 pounds and has the tools to eventually emerge into an NFL starter. He has good speed, separation, and tackle breaking ability, which shows him in his class-leading 8.2 RAC over the past three seasons. He's a bit undersized, which raises concerns about his catch radius and abilities in contested situations, but if an NFL team finds ways to get the ball in his hands - as Miami did with screens and flat routes - Jordan can eventually emerge into an offensive threat. Of course, he's well down the depth chart in Houston for the time being and should only be drafted in deep dynasty leagues.",
+        "stats": [
+          {
+            "appliedAverage": 21.430760259375,
+            "appliedTotal": 342.89216415,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 187.2481269,
+              "43": 1.037405429,
+              "44": 0.054747756,
+              "45": 0.069018009,
+              "46": 0.045103269,
+              "47": 37.0,
+              "48": 18.0,
+              "49": 9.0,
+              "50": 7.0,
+              "51": 3.0,
+              "53": 18.93734553,
+              "54": 3.0,
+              "55": 1.0,
+              "56": 0.070143354,
+              "57": 0.002169382,
+              "58": 29.51688321,
+              "60": 9.887770522,
+              "61": 11.70300793,
+              "62": 0.054747756,
+              "63": 9.58364E-4,
+              "67": 0.217810099,
+              "68": 0.217810099,
+              "71": 0.121973655,
+              "72": 0.121973655,
+              "73": 0.121973655,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 0,
+          "totalRanking": 0,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 2577667,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1033,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1033,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Damiere",
+        "fullName": "Damiere Byrd",
+        "id": 2577667,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "10",
+        "lastName": "Byrd",
+        "lastNewsDate": 1629585392000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 1.537042729787888E-4,
+          "auctionValueAverageChange": -9.403876307411236E-4,
+          "averageDraftPosition": 169.98555918625487,
+          "averageDraftPositionPercentChange": -0.00720712944070101,
+          "date": 1630328409904,
+          "leagueType": 0,
+          "percentChange": -0.038883511889997904,
+          "percentOwned": 0.10483900076455359,
+          "percentStarted": 0.015586392914917983
+        },
+        "proTeamId": 3,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 21.52118914125,
+            "appliedTotal": 344.33902626,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 206.778328,
+              "43": 0.874280994,
+              "44": 0.041849294,
+              "45": 0.170436805,
+              "46": 0.111380452,
+              "47": 41.0,
+              "48": 20.0,
+              "49": 10.0,
+              "50": 8.0,
+              "51": 4.0,
+              "53": 16.2428208,
+              "54": 3.0,
+              "55": 1.0,
+              "56": 0.079160646,
+              "57": 0.002448267,
+              "58": 26.42728462,
+              "60": 12.73044445,
+              "61": 12.9236455,
+              "62": 0.041849294,
+              "63": 0.00106,
+              "67": 0.241740291,
+              "68": 0.241740291,
+              "71": 0.135374563,
+              "72": 0.135374563,
+              "73": 0.135374563,
+              "102": 0.094944,
+              "115": 84.624,
+              "118": 8.0,
+              "119": 3.0,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 67,
+          "totalRanking": 206,
+          "totalRating": 914.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3843945,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 4,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1034,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1034,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          5,
+          6,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Foster",
+        "fullName": "Foster Moreau",
+        "id": 3843945,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "87",
+        "lastName": "Moreau",
+        "lastNewsDate": 1611863999000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.001690747002766677,
+          "auctionValueAverageChange": 5.962559411103472E-4,
+          "averageDraftPosition": 169.98325668832052,
+          "averageDraftPositionPercentChange": -0.004989498321975816,
+          "date": 1630328412552,
+          "leagueType": 0,
+          "percentChange": -0.015120773878766314,
+          "percentOwned": 0.15948387604886902,
+          "percentStarted": 0.02576025569925148
+        },
+        "proTeamId": 13,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 21.140208375624997,
+            "appliedTotal": 338.24333400999996,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 171.8893635,
+              "43": 1.449402105,
+              "44": 0.060174379,
+              "45": 0.15559159,
+              "46": 0.101679104,
+              "47": 34.0,
+              "48": 17.0,
+              "49": 8.0,
+              "50": 6.0,
+              "51": 3.0,
+              "53": 16.04079907,
+              "54": 3.0,
+              "55": 1.0,
+              "56": 0.065102458,
+              "57": 0.002013478,
+              "58": 22.44626882,
+              "60": 10.71576065,
+              "61": 10.74308522,
+              "62": 0.060174379,
+              "63": 8.11779E-4,
+              "67": 0.18449513,
+              "68": 0.18449513,
+              "71": 0.103317273,
+              "72": 0.103317273,
+              "73": 0.103317273,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 60,
+          "totalRanking": 388,
+          "totalRating": 295.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 17051,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1035,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1035,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Albert",
+        "fullName": "Albert Wilson",
+        "id": 17051,
+        "injured": false,
+        "injuryStatus": "QUESTIONABLE",
+        "jersey": "2",
+        "lastName": "Wilson",
+        "lastNewsDate": 1629826540000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.00384260682446972,
+          "auctionValueAverageChange": 0.0027481157628133903,
+          "averageDraftPosition": 169.9811007506116,
+          "averageDraftPositionPercentChange": -0.00854309883766291,
+          "date": 1630328406137,
+          "leagueType": 0,
+          "percentChange": -0.02245529452358222,
+          "percentOwned": 0.16243115134153366,
+          "percentStarted": 0.019852696275076333
+        },
+        "proTeamId": 15,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 21.66388853365625,
+            "appliedTotal": 346.6222165385,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "0": 6.031557828,
+              "1": 3.622547408,
+              "2": 2.40901042,
+              "3": 41.30167731,
+              "4": 0.238694803,
+              "5": 8.0,
+              "6": 4.0,
+              "7": 2.0,
+              "8": 1.0,
+              "15": 0.073087795,
+              "16": 0.047762874,
+              "17": 0.065460409,
+              "18": 0.008841985,
+              "19": 0.014945017,
+              "20": 0.19216879,
+              "21": 0.600598968,
+              "22": 2.581354832,
+              "23": 8.152053103,
+              "24": 46.52984678,
+              "25": 0.246295762,
+              "26": 0.009652579,
+              "27": 9.0,
+              "28": 4.0,
+              "29": 2.0,
+              "30": 1.0,
+              "33": 1.0,
+              "35": 0.015016678,
+              "36": 0.010511675,
+              "37": 0.005286936,
+              "38": 1.8E-4,
+              "39": 5.70774579,
+              "40": 2.908115424,
+              "42": 151.2063571,
+              "43": 0.749586145,
+              "44": 0.043482397,
+              "45": 0.153806196,
+              "46": 0.100512349,
+              "47": 30.0,
+              "48": 15.0,
+              "49": 7.0,
+              "50": 6.0,
+              "51": 3.0,
+              "53": 13.36879542,
+              "54": 2.0,
+              "55": 1.0,
+              "56": 0.064184267,
+              "57": 0.00198508,
+              "58": 19.79856185,
+              "60": 11.31039501,
+              "61": 9.450397316,
+              "62": 0.068079993,
+              "63": 9.18955E-4,
+              "64": 0.528978235,
+              "65": 0.04879354,
+              "66": 0.060630339,
+              "67": 0.099429504,
+              "68": 0.208853383,
+              "69": 0.023420899,
+              "70": 0.027889956,
+              "71": 0.055680522,
+              "72": 0.106991378,
+              "73": 0.299160168,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 0,
+          "totalRanking": 0,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3047968,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1036,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1036,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Chad",
+        "fullName": "Chad Beebe",
+        "id": 3047968,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "12",
+        "lastName": "Beebe",
+        "lastNewsDate": 1630129345000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.005072241008300031,
+          "auctionValueAverageChange": -0.010250633854888587,
+          "averageDraftPosition": 169.9548978184581,
+          "averageDraftPositionPercentChange": -0.009272617291088636,
+          "date": 1630328406074,
+          "leagueType": 0,
+          "percentChange": -0.013721062657193875,
+          "percentOwned": 0.124692984542992,
+          "percentStarted": 0.03625940734737004
+        },
+        "proTeamId": 16,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 20.90947967375,
+            "appliedTotal": 334.55167478,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 185.2492258,
+              "43": 1.228170813,
+              "44": 0.0713179,
+              "45": 0.200879445,
+              "46": 0.131274717,
+              "47": 37.0,
+              "48": 18.0,
+              "49": 9.0,
+              "50": 7.0,
+              "51": 3.0,
+              "53": 15.1901712,
+              "54": 3.0,
+              "55": 1.0,
+              "56": 0.071886599,
+              "57": 0.002223297,
+              "58": 22.7180647,
+              "60": 12.19533496,
+              "61": 11.57807661,
+              "62": 0.0713179,
+              "63": 7.1E-4,
+              "67": 0.161394089,
+              "68": 0.161394089,
+              "71": 0.09038069,
+              "72": 0.09038069,
+              "73": 0.09038069,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 117,
+          "totalRanking": 343,
+          "totalRating": 401.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3918003,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 4,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1037,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1037,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          5,
+          6,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Brycen",
+        "fullName": "Brycen Hopkins",
+        "id": 3918003,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "88",
+        "lastName": "Hopkins",
+        "lastNewsDate": 1620168122000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.001537042729787888,
+          "auctionValueAverageChange": 8.073820220170015E-4,
+          "averageDraftPosition": 169.9771823871747,
+          "averageDraftPositionPercentChange": -0.00477124364411452,
+          "date": 1630328407097,
+          "leagueType": 0,
+          "percentChange": -0.020429567848691696,
+          "percentOwned": 0.08745245900563436,
+          "percentStarted": 0.022642475314779628
+        },
+        "proTeamId": 14,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 19.890450674375,
+            "appliedTotal": 318.24721079,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 170.3360506,
+              "43": 1.106436336,
+              "44": 0.053981658,
+              "45": 0.089502152,
+              "46": 0.058489656,
+              "47": 34.0,
+              "48": 17.0,
+              "49": 8.0,
+              "50": 6.0,
+              "51": 3.0,
+              "53": 16.50425887,
+              "54": 3.0,
+              "55": 1.0,
+              "56": 0.064609086,
+              "57": 0.001998219,
+              "58": 25.30037096,
+              "60": 10.32073309,
+              "61": 10.64600316,
+              "62": 0.053981658,
+              "63": 8.35E-4,
+              "67": 0.189825667,
+              "68": 0.189825667,
+              "71": 0.106302374,
+              "72": 0.106302374,
+              "73": 0.106302374,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 115,
+          "totalRanking": 646,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3127310,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 4,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1038,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1038,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          5,
+          6,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Drew",
+        "fullName": "Drew Sample",
+        "id": 3127310,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "89",
+        "lastName": "Sample",
+        "lastNewsDate": 1610609518000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 3.074085459575776E-4,
+          "auctionValueAverageChange": -7.870825156987521E-4,
+          "averageDraftPosition": 169.99254632740818,
+          "averageDraftPositionPercentChange": -0.0062007206962277905,
+          "date": 1630328416258,
+          "leagueType": 0,
+          "percentChange": -0.04775540320650938,
+          "percentOwned": 0.0966419783876377,
+          "percentStarted": 0.016407806177867183
+        },
+        "proTeamId": 4,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 19.488083581875003,
+            "appliedTotal": 311.80933731000005,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 161.233203,
+              "43": 1.115325201,
+              "44": 0.043251993,
+              "45": 0.086961365,
+              "46": 0.056829252,
+              "47": 32.0,
+              "48": 16.0,
+              "49": 8.0,
+              "50": 6.0,
+              "51": 3.0,
+              "53": 16.98560725,
+              "54": 3.0,
+              "55": 1.0,
+              "56": 0.061777139,
+              "57": 0.001910633,
+              "58": 24.11097485,
+              "60": 9.492342587,
+              "61": 10.07707519,
+              "62": 0.043251993,
+              "63": 8.6E-4,
+              "67": 0.195361952,
+              "68": 0.195361952,
+              "71": 0.109402693,
+              "72": 0.109402693,
+              "73": 0.109402693,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 33,
+          "totalRanking": 291,
+          "totalRating": 589.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3126002,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1039,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1039,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Christian",
+        "fullName": "Christian Blake",
+        "id": 3126002,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "13",
+        "lastName": "Blake",
+        "lastNewsDate": 1609997641000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 1.537042729787888E-4,
+          "auctionValueAverageChange": -2.1112608090665446E-4,
+          "averageDraftPosition": 169.98968741627613,
+          "averageDraftPositionPercentChange": 0.003397701152294985,
+          "date": 1630328414392,
+          "leagueType": 0,
+          "percentChange": -0.012991992219060208,
+          "percentOwned": 0.03281394330078737,
+          "percentStarted": 0.006890928093165348
+        },
+        "proTeamId": 1,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 19.701299138750002,
+            "appliedTotal": 315.22078622000004,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 181.391641,
+              "43": 0.967009516,
+              "44": 0.048807364,
+              "45": 0.151928417,
+              "46": 0.09928522,
+              "47": 36.0,
+              "48": 18.0,
+              "49": 9.0,
+              "50": 7.0,
+              "51": 3.0,
+              "53": 15.32256318,
+              "54": 3.0,
+              "55": 1.0,
+              "56": 0.068183393,
+              "57": 0.002108765,
+              "58": 23.8274544,
+              "60": 11.8382048,
+              "61": 11.33697756,
+              "62": 0.048807364,
+              "63": 7.16323E-4,
+              "67": 0.162800741,
+              "68": 0.162800741,
+              "71": 0.091168415,
+              "72": 0.091168415,
+              "73": 0.091168415,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 150,
+          "totalRanking": 428,
+          "totalRating": 206.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 14922,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1040,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1040,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Mohamed",
+        "fullName": "Mohamed Sanu Sr.",
+        "id": 14922,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "18",
+        "lastName": "Sanu Sr.",
+        "lastNewsDate": 1630339454000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.0013833384568090992,
+          "auctionValueAverageChange": -0.0037242864975871068,
+          "averageDraftPosition": 169.9875397480719,
+          "averageDraftPositionPercentChange": -0.012676280663214357,
+          "date": 1630328416855,
+          "leagueType": 0,
+          "percentChange": 0.013136157336450516,
+          "percentOwned": 0.14159193303341439,
+          "percentStarted": 0.01607880583693466
+        },
+        "proTeamId": 25,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 19.636785370000002,
+            "appliedTotal": 314.18856592000003,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 177.0725798,
+              "43": 1.027413745,
+              "44": 0.059776538,
+              "45": 0.149492641,
+              "46": 0.097693441,
+              "47": 35.0,
+              "48": 17.0,
+              "49": 8.0,
+              "50": 7.0,
+              "51": 3.0,
+              "53": 15.19985134,
+              "54": 3.0,
+              "55": 1.0,
+              "56": 0.066877706,
+              "57": 0.002068383,
+              "58": 23.34908662,
+              "60": 11.64962577,
+              "61": 11.06703624,
+              "62": 0.059776538,
+              "63": 6.93E-4,
+              "67": 0.157607683,
+              "68": 0.157607683,
+              "71": 0.088260302,
+              "72": 0.088260302,
+              "73": 0.088260302,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 124,
+          "totalRanking": 360,
+          "totalRating": 355.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 4035115,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 4,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1041,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1041,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          5,
+          6,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Albert",
+        "fullName": "Albert Okwuegbunam",
+        "id": 4035115,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "85",
+        "lastName": "Okwuegbunam",
+        "lastNewsDate": 1630214530000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.015216723024900092,
+          "auctionValueAverageChange": 0.013392571255472876,
+          "averageDraftPosition": 169.9619585985163,
+          "averageDraftPositionPercentChange": -0.027884562900283072,
+          "date": 1630328409176,
+          "leagueType": 0,
+          "percentChange": -0.03972620389543327,
+          "percentOwned": 0.2347957064052794,
+          "percentStarted": 0.03675348583842249
+        },
+        "proTeamId": 7,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 19.547986935625,
+            "appliedTotal": 312.76779097,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 157.994251,
+              "43": 1.307680756,
+              "44": 0.065984916,
+              "45": 0.132612406,
+              "46": 0.086662207,
+              "47": 31.0,
+              "48": 15.0,
+              "49": 7.0,
+              "50": 6.0,
+              "51": 3.0,
+              "53": 15.38564575,
+              "54": 3.0,
+              "55": 1.0,
+              "56": 0.060788508,
+              "57": 0.001880057,
+              "58": 21.44210672,
+              "60": 10.26893857,
+              "61": 9.874640685,
+              "62": 0.065984916,
+              "63": 7.78623E-4,
+              "67": 0.176959807,
+              "68": 0.176959807,
+              "71": 0.099097492,
+              "72": 0.099097492,
+              "73": 0.099097492,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 64,
+          "totalRanking": 408,
+          "totalRating": 236.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 3728262,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1042,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1042,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Ray-Ray",
+        "fullName": "Ray-Ray McCloud",
+        "id": 3728262,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "14",
+        "lastName": "McCloud",
+        "lastNewsDate": 1615404192000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.0036889025514909315,
+          "auctionValueAverageChange": 0.001864750782063715,
+          "averageDraftPosition": 169.97082760528986,
+          "averageDraftPositionPercentChange": -0.009950456024967025,
+          "date": 1630328411735,
+          "leagueType": 0,
+          "percentChange": -0.021736111659814233,
+          "percentOwned": 0.12896027826543505,
+          "percentStarted": 0.021657451311752448
+        },
+        "proTeamId": 23,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 19.286086858125003,
+            "appliedTotal": 308.57738973000005,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "23": 3.980800753,
+              "24": 27.67469354,
+              "25": 0.132591256,
+              "26": 0.005517755,
+              "27": 5.0,
+              "28": 2.0,
+              "29": 1.0,
+              "30": 1.0,
+              "35": 0.00731628,
+              "36": 0.005121396,
+              "37": 0.00178083,
+              "38": 6.08E-5,
+              "39": 6.952041878,
+              "40": 1.729668346,
+              "42": 142.8184103,
+              "43": 0.760572458,
+              "44": 0.035818971,
+              "45": 0.125964612,
+              "46": 0.082317874,
+              "47": 28.0,
+              "48": 14.0,
+              "49": 7.0,
+              "50": 5.0,
+              "51": 2.0,
+              "53": 13.67460147,
+              "54": 2.0,
+              "55": 1.0,
+              "56": 0.056240634,
+              "57": 0.001739401,
+              "58": 19.603062,
+              "60": 10.44406381,
+              "61": 8.926150645,
+              "62": 0.041336726,
+              "63": 0.001650765,
+              "66": 0.084591241,
+              "67": 0.290582617,
+              "68": 0.375173858,
+              "70": 0.038911971,
+              "71": 0.162726266,
+              "72": 0.201638236,
+              "73": 0.201638236,
+              "101": 0.154322,
+              "102": 0.166152,
+              "114": 691.0883721,
+              "115": 238.5066667,
+              "116": 69.0,
+              "117": 27.0,
+              "118": 23.0,
+              "119": 9.0,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 147,
+          "totalRanking": 420,
+          "totalRating": 222.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 4036026,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1043,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1043,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          25,
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Dez",
+        "fullName": "Dez Fitzpatrick",
+        "id": 4036026,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "10",
+        "lastName": "Fitzpatrick",
+        "lastNewsDate": 1630211867000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 0.0019981555487242546,
+          "auctionValueAverageChange": -0.0020149783440156217,
+          "averageDraftPosition": 169.97026980731815,
+          "averageDraftPositionPercentChange": -0.005883230359927438,
+          "date": 1630328410071,
+          "leagueType": 0,
+          "percentChange": -0.08839440332970669,
+          "percentOwned": 0.21001199365370007,
+          "percentStarted": 0.01657125887423727
+        },
+        "proTeamId": 10,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 19.470494488125,
+            "appliedTotal": 311.52791181,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 167.3749611,
+              "43": 1.323407694,
+              "44": 0.073734574,
+              "45": 0.210842802,
+              "46": 0.137785771,
+              "47": 33.0,
+              "48": 16.0,
+              "49": 8.0,
+              "50": 6.0,
+              "51": 3.0,
+              "53": 12.95583353,
+              "54": 2.0,
+              "55": 1.0,
+              "56": 0.063680594,
+              "57": 0.001969503,
+              "58": 20.30913409,
+              "60": 12.9188879,
+              "61": 10.46093507,
+              "62": 0.073734574,
+              "63": 6.06E-4,
+              "67": 0.137654469,
+              "68": 0.137654469,
+              "71": 0.077086503,
+              "72": 0.077086503,
+              "73": 0.077086503,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 0,
+          "totalRanking": 0,
+          "totalRating": 0.0
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    },
+    {
+      "draftAuctionValue": 0,
+      "id": 4036335,
+      "keeperValue": 0,
+      "keeperValueFuture": 0,
+      "lineupLocked": true,
+      "onTeamId": 0,
+      "player": {
+        "active": true,
+        "defaultPositionId": 3,
+        "draftRanksByRankType": {
+          "STANDARD": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1044,
+            "rankSourceId": 0,
+            "rankType": "STANDARD",
+            "slotId": 0
+          },
+          "PPR": {
+            "auctionValue": 0,
+            "published": false,
+            "rank": 1044,
+            "rankSourceId": 0,
+            "rankType": "PPR",
+            "slotId": 0
+          }
+        },
+        "droppable": true,
+        "eligibleSlots": [
+          3,
+          4,
+          5,
+          23,
+          7,
+          20,
+          21
+        ],
+        "firstName": "Cedrick",
+        "fullName": "Cedrick Wilson",
+        "id": 4036335,
+        "injured": false,
+        "injuryStatus": "ACTIVE",
+        "jersey": "1",
+        "lastName": "Wilson",
+        "lastNewsDate": 1619131936000,
+        "ownership": {
+          "activityLevel": null,
+          "auctionValueAverage": 7.68521364893944E-4,
+          "auctionValueAverageChange": -6.90800050647829E-4,
+          "averageDraftPosition": 169.98002046705287,
+          "averageDraftPositionPercentChange": -0.014823299455230199,
+          "date": 1630328410283,
+          "leagueType": 0,
+          "percentChange": -0.025711458175247295,
+          "percentOwned": 0.08515218286554323,
+          "percentStarted": 0.008695694974708653
+        },
+        "proTeamId": 6,
+        "seasonOutlook": "",
+        "stats": [
+          {
+            "appliedAverage": 17.631607443750003,
+            "appliedTotal": 282.10571910000004,
+            "externalId": "2021",
+            "id": "102021",
+            "proTeamId": 0,
+            "scoringPeriodId": 0,
+            "seasonId": 2021,
+            "statSourceId": 1,
+            "statSplitTypeId": 0,
+            "stats": {
+              "42": 155.410931,
+              "43": 1.028011965,
+              "44": 0.053447967,
+              "45": 0.201138227,
+              "46": 0.131443831,
+              "47": 31.0,
+              "48": 15.0,
+              "49": 7.0,
+              "50": 6.0,
+              "51": 3.0,
+              "53": 12.21847112,
+              "54": 2.0,
+              "55": 1.0,
+              "56": 0.060017263,
+              "57": 0.001856204,
+              "58": 19.06150819,
+              "60": 12.71934348,
+              "61": 9.713183186,
+              "62": 0.053447967,
+              "63": 5.71E-4,
+              "67": 0.129820066,
+              "68": 0.129820066,
+              "71": 0.072699237,
+              "72": 0.072699237,
+              "73": 0.072699237,
+              "102": 0.071208,
+              "115": 63.468,
+              "118": 6.0,
+              "119": 2.0,
+              "210": 16.0
+            }
+          }
+        ]
+      },
+      "ratings": {
+        "0": {
+          "positionalRanking": 111,
+          "totalRanking": 332,
+          "totalRating": 450.05
+        }
+      },
+      "rosterLocked": true,
+      "status": "FREEAGENT",
+      "tradeLocked": false
+    }
+  ],
+  "positionAgainstOpponent": {
+    "positionalRatings": {
+      "16": {
+        "average": 0.0,
+        "ratingsByOpponent": {}
+      },
+      "1": {
+        "average": 0.0,
+        "ratingsByOpponent": {}
+      },
+      "2": {
+        "average": 0.0,
+        "ratingsByOpponent": {}
+      },
+      "3": {
+        "average": 0.0,
+        "ratingsByOpponent": {}
+      },
+      "4": {
+        "average": 0.0,
+        "ratingsByOpponent": {}
+      },
+      "5": {
+        "average": 0.0,
+        "ratingsByOpponent": {}
+      }
+    }
+  }
+}
