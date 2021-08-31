@@ -1,6 +1,6 @@
 const Parser = require('./src/projections-parser');
 
-const parser = new Parser('draft.csv');
+const parser = new Parser('draft.csv', '2021');
 
 (async () => {
   try {

@@ -10,8 +10,9 @@ const LAST_PAGE_NUM = 11;
 const SCTID_PROJECTION_ID = '102020';
 
 class ProjectionsParser {
-  constructor(filename) {
+  constructor(filename, year) {
     this.filename = filename;
+    this.year = year;
     this.posRanks = {
       QB: 1,
       RB: 1,
@@ -27,7 +28,7 @@ class ProjectionsParser {
     // read all the players from the projections page
     for (let page = 1; page < LAST_PAGE_NUM; page += 1) {
       console.log(`parsing projections page ${page}`);
-      let projections = require(`./projections/projections-page-${page}.json`);
+      let projections = require(`./projections/${this.year}/projections-page-${page}.json`);
       projections.players.forEach((player, idx) => {
         // 1-50 for page 1, 51-100 page 2, etc
         const rank = (idx + 1) + ((page - 1) * 50);
