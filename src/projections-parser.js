@@ -6,12 +6,15 @@ const StatMappings = require('./mappings/stats');
 const appendFile = promisify(fs.appendFile);
 const writeFile = promisify(fs.writeFile);
 
-const LAST_PAGE_NUM = 11;
+// Edit this depending on the year
+const LAST_PAGE_NUM = 18;
 const SCTID_PROJECTION_ID = '102020';
+const TOTAL_AUCTION_DOLLARS = 12 * 250;
 
 class ProjectionsParser {
   constructor(filename, year) {
     this.filename = filename;
+    this.totalAuctionDollars = 0;
     this.year = year;
     this.posRanks = {
       QB: 1,
@@ -37,6 +40,7 @@ class ProjectionsParser {
       });
     }
     console.log(`parsed ${players.length} players`);
+    console.log(`accounted for ${this.totalAuctionDollars} dollars`);
     try {
       // print the player info to the file in csv format
       await this.writePlayersToFile(players);
@@ -90,7 +94,8 @@ class ProjectionsParser {
   createPlayerObject(rawData, rank) {
     const position = TeamMappings.positionMapping[rawData.player.defaultPositionId];
     const posRank = this.posRanks[position];
-    const auctionValue = rawData.draftAuctionValue < 1 ? 1 : rawData.draftAuctionValue;
+    const auctionValue = rawData.draftAuctionValue < 1 ? 0 : rawData.draftAuctionValue;
+    this.totalAuctionDollars += auctionValue;
     const playerObject = {
       rank: rank,
       player: rawData.player.fullName,

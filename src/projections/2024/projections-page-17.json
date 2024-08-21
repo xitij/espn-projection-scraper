@@ -1,0 +1,4235 @@
+{
+  "players": [
+      {
+          "draftAuctionValue": 0,
+          "id": 4361604,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 2,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2029,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2029,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  25,
+                  2,
+                  3,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Blake",
+              "fullName": "Blake Watson",
+              "id": 4361604,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "43",
+              "lastName": "Watson",
+              "lastNewsDate": 1722540206000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": -6.373486297004461E-4,
+                  "averageDraftPosition": 169.98831400085066,
+                  "averageDraftPositionPercentChange": -0.0038320412346308785,
+                  "date": 1724205912279,
+                  "leagueType": 0,
+                  "percentChange": -0.01605108815040722,
+                  "percentOwned": 0.03954152915001529,
+                  "percentStarted": 0.004481373303668399
+              },
+              "proTeamId": 7,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 15887,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 4,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2069,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2069,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  5,
+                  6,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Ryan",
+              "fullName": "Ryan Griffin",
+              "id": 15887,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "84",
+              "lastName": "Griffin",
+              "lastNewsDate": 1673227792000,
+              "lastVideoDate": 1507751224000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.98976913870425,
+                  "averageDraftPositionPercentChange": -7.729920391739142E-4,
+                  "date": 1724205902445,
+                  "leagueType": 0,
+                  "percentChange": 3.317534443822469E-4,
+                  "percentOwned": 0.009227086507890477,
+                  "percentStarted": 0.005008989818569116
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 16813,
+          "keeperValue": 1,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 4,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2071,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2071,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  5,
+                  6,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Logan",
+              "fullName": "Logan Thomas",
+              "id": 16813,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "48",
+              "lastName": "Thomas",
+              "lastNewsDate": 1723232339000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.017222425796995237,
+                  "auctionValueAverageChange": 0.016585483121836,
+                  "averageDraftPosition": 169.9859478867756,
+                  "averageDraftPositionPercentChange": -0.011344123683556973,
+                  "date": 1724205902831,
+                  "leagueType": 0,
+                  "percentChange": -0.08417992889057499,
+                  "percentOwned": 0.14841958189439275,
+                  "percentStarted": 0.024516911396409463
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 16,
+                  "totalRanking": 193,
+                  "totalRating": 993.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 12471,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 1,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2072,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2072,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  0,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Chase",
+              "fullName": "Chase Daniel",
+              "id": 12471,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "4",
+              "lastName": "Daniel",
+              "lastNewsDate": 1693925164000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": -6.385696040868455E-4,
+                  "averageDraftPosition": 169.99145379346186,
+                  "averageDraftPositionPercentChange": -0.0036548930180515526,
+                  "date": 1724205901853,
+                  "leagueType": 0,
+                  "percentChange": 1.5467408478058928E-4,
+                  "percentOwned": 0.009500385293403565,
+                  "percentStarted": 0.004750192646701783
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 11291,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 1,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2073,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2073,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  0,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Chad",
+              "fullName": "Chad Henne",
+              "id": 11291,
+              "injured": false,
+              "jersey": "4",
+              "lastName": "Henne",
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.027563395810363836,
+                  "auctionValueAverageChange": 0.0256476869981033,
+                  "averageDraftPosition": 169.9824319544992,
+                  "averageDraftPositionPercentChange": 0.008546863606767374,
+                  "date": 1724205901825,
+                  "leagueType": 0,
+                  "percentChange": 6.559438389917432E-4,
+                  "percentOwned": 0.019791633680610533,
+                  "percentStarted": 0.004222215185196913
+              },
+              "proTeamId": 12,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 13199,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 1,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2074,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2074,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  0,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Colt",
+              "fullName": "Colt McCoy",
+              "id": 13199,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "12",
+              "lastName": "McCoy",
+              "lastNewsDate": 1724098875000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.01139287026828372,
+                  "auctionValueAverageChange": 0.01139287026828372,
+                  "averageDraftPosition": 169.9889707739947,
+                  "averageDraftPositionPercentChange": -3.372706496804767E-4,
+                  "date": 1724205901893,
+                  "leagueType": 0,
+                  "percentChange": 2.0623211304078744E-4,
+                  "percentOwned": 0.012667180391204754,
+                  "percentStarted": 0.002638995914834324
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 16810,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 1,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2075,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2075,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  0,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "AJ",
+              "fullName": "AJ McCarron",
+              "id": 16810,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "4",
+              "lastName": "McCarron",
+              "lastNewsDate": 1707932763000,
+              "lastVideoDate": 1451418549000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 3.675119441381845E-4,
+                  "auctionValueAverageChange": -2.71057659948661E-4,
+                  "averageDraftPosition": 169.98936101106483,
+                  "averageDraftPositionPercentChange": 0.00282338421931172,
+                  "date": 1724205902823,
+                  "leagueType": 0,
+                  "percentChange": 8.323914829622275E-4,
+                  "percentOwned": 0.012402757106515932,
+                  "percentStarted": 0.004749992083346528
+              },
+              "proTeamId": 4,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 73,
+                  "totalRanking": 601,
+                  "totalRating": 6.65
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 17315,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 2,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2077,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2077,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  2,
+                  3,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Keith",
+              "fullName": "Keith Smith",
+              "id": 17315,
+              "injured": false,
+              "injuryStatus": "QUESTIONABLE",
+              "jersey": "40",
+              "lastName": "Smith",
+              "lastNewsDate": 1703370343000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": -0.008922880815806247,
+                  "averageDraftPosition": 169.99375630857966,
+                  "averageDraftPositionPercentChange": 8.014965341374136E-4,
+                  "date": 1724205902902,
+                  "leagueType": 0,
+                  "percentChange": -3.604672648569677E-4,
+                  "percentOwned": 0.00764511885523572,
+                  "percentStarted": 0.005008870974119954
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 121,
+                  "totalRanking": 532,
+                  "totalRating": 48.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 13987,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 1,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2079,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2079,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  0,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Blaine",
+              "fullName": "Blaine Gabbert",
+              "id": 13987,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "9",
+              "lastName": "Gabbert",
+              "lastNewsDate": 1704682845000,
+              "lastVideoDate": 1501882788000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.9878664077782,
+                  "averageDraftPositionPercentChange": 0.009351656259326546,
+                  "date": 1724205902013,
+                  "leagueType": 0,
+                  "percentChange": 0.001474208676416901,
+                  "percentOwned": 0.0108197119317672,
+                  "percentStarted": 0.002375058716729386
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 69,
+                  "totalRanking": 573,
+                  "totalRating": 19.75
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 11387,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 3,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2080,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2080,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  3,
+                  4,
+                  5,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Matthew",
+              "fullName": "Matthew Slater",
+              "id": 11387,
+              "injured": false,
+              "jersey": "18",
+              "lastName": "Slater",
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 3.6643459142543056E-4,
+                  "auctionValueAverageChange": 3.6643459142543056E-4,
+                  "averageDraftPosition": 169.9858911230147,
+                  "averageDraftPositionPercentChange": 0.011195895681339607,
+                  "date": 1724205901831,
+                  "leagueType": 0,
+                  "percentChange": 0.005191469752875024,
+                  "percentOwned": 0.011862583828925724,
+                  "percentStarted": 0.0050086465055464175
+              },
+              "proTeamId": 17,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 204,
+                  "totalRanking": 605,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 15948,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 1,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2081,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2081,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  0,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Matt",
+              "fullName": "Matt Barkley",
+              "id": 15948,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "19",
+              "lastName": "Barkley",
+              "lastNewsDate": 1703627978000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.96891173010155,
+                  "averageDraftPositionPercentChange": 0.004805598710021286,
+                  "date": 1724205902572,
+                  "leagueType": 0,
+                  "percentChange": 5.217814322486733E-4,
+                  "percentOwned": 0.01609762019116584,
+                  "percentStarted": 0.004222326607518908
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 80,
+                  "totalRanking": 699,
+                  "totalRating": -3.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 15705,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 3,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2082,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2082,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  3,
+                  4,
+                  5,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Josh",
+              "fullName": "Josh Gordon",
+              "id": 15705,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "19",
+              "lastName": "Gordon",
+              "lastVideoDate": 1539643968000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0010993037742762918,
+                  "auctionValueAverageChange": 4.6236109911705614E-4,
+                  "averageDraftPosition": 169.98907722366818,
+                  "averageDraftPositionPercentChange": 0.007585911925048094,
+                  "date": 1724205902334,
+                  "leagueType": 0,
+                  "percentChange": 0.00581930713443814,
+                  "percentOwned": 0.018717310612451493,
+                  "percentStarted": 0.0044816095832630335
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 12477,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 1,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2088,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2088,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  0,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Brian",
+              "fullName": "Brian Hoyer",
+              "id": 12477,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "7",
+              "lastName": "Hoyer",
+              "lastNewsDate": 1709927787000,
+              "lastVideoDate": 1448510173000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.98957032631526,
+                  "averageDraftPositionPercentChange": -8.169980157788359E-4,
+                  "date": 1724205901858,
+                  "leagueType": 0,
+                  "percentChange": 0.0012305383864743436,
+                  "percentOwned": 0.016361083842638038,
+                  "percentStarted": 0.0036944382870472995
+              },
+              "proTeamId": 13,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 70,
+                  "totalRanking": 576,
+                  "totalRating": 17.849998
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 3116158,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 2,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2120,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2120,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  2,
+                  3,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Jason",
+              "fullName": "Jason Cabinda",
+              "id": 3116158,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "45",
+              "lastName": "Cabinda",
+              "lastNewsDate": 1706579406000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.99265331429973,
+                  "averageDraftPositionPercentChange": -4.922973505756545E-4,
+                  "date": 1724205905418,
+                  "leagueType": 0,
+                  "percentChange": 7.101129578068917E-4,
+                  "percentOwned": 0.007381494067124143,
+                  "percentStarted": 0.002899872669227342
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 146,
+                  "totalRanking": 605,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 3061612,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 3,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2149,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2149,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  3,
+                  4,
+                  5,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Jamal",
+              "fullName": "Jamal Agnew",
+              "id": 3061612,
+              "injured": false,
+              "injuryStatus": "QUESTIONABLE",
+              "jersey": "39",
+              "lastName": "Agnew",
+              "lastNewsDate": 1704571110000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.9915214523118,
+                  "averageDraftPositionPercentChange": 0.006611566768498278,
+                  "date": 1724205905175,
+                  "leagueType": 0,
+                  "percentChange": 0.0011064344855933866,
+                  "percentOwned": 0.011335567055151489,
+                  "percentStarted": 0.003163414061902741
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 122,
+                  "totalRanking": 357,
+                  "totalRating": 333.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 2983209,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 3,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2172,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2172,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  3,
+                  4,
+                  5,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Chester",
+              "fullName": "Chester Rogers",
+              "id": 2983209,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "80",
+              "lastName": "Rogers",
+              "lastNewsDate": 1669664876000,
+              "lastVideoDate": 1539719846000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.99576790529335,
+                  "averageDraftPositionPercentChange": 0.001994306541774904,
+                  "date": 1724205904100,
+                  "leagueType": 0,
+                  "percentChange": 9.23559493094808E-4,
+                  "percentOwned": 0.004481597768691558,
+                  "percentStarted": 0.0023726105834249423
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 3042910,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 3,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2173,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2173,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  3,
+                  4,
+                  5,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Rashard",
+              "fullName": "Rashard Higgins",
+              "id": 3042910,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "82",
+              "lastName": "Higgins",
+              "lastNewsDate": 1713277552000,
+              "lastVideoDate": 1505764271000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.99575351650648,
+                  "averageDraftPositionPercentChange": 0.0029753138850594496,
+                  "date": 1724205904370,
+                  "leagueType": 0,
+                  "percentChange": -4.10716674763157E-4,
+                  "percentOwned": 0.004481585954182374,
+                  "percentStarted": 0.001054490812748794
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 3002265,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 2,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2174,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2174,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  2,
+                  3,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Dwayne",
+              "fullName": "Dwayne Washington",
+              "id": 3002265,
+              "injured": false,
+              "injuryStatus": "QUESTIONABLE",
+              "jersey": "39",
+              "lastName": "Washington",
+              "lastNewsDate": 1703975182000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.9936049948811,
+                  "averageDraftPositionPercentChange": 0.0010720528665615348,
+                  "date": 1724205904157,
+                  "leagueType": 0,
+                  "percentChange": 2.8154542052445577E-4,
+                  "percentOwned": 0.006063306189053887,
+                  "percentStarted": 0.003427086106856545
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 146,
+                  "totalRanking": 605,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 2576925,
+          "keeperValue": 24,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 4,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2175,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2175,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  5,
+                  6,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Darren",
+              "fullName": "Darren Waller",
+              "id": 2576925,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "12",
+              "lastName": "Waller",
+              "lastNewsDate": 1717422678000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.002197802197802198,
+                  "auctionValueAverageChange": -0.0016238538531532162,
+                  "averageDraftPosition": 169.92542898341745,
+                  "averageDraftPositionPercentChange": -0.025782518102232643,
+                  "date": 1724205903318,
+                  "leagueType": 0,
+                  "percentChange": -4.121240871352312,
+                  "percentOwned": 5.786208950974474,
+                  "percentStarted": 0.6160813849572803
+              },
+              "proTeamId": 19,
+              "rankings": {},
+              "seasonOutlook": "Waller retired after eight seasons with the Ravens, Raiders and Giants. His lone season season with the Giants was not successful, as he missed at least five games with an injury for the third consecutive season, and his on-field production when he did play was muted. Waller averaged 9.4 fantasy points in his 12 games, not far from top-10 production, but nothing like his fabulous 2019 and 2020 campaigns. Even if he changes course and decides to return, Waller is no longer a fantasy starter.",
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 21,
+                  "totalRanking": 221,
+                  "totalRating": 872.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 2972331,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 4,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2176,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2176,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  5,
+                  6,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Mason",
+              "fullName": "Mason Schreck",
+              "id": 2972331,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "86",
+              "lastName": "Schreck",
+              "lastNewsDate": 1693254108000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.99434747186353,
+                  "averageDraftPositionPercentChange": 6.075069500184327E-4,
+                  "date": 1724205903705,
+                  "leagueType": 0,
+                  "percentChange": 9.738396411169761E-4,
+                  "percentOwned": 0.0076452800940633074,
+                  "percentStarted": 0.0050089766133518225
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 3085107,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 3,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2177,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2177,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  3,
+                  4,
+                  5,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Jake",
+              "fullName": "Jake Kumerow",
+              "id": 3085107,
+              "injured": false,
+              "injuryStatus": "QUESTIONABLE",
+              "jersey": "15",
+              "lastName": "Kumerow",
+              "lastNewsDate": 1674846733000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.99677728672054,
+                  "averageDraftPositionPercentChange": -0.004311614920652573,
+                  "date": 1724205905202,
+                  "leagueType": 0,
+                  "percentChange": 1.3266983947952948E-4,
+                  "percentOwned": 0.0036907081150762792,
+                  "percentStarted": 0.0015817320493184052
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 2572861,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 2,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2178,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2178,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  2,
+                  3,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "J.D.",
+              "fullName": "J.D. McKissic",
+              "id": 2572861,
+              "injured": false,
+              "injuryStatus": "QUESTIONABLE",
+              "jersey": "23",
+              "lastName": "McKissic",
+              "lastNewsDate": 1678826549000,
+              "lastVideoDate": 1507230567000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.013924514474166361,
+                  "auctionValueAverageChange": 0.013924514474166361,
+                  "averageDraftPosition": 169.98952415284788,
+                  "averageDraftPositionPercentChange": -4.4841132245210247E-4,
+                  "date": 1724205903152,
+                  "leagueType": 0,
+                  "percentChange": 3.5782876289778415E-5,
+                  "percentOwned": 0.011599612994730085,
+                  "percentStarted": 0.005799806497365043
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 3122899,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 3,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2179,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2179,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  3,
+                  4,
+                  5,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Richie",
+              "fullName": "Richie James",
+              "id": 3122899,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "17",
+              "lastName": "James",
+              "lastNewsDate": 1705516046000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.99808944291038,
+                  "averageDraftPositionPercentChange": 0.0019105570896158497,
+                  "date": 1724205906041,
+                  "leagueType": 0,
+                  "percentChange": -0.001250000723619961,
+                  "percentOwned": 0.007644897162952301,
+                  "percentStarted": 0.0021089371484006346
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 160,
+                  "totalRanking": 460,
+                  "totalRating": 144.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 2570986,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 2,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2180,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2180,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  2,
+                  3,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Malcolm",
+              "fullName": "Malcolm Brown",
+              "id": 2570986,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "41",
+              "lastName": "Brown",
+              "lastNewsDate": 1673646530000,
+              "lastVideoDate": 1542141246000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.99201153568853,
+                  "averageDraftPositionPercentChange": -0.001029014502080372,
+                  "date": 1724205903140,
+                  "leagueType": 0,
+                  "percentChange": -0.001085069584940387,
+                  "percentOwned": 0.008699709746047564,
+                  "percentStarted": 0.003690785952868663
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 4212989,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 4,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2181,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2181,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  5,
+                  6,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Dan",
+              "fullName": "Dan Arnold",
+              "id": 4212989,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "46",
+              "lastName": "Arnold",
+              "lastNewsDate": 1693067039000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 3.661662394727206E-4,
+                  "auctionValueAverageChange": 3.661662394727206E-4,
+                  "averageDraftPosition": 169.99323739762372,
+                  "averageDraftPositionPercentChange": -0.005115045928789641,
+                  "date": 1724205909736,
+                  "leagueType": 0,
+                  "percentChange": 1.8282210748981047E-4,
+                  "percentOwned": 0.006854262560436142,
+                  "percentStarted": 0.004481633212592862
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 3046399,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 3,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2182,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2182,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  3,
+                  4,
+                  5,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Marcus",
+              "fullName": "Marcus Kemp",
+              "id": 3046399,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "19",
+              "lastName": "Kemp",
+              "lastNewsDate": 1693229840000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 7.328691828508611E-4,
+                  "auctionValueAverageChange": 7.328691828508611E-4,
+                  "averageDraftPosition": 169.99808944291038,
+                  "averageDraftPositionPercentChange": 2.5538832861116134E-4,
+                  "date": 1724205904642,
+                  "leagueType": 0,
+                  "percentChange": 7.585664347360185E-4,
+                  "percentOwned": 0.003427095141433581,
+                  "percentStarted": 0.0013181135159359924
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 2987440,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 4,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2183,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2183,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  5,
+                  6,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Garrett",
+              "fullName": "Garrett Griffin",
+              "id": 2987440,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "86",
+              "lastName": "Griffin",
+              "lastNewsDate": 1672118585000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.9919105400904,
+                  "averageDraftPositionPercentChange": -0.0014311968700724265,
+                  "date": 1724205904120,
+                  "leagueType": 0,
+                  "percentChange": 5.290769442538885E-4,
+                  "percentOwned": 0.0076452800940633074,
+                  "percentStarted": 0.002636303480711486
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 4035019,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 3,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2184,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2184,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  3,
+                  4,
+                  5,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Javon",
+              "fullName": "Javon Wims",
+              "id": 4035019,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "13",
+              "lastName": "Wims",
+              "lastNewsDate": 1693323557000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 7.323324789454412E-4,
+                  "auctionValueAverageChange": 7.323324789454412E-4,
+                  "averageDraftPosition": 169.99669081864388,
+                  "averageDraftPositionPercentChange": 6.741526885889471E-4,
+                  "date": 1724205908226,
+                  "leagueType": 0,
+                  "percentChange": 0.0012857701433923322,
+                  "percentOwned": 0.0039542988500898945,
+                  "percentStarted": 0.0018453394633752842
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 2977800,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 3,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2185,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2185,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  3,
+                  4,
+                  5,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Alex",
+              "fullName": "Alex Erickson",
+              "id": 2977800,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "82",
+              "lastName": "Erickson",
+              "lastNewsDate": 1704773562000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.9982985104757,
+                  "averageDraftPositionPercentChange": 4.965585761169677E-4,
+                  "date": 1724205903930,
+                  "leagueType": 0,
+                  "percentChange": -4.841562315974039E-5,
+                  "percentOwned": 0.0039542884257977775,
+                  "percentStarted": 0.001581715370319111
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 116,
+                  "totalRanking": 345,
+                  "totalRating": 372.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 2971718,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 3,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2186,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2186,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  3,
+                  4,
+                  5,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Marcus",
+              "fullName": "Marcus Johnson",
+              "id": 2971718,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "84",
+              "lastName": "Johnson",
+              "lastNewsDate": 1675396239000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.99494599933672,
+                  "averageDraftPositionPercentChange": 5.122777216115537E-4,
+                  "date": 1724205903672,
+                  "leagueType": 0,
+                  "percentChange": 0.001022201006279529,
+                  "percentOwned": 0.0036907178446207787,
+                  "percentStarted": 0.0018453589223103894
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 3126246,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 2,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2187,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2187,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  2,
+                  3,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Dontrell",
+              "fullName": "Dontrell Hilliard",
+              "id": 3126246,
+              "injured": false,
+              "injuryStatus": "QUESTIONABLE",
+              "jersey": "40",
+              "lastName": "Hilliard",
+              "lastNewsDate": 1689597327000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.99451341725427,
+                  "averageDraftPositionPercentChange": 2.1645562708272337E-4,
+                  "date": 1724205906268,
+                  "leagueType": 0,
+                  "percentChange": -3.4441586632198446E-4,
+                  "percentOwned": 0.006326994914677838,
+                  "percentStarted": 0.0036907470335620714
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 4294520,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 3,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2188,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2188,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  3,
+                  4,
+                  5,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Brandon",
+              "fullName": "Brandon Zylstra",
+              "id": 4294520,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "13",
+              "lastName": "Zylstra",
+              "lastNewsDate": 1667865023000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0010984987184181618,
+                  "auctionValueAverageChange": 0.0010984987184181618,
+                  "averageDraftPosition": 169.99755601695648,
+                  "averageDraftPositionPercentChange": 0.002443983043519893,
+                  "date": 1724205911745,
+                  "leagueType": 0,
+                  "percentChange": 0.0011207849978500126,
+                  "percentOwned": 0.002899796223410846,
+                  "percentStarted": 0.0018453248694432656
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 3115928,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 3,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2189,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2189,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  3,
+                  4,
+                  5,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Malik",
+              "fullName": "Malik Turner",
+              "id": 3115928,
+              "injured": false,
+              "injuryStatus": "QUESTIONABLE",
+              "jersey": "0",
+              "lastName": "Turner",
+              "lastNewsDate": 1723154444000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": -6.369426751592356E-4,
+                  "averageDraftPosition": 170.00034606317095,
+                  "averageDraftPositionPercentChange": -0.011984901670473391,
+                  "date": 1724205905378,
+                  "leagueType": 0,
+                  "percentChange": -0.0030127234031239684,
+                  "percentOwned": 0.0063267947666862615,
+                  "percentStarted": 0.003954246729178914
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 4212884,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 2,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2190,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2190,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  2,
+                  3,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Alex",
+              "fullName": "Alex Armah",
+              "id": 4212884,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "40",
+              "lastName": "Armah",
+              "lastNewsDate": 1701622267000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.99523452482228,
+                  "averageDraftPositionPercentChange": -0.003987057230489199,
+                  "date": 1724205909720,
+                  "leagueType": 0,
+                  "percentChange": -0.0011352882997362358,
+                  "percentOwned": 0.005536003796116889,
+                  "percentStarted": 0.003163430740638222
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 127,
+                  "totalRanking": 554,
+                  "totalRating": 28.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 2576450,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 2,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2191,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2191,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  2,
+                  3,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Derek",
+              "fullName": "Derek Watt",
+              "id": 2576450,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "44",
+              "lastName": "Watt",
+              "lastNewsDate": 1710257624000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": -6.373486297004461E-4,
+                  "averageDraftPosition": 169.96638812986208,
+                  "averageDraftPositionPercentChange": 0.00119661590062492,
+                  "date": 1724205903274,
+                  "leagueType": 0,
+                  "percentChange": 0.001669419556843705,
+                  "percentOwned": 0.02346279170313505,
+                  "percentStarted": 0.012654089907308791
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 3052600,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 1,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2192,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2192,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  0,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Davis",
+              "fullName": "Davis Webb",
+              "id": 3052600,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "12",
+              "lastName": "Webb",
+              "lastNewsDate": 1677373845000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.99015468121812,
+                  "averageDraftPositionPercentChange": 0.004546322941592962,
+                  "date": 1724205905002,
+                  "leagueType": 0,
+                  "percentChange": 3.3581445716127957E-4,
+                  "percentOwned": 0.009236412577354957,
+                  "percentStarted": 0.003958462533152123
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 3048897,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 3,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2193,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2193,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  3,
+                  4,
+                  5,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Pharoh",
+              "fullName": "Pharoh Cooper",
+              "id": 3048897,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "15",
+              "lastName": "Cooper",
+              "lastNewsDate": 1718062687000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 7.328691828508611E-4,
+                  "auctionValueAverageChange": 7.328691828508611E-4,
+                  "averageDraftPosition": 169.9986157473162,
+                  "averageDraftPositionPercentChange": -0.002376290741210596,
+                  "date": 1724205904719,
+                  "leagueType": 0,
+                  "percentChange": 9.235476785856246E-4,
+                  "percentOwned": 0.004481585954182374,
+                  "percentStarted": 0.002108981625497588
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 3040470,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 4,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2207,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2207,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  5,
+                  6,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Cethan",
+              "fullName": "Cethan Carter",
+              "id": 3040470,
+              "injured": false,
+              "jersey": "82",
+              "lastName": "Carter",
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.99357634132625,
+                  "averageDraftPositionPercentChange": 0.0037887346760783203,
+                  "date": 1724205904241,
+                  "leagueType": 0,
+                  "percentChange": 5.290191604260591E-4,
+                  "percentOwned": 0.007644937469683869,
+                  "percentStarted": 0.0031634224012484975
+              },
+              "proTeamId": 15,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 3125232,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 2,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2209,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2209,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  2,
+                  3,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Nick",
+              "fullName": "Nick Bawden",
+              "id": 3125232,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "48",
+              "lastName": "Bawden",
+              "lastNewsDate": 1724198792000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.9925523784805,
+                  "averageDraftPositionPercentChange": -0.0010002479754689375,
+                  "date": 1724205906202,
+                  "leagueType": 0,
+                  "percentChange": -0.006864936785007533,
+                  "percentOwned": 0.01581715370319111,
+                  "percentStarted": 0.005008765339343852
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 110,
+                  "totalRanking": 493,
+                  "totalRating": 100.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 3043841,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 3,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2210,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2210,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  3,
+                  4,
+                  5,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Tanner",
+              "fullName": "Tanner Gentry",
+              "id": 3043841,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "87",
+              "lastName": "Gentry",
+              "lastNewsDate": 1673986924000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 7.328691828508611E-4,
+                  "auctionValueAverageChange": 7.328691828508611E-4,
+                  "averageDraftPosition": 169.9989329718896,
+                  "averageDraftPositionPercentChange": -0.006493782789874558,
+                  "date": 1724205904437,
+                  "leagueType": 0,
+                  "percentChange": -0.0010204527030623564,
+                  "percentOwned": 0.003427095141433581,
+                  "percentStarted": 0.002108981625497588
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 3123986,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 3,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2219,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2219,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  3,
+                  4,
+                  5,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Mike",
+              "fullName": "Mike Thomas",
+              "id": 3123986,
+              "injured": false,
+              "injuryStatus": "QUESTIONABLE",
+              "jersey": "87",
+              "lastName": "Thomas",
+              "lastNewsDate": 1690320495000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.99772175079127,
+                  "averageDraftPositionPercentChange": 0.0014440441531746728,
+                  "date": 1724205906102,
+                  "leagueType": 0,
+                  "percentChange": 2.1514795204860201E-4,
+                  "percentOwned": 0.004217941012094946,
+                  "percentStarted": 0.0013181065662796706
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 2980077,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 2,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2223,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2223,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  2,
+                  3,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Jonathan",
+              "fullName": "Jonathan Williams",
+              "id": 2980077,
+              "injured": false,
+              "injuryStatus": "QUESTIONABLE",
+              "jersey": "18",
+              "lastName": "Williams",
+              "lastNewsDate": 1703192822000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.9941889387964,
+                  "averageDraftPositionPercentChange": -0.0037360786269289292,
+                  "date": 1724205904029,
+                  "leagueType": 0,
+                  "percentChange": -9.863894700385019E-4,
+                  "percentOwned": 0.007908785342384499,
+                  "percentStarted": 0.0039543926711922495
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 169,
+                  "totalRanking": 697,
+                  "totalRating": -2.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 3052166,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 4,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2225,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2225,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  5,
+                  6,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Darrell",
+              "fullName": "Darrell Daniels",
+              "id": 3052166,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "86",
+              "lastName": "Daniels",
+              "lastNewsDate": 1697922149000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.99628695025234,
+                  "averageDraftPositionPercentChange": 0.0016870963578412557,
+                  "date": 1724205904987,
+                  "leagueType": 0,
+                  "percentChange": 6.599617540435951E-4,
+                  "percentOwned": 0.0042180633289483046,
+                  "percentStarted": 0.0021090316644741523
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 113,
+                  "totalRanking": 605,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 2576854,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 4,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2226,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2226,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  5,
+                  6,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Stephen",
+              "fullName": "Stephen Anderson",
+              "id": 2576854,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "40",
+              "lastName": "Anderson",
+              "lastNewsDate": 1702689436000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.99516218574036,
+                  "averageDraftPositionPercentChange": 0.0014877526873533498,
+                  "date": 1724205903312,
+                  "leagueType": 0,
+                  "percentChange": 6.599886991474537E-4,
+                  "percentOwned": 0.004218074449014025,
+                  "percentStarted": 0.0028999261836971423
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 113,
+                  "totalRanking": 605,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 2972460,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 3,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2257,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2257,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  3,
+                  4,
+                  5,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Breshad",
+              "fullName": "Breshad Perriman",
+              "id": 2972460,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "9",
+              "lastName": "Perriman",
+              "lastNewsDate": 1693236115000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.99751265302592,
+                  "averageDraftPositionPercentChange": -5.316808459951972E-4,
+                  "date": 1724205903728,
+                  "leagueType": 0,
+                  "percentChange": 3.963126967781545E-4,
+                  "percentOwned": 0.003954350972374904,
+                  "percentStarted": 0.0028998573797415963
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 3135321,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 3,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2258,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2258,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  3,
+                  4,
+                  5,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Hunter",
+              "fullName": "Hunter Renfrow",
+              "id": 3135321,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "13",
+              "lastName": "Renfrow",
+              "lastNewsDate": 1710335724000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": -6.369426751592356E-4,
+                  "averageDraftPosition": 169.9883280825325,
+                  "averageDraftPositionPercentChange": -0.0031708498280806907,
+                  "date": 1724205906564,
+                  "leagueType": 0,
+                  "percentChange": -0.02782821019492382,
+                  "percentOwned": 0.10781656948237503,
+                  "percentStarted": 0.014234950494005505
+              },
+              "proTeamId": 13,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 117,
+                  "totalRanking": 347,
+                  "totalRating": 360.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 2582410,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 4,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2259,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2259,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  5,
+                  6,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Tyler",
+              "fullName": "Tyler Kroft",
+              "id": 2582410,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "82",
+              "lastName": "Kroft",
+              "lastNewsDate": 1705335228000,
+              "lastVideoDate": 1508872541000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 3.6643459142543056E-4,
+                  "auctionValueAverageChange": 3.6643459142543056E-4,
+                  "averageDraftPosition": 169.99704395850006,
+                  "averageDraftPositionPercentChange": 0.0014200652281317616,
+                  "date": 1724205903479,
+                  "leagueType": 0,
+                  "percentChange": 4.788697698393414E-4,
+                  "percentOwned": 0.004481645027351216,
+                  "percentStarted": 0.002899887958874316
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 113,
+                  "totalRanking": 605,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 3071572,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 3,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2260,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2260,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  3,
+                  4,
+                  5,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Keelan",
+              "fullName": "Keelan Cole Sr.",
+              "id": 3071572,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "84",
+              "lastName": "Cole Sr.",
+              "lastNewsDate": 1704767085000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.9947730041888,
+                  "averageDraftPositionPercentChange": 0.003267275998155128,
+                  "date": 1724205905195,
+                  "leagueType": 0,
+                  "percentChange": 0.0010060250961286057,
+                  "percentOwned": 0.00500881815617495,
+                  "percentStarted": 0.002636220082197342
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 2970726,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 4,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2261,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2261,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  5,
+                  6,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Maxx",
+              "fullName": "Maxx Williams",
+              "id": 2970726,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "87",
+              "lastName": "Williams",
+              "lastNewsDate": 1671053641000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": 0.0,
+                  "averageDraftPosition": 169.9894303491734,
+                  "averageDraftPositionPercentChange": 0.002585010996085657,
+                  "date": 1724205903572,
+                  "leagueType": 0,
+                  "percentChange": 7.927072923250367E-4,
+                  "percentOwned": 0.007908910442134456,
+                  "percentStarted": 0.004218085569138377
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      },
+      {
+          "draftAuctionValue": 0,
+          "id": 2979590,
+          "keeperValue": 0,
+          "keeperValueFuture": 0,
+          "lineupLocked": true,
+          "onTeamId": 0,
+          "player": {
+              "active": true,
+              "defaultPositionId": 4,
+              "draftRanksByRankType": {
+                  "STANDARD": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2262,
+                      "rankSourceId": 0,
+                      "rankType": "STANDARD",
+                      "slotId": 0
+                  },
+                  "PPR": {
+                      "auctionValue": 0,
+                      "published": false,
+                      "rank": 2262,
+                      "rankSourceId": 0,
+                      "rankType": "PPR",
+                      "slotId": 0
+                  }
+              },
+              "droppable": true,
+              "eligibleSlots": [
+                  5,
+                  6,
+                  23,
+                  7,
+                  20,
+                  21
+              ],
+              "firstName": "Jesse",
+              "fullName": "Jesse James",
+              "id": 2979590,
+              "injured": false,
+              "injuryStatus": "ACTIVE",
+              "jersey": "88",
+              "lastName": "James",
+              "lastNewsDate": 1700617811000,
+              "lastVideoDate": 1505159253000,
+              "ownership": {
+                  "activityLevel": null,
+                  "auctionValueAverage": 0.0,
+                  "auctionValueAverageChange": -0.0012738853503184713,
+                  "averageDraftPosition": 169.99480890273182,
+                  "averageDraftPositionPercentChange": 0.004515779471574888,
+                  "date": 1724205903986,
+                  "leagueType": 0,
+                  "percentChange": -6.079424473099141E-4,
+                  "percentOwned": 0.006063498005636417,
+                  "percentStarted": 0.0034271945249249314
+              },
+              "proTeamId": 0,
+              "stats": [
+                  {
+                      "appliedAverage": 0.0,
+                      "appliedTotal": 0.0,
+                      "externalId": "2024",
+                      "id": "102024",
+                      "proTeamId": 0,
+                      "scoringPeriodId": 0,
+                      "seasonId": 2024,
+                      "statSourceId": 1,
+                      "statSplitTypeId": 0,
+                      "stats": {}
+                  }
+              ]
+          },
+          "ratings": {
+              "0": {
+                  "positionalRanking": 0,
+                  "totalRanking": 0,
+                  "totalRating": 0.0
+              }
+          },
+          "rosterLocked": true,
+          "status": "FREEAGENT",
+          "tradeLocked": false
+      }
+  ],
+  "positionAgainstOpponent": {
+      "positionalRatings": {
+          "16": {
+              "average": 0.0,
+              "ratingsByOpponent": {}
+          },
+          "1": {
+              "average": 0.0,
+              "ratingsByOpponent": {}
+          },
+          "2": {
+              "average": 0.0,
+              "ratingsByOpponent": {}
+          },
+          "3": {
+              "average": 0.0,
+              "ratingsByOpponent": {}
+          },
+          "4": {
+              "average": 0.0,
+              "ratingsByOpponent": {}
+          },
+          "5": {
+              "average": 0.0,
+              "ratingsByOpponent": {}
+          }
+      }
+  }
+}
