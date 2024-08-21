@@ -42,7 +42,7 @@ const teamNameMapping = {
   25: 'San Francisco 49ers',
   26: 'Seattle Seahawks',
   27: 'Tampa Bay Buccaneers',
-  28: 'Washington Redskins',
+  28: 'Washington Commanders',
   29: 'Carolina Panthers',
   30: 'Jacksonville Jaguars',
   33: 'Baltimore Ravens',
