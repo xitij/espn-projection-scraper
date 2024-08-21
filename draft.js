@@ -1,6 +1,6 @@
 const Parser = require('./src/draft-parser');
 
-const parser = new Parser('draft.csv', '2021');
+const parser = new Parser('draft.csv', '2023');
 
 (async () => {
   try {
