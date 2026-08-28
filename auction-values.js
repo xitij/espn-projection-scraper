@@ -91,7 +91,7 @@ function interpolateLookup(table, rank) {
 }
 
 function loadElBoberto() {
-  const dir = path.join(ROOT, 'src/projections/2026');
+  const dir = path.join(ROOT, `src/projections/${YEAR}`);
   const files = [
     { file: 'el-boberto-QB-Raw.csv', pos: 'QB' },
     { file: 'el-boberto-RB-Raw.csv', pos: 'RB' },
@@ -144,7 +144,7 @@ function loadElBoberto() {
 }
 
 function loadFantasyPoints() {
-  const dir = path.join(ROOT, 'src/projections/2026');
+  const dir = path.join(ROOT, `src/projections/${YEAR}`);
   const files = [
     { file: 'fantasy-points-qb-projections.season.csv', pos: 'QB', kind: 'qb' },
     { file: 'fantasy-points-rb-projections.season.csv', pos: 'RB', kind: 'skill' },
@@ -191,7 +191,7 @@ function loadFantasyPoints() {
 }
 
 function espnProjectionStats(player) {
-  const block = (player.stats || []).find((s) => s.id === '102026')
+  const block = (player.stats || []).find((s) => s.id === `10${YEAR}`)
     || (player.stats || []).find((s) => s.statSourceId === 1 && s.scoringPeriodId === 0);
   if (!block || !block.stats) return emptyStats();
   const stats = emptyStats();
@@ -301,7 +301,7 @@ function mergeProjections(elBoberto, fantasyPoints, espn) {
 }
 
 function loadRanks() {
-  const file = path.join(ROOT, 'src/ranks/2026-ranks.csv');
+  const file = path.join(ROOT, `src/ranks/${YEAR}-ranks.csv`);
   const rows = parseCsv(read(file));
   const header = rows[0].map((h) => h.trim());
   const col = (name) => header.indexOf(name);
@@ -795,8 +795,9 @@ function attachMarket(players, market) {
       p.marketPos = p.modelDollars;
       return;
     }
-    p.marketOverall = interpolateLookup(market.overall, p.draftRank);
+    p.marketOverall = p.draftRank == null ? 0 : interpolateLookup(market.overall, p.draftRank);
     p.marketPos = interpolateLookup(market.byPos[p.pos], p.posRank);
+    if (p.marketOverall == null) p.marketOverall = 0;
   });
 }
 
@@ -814,7 +815,7 @@ function fmt(n, digits = 1) {
 function writeValuesCsv(players, outPath) {
   const headers = [
     'Rank', 'Player', 'Team', 'Pos', 'Pos Rank', 'My Rank', 'Tier',
-    'Consensus Pos Rank', 'Consensus Pts',
+    'Consensus Pos Rank', 'Rank Difference', 'Consensus Pts',
     'League Pts', 'VBD', 'Model $', 'VOLS $', 'Drafted $',
     'Market $ (pos rank)', 'Market $ (overall rank)', 'Market $ (consensus pos rank)',
     'Surplus vs Pos', 'Surplus vs Overall', 'Consensus Market Surplus',
@@ -825,7 +826,7 @@ function writeValuesCsv(players, outPath) {
   const lines = [headers.join(',')];
   players.forEach((p) => {
     const marketPos = p.marketPos == null ? '' : Math.round(p.marketPos);
-    const marketOverall = p.marketOverall == null ? '' : Math.round(p.marketOverall);
+    const marketOverall = Math.round(p.marketOverall == null ? 0 : p.marketOverall);
     const marketConsensus = p.consensusMarketPos == null ? '' : Math.round(p.consensusMarketPos);
     const surplusPos = marketPos === '' ? '' : p.modelDollars - marketPos;
     const surplusOverall = marketOverall === '' ? '' : p.modelDollars - marketOverall;
@@ -839,6 +840,7 @@ function writeValuesCsv(players, outPath) {
       p.myRank == null ? '' : p.myRank,
       p.tier == null ? '' : p.tier,
       p.consensusPosRank == null ? '' : p.consensusPosRank,
+      (p.myRank == null || p.consensusPosRank == null) ? '' : p.consensusPosRank - p.myRank,
       p.consensusPoints == null ? fmt(p.points, 1) : fmt(p.consensusPoints, 1),
       fmt(p.points, 1),
       fmt(p.vbd, 1),
@@ -1081,9 +1083,9 @@ function main() {
     }
   });
 
-  const valuesPath = path.join(ROOT, 'src/2026-auction-values.csv');
-  const marketPath = path.join(ROOT, 'src/2026-market-curves.csv');
-  const moversPath = path.join(ROOT, 'src/2026-movers.csv');
+  const valuesPath = path.join(ROOT, `src/${YEAR}-auction-values.csv`);
+  const marketPath = path.join(ROOT, `src/${YEAR}-market-curves.csv`);
+  const moversPath = path.join(ROOT, `src/${YEAR}-movers.csv`);
   writeValuesCsv(players, valuesPath);
   writeMarketCsv(market, marketPath);
   writeMoversCsv(players, moversPath);
