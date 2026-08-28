@@ -7,8 +7,8 @@ const appendFile = promisify(fs.appendFile);
 const writeFile = promisify(fs.writeFile);
 
 // Edit this depending on the year
-const LAST_PAGE_NUM = 18;
-const SCTID_PROJECTION_ID = '102020';
+const LAST_PAGE_NUM = 12;
+const SCTID_PROJECTION_ID = '102026';
 const TOTAL_AUCTION_DOLLARS = 12 * 250;
 
 class ProjectionsParser {
