@@ -5,7 +5,8 @@
   "repository": "git@github.com:xitij/espn-projection-scraper.git",
   "license": "ISC",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "auction": "node auction-values.js"
   },
   "dependencies": {
   }
